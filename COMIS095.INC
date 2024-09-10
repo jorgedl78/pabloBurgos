@@ -1,0 +1,3 @@
+  MODULE('COMIS095.CLW')
+VALORES                PROCEDURE
+  END

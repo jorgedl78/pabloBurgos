@@ -1,0 +1,18 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=3948175869
++CurrentKey=BCO:POR_CODIGO
+ENV File Path=
+OEM=0
+Record Order=Record Order
+BCO:POR_NOMBRE=BCO:POR_NOMBRE
+BCO:POR_CODIGO=BCO:POR_CODIGO
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+CODIGO=43L(2)~Codigo~C(0)?Codigo:
+DENOMINACION=78L(2)~Denominacion~C(0)?Denominacion:
+CUIT=28L(2)~Cuit~C(0)?Cuit:
+Columns=4
+Column1=RECORD NUMBER
+Column2=CODIGO
+Column3=DENOMINACION
+Column4=CUIT

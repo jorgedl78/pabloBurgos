@@ -1,0 +1,3 @@
+  MODULE('COMIS126.CLW')
+CITIVentas             PROCEDURE
+  END

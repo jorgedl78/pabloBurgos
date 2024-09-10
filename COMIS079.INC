@@ -1,0 +1,3 @@
+  MODULE('COMIS079.CLW')
+UpdateGUIAS3           PROCEDURE
+  END

@@ -1,0 +1,3 @@
+  MODULE('COMIS034.CLW')
+UpdateVISITAS          PROCEDURE
+  END

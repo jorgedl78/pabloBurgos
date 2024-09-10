@@ -1,0 +1,15 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=2752860817
++CurrentKey=DIA:Por_Codigo
+ENV File Path=
+OEM=0
+Record Order=Record Order
+DIA:Por_Codigo=DIA:Por_Codigo
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+Codigo=43R(2)~Codigo~C(0)@N3@?Codigo:
+Descripcion=66L(2)~Descripcion~C(0)?Descripcion:
+Columns=3
+Column1=RECORD NUMBER
+Column2=CODIGO
+Column3=DESCRIPCION

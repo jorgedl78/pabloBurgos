@@ -1,0 +1,3 @@
+  MODULE('COMIS052.CLW')
+COMPRAS                PROCEDURE
+  END

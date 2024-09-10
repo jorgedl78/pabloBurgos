@@ -1,0 +1,3 @@
+  MODULE('COMIS002.CLW')
+CLIENTES               PROCEDURE
+  END

@@ -1,0 +1,3 @@
+  MODULE('COMIS037.CLW')
+WinHojaRutaDistribuidor PROCEDURE
+  END

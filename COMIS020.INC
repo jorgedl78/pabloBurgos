@@ -1,0 +1,3 @@
+  MODULE('COMIS020.CLW')
+UpdateCATIVA           PROCEDURE
+  END

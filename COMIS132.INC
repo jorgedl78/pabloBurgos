@@ -1,0 +1,3 @@
+  MODULE('COMIS132.CLW')
+Leer_Respuesta_RECE    PROCEDURE
+  END

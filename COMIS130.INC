@@ -1,0 +1,3 @@
+  MODULE('COMIS130.CLW')
+Lee_FECompUltimoAutorizado FUNCTION(),STRING
+  END

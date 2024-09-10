@@ -1,0 +1,22 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=3486742679
++CurrentKey=ITFAC:POR_ITEM
+ENV File Path=
+OEM=0
+Record Order=Record Order
+ITFAC:POR_FACTURA=ITFAC:POR_FACTURA
+ITFAC:POR_ITEM=ITFAC:POR_ITEM
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+REGFACTURA=63R(2)~Regfactura~C(0)@N-13@?Regfactura:
+ITEM=30R(2)~Item~C(0)@N-13@?Item:
+CANTIDAD=52D(18)~Cantidad~C(0)@N-8.2@?Cantidad:
+DESCRIPCION=66L(2)~Descripcion~C(0)?Descripcion:
+IMPORTE=192D(18)~Importe~C(0)@N-8.2@?Importe:
+Columns=6
+Column1=RECORD NUMBER
+Column2=REGFACTURA
+Column3=CANTIDAD
+Column4=DESCRIPCION
+Column5=IMPORTE
+Column6=ITEM

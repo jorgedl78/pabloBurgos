@@ -1,0 +1,3 @@
+  MODULE('COMIS088.CLW')
+UpdateVALORES          PROCEDURE
+  END

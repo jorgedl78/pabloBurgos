@@ -1,0 +1,3 @@
+  MODULE('COMIS124.CLW')
+SubdiarioIVACompras    PROCEDURE
+  END

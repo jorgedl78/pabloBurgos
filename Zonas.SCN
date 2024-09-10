@@ -1,0 +1,16 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=3878665308
++CurrentKey=ZON:POR_NOMBRE
+ENV File Path=
+OEM=0
+Record Order=Record Order
+ZON:POR_CODIGO=ZON:POR_CODIGO
+ZON:POR_NOMBRE=ZON:POR_NOMBRE
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+CODZONA=52R(2)~Codzona~C(0)@N3@?Codzona:
+NOMBRE=47L(2)~Nombre~C(0)?Nombre:
+Columns=3
+Column1=RECORD NUMBER
+Column2=CODZONA
+Column3=NOMBRE

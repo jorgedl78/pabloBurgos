@@ -1,0 +1,3 @@
+  MODULE('COMIS036.CLW')
+SelectDESTINO          PROCEDURE
+  END

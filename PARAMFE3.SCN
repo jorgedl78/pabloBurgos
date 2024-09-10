@@ -1,0 +1,27 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=2857739802
++CurrentKey=PARFE3:PARAMETROSFE_X_ID
+ENV File Path=
+OEM=0
+Record Order=Record Order
+PARFE3:PARAMETROSFE_X_ID=PARFE3:PARAMETROSFE_X_ID
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+IDPARAMETROSFE=80R(2)~Idparametrosfe~C(0)@N-13@?Idparametrosfe:
+CERTIFICADO=112L(2)~Certificado~C(0)?Certificado:
+CLAVE=37L(2)~Clave~C(0)?Clave:
+CUIP=31L(2)~Cuip~C(0)?Cuip:
+PUESTO=43R(2)~Puesto~C(0)@N-13@?Puesto:
+F=16R(2)~F~C(0)@N-13@?F:
+NC=24R(2)~Nc~C(0)@N-13@?Nc:
+ND=24R(2)~Nd~C(0)@N-13@?Nd:
+Columns=9
+Column1=RECORD NUMBER
+Column2=IDPARAMETROSFE
+Column3=CERTIFICADO
+Column4=CLAVE
+Column5=CUIP
+Column6=PUESTO
+Column7=F
+Column8=NC
+Column9=ND

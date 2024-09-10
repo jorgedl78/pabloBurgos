@@ -1,0 +1,2911 @@
+  401900      B87 Code                ABBREAK_TEXT
+  402488     656E Code                ABBROWSE_TEXT
+  4089F8     1A28 Code                ABDROPS_TEXT
+  40A420     13DE Code                ABEIP_TEXT
+  40B800     32AE Code                ABERROR_TEXT
+  40EAB0     83FA Code                ABFILE_TEXT
+  416EAC      249 Code                ABFUZZY_TEXT
+  4170F8     21AF Code                ABPOPUP_TEXT
+  4192A8     26F7 Code                ABQUERY_TEXT
+  41B9A0     5904 Code                ABREPORT_TEXT
+  4212A4     1E58 Code                ABRESIZE_TEXT
+  4230FC       5E Code                ABRPATMG_TEXT
+  42315C      9F8 Code                ABRPPSEL_TEXT
+  423B54      A4C Code                ABTOOLBA_TEXT
+  4245A0     2EA8 Code                ABUTIL_TEXT
+  427448     2353 Code                ABWINDOW_TEXT
+  42979C     5781 Code                ABWMFPAR_TEXT
+  42EF20      B0D Code                COMIS001_TEXT
+  42FA30     1729 Code                COMIS002_TEXT
+  43115C     1946 Code                COMIS003_TEXT
+  432AA4      925 Code                COMIS004_TEXT
+  4333CC      9A4 Code                COMIS005_TEXT
+  433D70      9DB Code                COMIS006_TEXT
+  43474C      B11 Code                COMIS007_TEXT
+  435260       40 Code                COMIS008_TEXT
+  4352A0      BF9 Code                COMIS009_TEXT
+  435E9C      8F1 Code                COMIS010_TEXT
+  436790      8EA Code                COMIS011_TEXT
+  43707C      A3C Code                COMIS012_TEXT
+  437AB8     1BB4 Code                COMIS013_TEXT
+  43966C      930 Code                COMIS014_TEXT
+  439F9C      938 Code                COMIS015_TEXT
+  43A8D4      A44 Code                COMIS016_TEXT
+  43B318     2E15 Code                COMIS017_TEXT
+  43E130      859 Code                COMIS018_TEXT
+  43E98C     10D9 Code                COMIS019_TEXT
+  43FA68     10B4 Code                COMIS021_TEXT
+  440B1C      DB1 Code                COMIS022_TEXT
+  4418D0      CA4 Code                COMIS023_TEXT
+  442574      4C6 Code                COMIS024_TEXT
+  442A3C      522 Code                COMIS025_TEXT
+  442F60      4D2 Code                COMIS026_TEXT
+  443434     193D Code                COMIS027_TEXT
+  444D74     77FE Code                COMIS028_TEXT
+  44C574      D31 Code                COMIS029_TEXT
+  44D2A8      8D6 Code                COMIS030_TEXT
+  44DB80      BAF Code                COMIS031_TEXT
+  44E730      BDA Code                COMIS032_TEXT
+  44F30C      D0C Code                COMIS033_TEXT
+  450018      B71 Code                COMIS034_TEXT
+  450B8C     12D7 Code                COMIS035_TEXT
+  451E64      9A3 Code                COMIS036_TEXT
+  452808      6D0 Code                COMIS037_TEXT
+  452ED8      CE6 Code                COMIS038_TEXT
+  453BC0      530 Code                COMIS039_TEXT
+  4540F0      CBB Code                COMIS040_TEXT
+  454DAC      AB0 Code                COMIS041_TEXT
+  45585C      54B Code                COMIS042_TEXT
+  455DA8      5B4 Code                COMIS043_TEXT
+  45635C      63D Code                COMIS044_TEXT
+  45699C      8E6 Code                COMIS045_TEXT
+  457284      9A3 Code                COMIS046_TEXT
+  457C28      9CD Code                COMIS047_TEXT
+  4585F8      88A Code                COMIS048_TEXT
+  458E84      AA3 Code                COMIS049_TEXT
+  459928     13DD Code                COMIS050_TEXT
+  45AD08      9D5 Code                COMIS051_TEXT
+  45B6E0     1047 Code                COMIS052_TEXT
+  45C728      9F7 Code                COMIS053_TEXT
+  45D120      C6D Code                COMIS054_TEXT
+  45DD90      595 Code                COMIS055_TEXT
+  45E328      5B4 Code                COMIS056_TEXT
+  45E8DC      881 Code                COMIS057_TEXT
+  45F160      BA7 Code                COMIS058_TEXT
+  45FD08      715 Code                COMIS059_TEXT
+  460420      B61 Code                COMIS060_TEXT
+  460F84      709 Code                COMIS061_TEXT
+  461690      C17 Code                COMIS062_TEXT
+  4622A8      4BE Code                COMIS063_TEXT
+  462768      4C6 Code                COMIS064_TEXT
+  462C30      503 Code                COMIS065_TEXT
+  463134      B72 Code                COMIS066_TEXT
+  463CA8       40 Code                COMIS067_TEXT
+  463CE8      4FE Code                COMIS069_TEXT
+  4641E8      A0D Code                COMIS070_TEXT
+  464BF8      715 Code                COMIS071_TEXT
+  465310      B98 Code                COMIS072_TEXT
+  465EA8      531 Code                COMIS073_TEXT
+  4663DC      531 Code                COMIS074_TEXT
+  466910      AE2 Code                COMIS075_TEXT
+  4673F4      503 Code                COMIS076_TEXT
+  4678F8     1125 Code                COMIS077_TEXT
+  468A20     1946 Code                COMIS078_TEXT
+  46A368     2E15 Code                COMIS079_TEXT
+  46D180      531 Code                COMIS080_TEXT
+  46D6B4      C6D Code                COMIS081_TEXT
+  46E324      B2A Code                COMIS082_TEXT
+  46EE50     18C9 Code                COMIS083_TEXT
+  47071C      EC4 Code                COMIS084_TEXT
+  4715E0      158 Code                COMIS085_TEXT
+  471738     171F Code                COMIS086_TEXT
+  472E58     2723 Code                COMIS087_TEXT
+  47557C      F9D Code                COMIS088_TEXT
+  47651C     1254 Code                COMIS089_TEXT
+  477770      ED6 Code                COMIS090_TEXT
+  478648      833 Code                COMIS091_TEXT
+  478E7C     1ACF Code                COMIS092_TEXT
+  47A94C      930 Code                COMIS093_TEXT
+  47B27C      A03 Code                COMIS094_TEXT
+  47BC80     1C8A Code                COMIS095_TEXT
+  47D90C     171F Code                COMIS096_TEXT
+  47F02C     1ACF Code                COMIS097_TEXT
+  480AFC     274B Code                COMIS098_TEXT
+  483248      DE8 Code                COMIS099_TEXT
+  484030      771 Code                COMIS100_TEXT
+  4847A4      75D Code                COMIS101_TEXT
+  484F04      7C8 Code                COMIS102_TEXT
+  4856CC      715 Code                COMIS103_TEXT
+  485DE4      BCC Code                COMIS104_TEXT
+  4869B0      700 Code                COMIS105_TEXT
+  4870B0     1E2E Code                COMIS106_TEXT
+  488EE0      54C Code                COMIS107_TEXT
+  48942C      67F Code                COMIS108_TEXT
+  489AAC     12A8 Code                COMIS109_TEXT
+  48AD54      F80 Code                COMIS110_TEXT
+  48BCD4      FD3 Code                COMIS111_TEXT
+  48CCA8      DAD Code                COMIS112_TEXT
+  48DA58      714 Code                COMIS114_TEXT
+  48E16C      ACE Code                COMIS115_TEXT
+  48EC3C      A0D Code                COMIS116_TEXT
+  48F64C      4FE Code                COMIS117_TEXT
+  48FB4C      86B Code                COMIS118_TEXT
+  4903B8      C58 Code                COMIS119_TEXT
+  491010      7CB Code                COMIS120_TEXT
+  4917DC     2759 Code                COMIS121_TEXT
+  493F38      C9C Code                COMIS123_TEXT
+  494BD4      D5E Code                COMIS124_TEXT
+  495934      AC9 Code                COMIS125_TEXT
+  496400     1E86 Code                COMIS126_TEXT
+  498288      A91 Code                COMIS127_TEXT
+  498D1C      C78 Code                COMIS128_TEXT
+  499994       CC Code                COMIS129_TEXT
+  499A60      5B2 Code                COMIS130_TEXT
+  49A014      512 Code                COMIS131_TEXT
+  49A528      7F6 Code                COMIS132_TEXT
+  49AD20       40 Code                COMIS133_TEXT
+  49AD60       40 Code                COMIS134_TEXT
+  49ADA0     17F6 Code                COMIS135_TEXT
+  49C598     2D39 Code                COMIS137_TEXT
+  49F2D4      45D Code                COMIS138_TEXT
+  49F734     4F44 Code                COMIS139_TEXT
+  4A4678     1383 Code                COMIS140_TEXT
+  4A59FC     4DF8 Code                COMISBC0_TEXT
+  4AA7F4     464E Code                COMISBC1_TEXT
+  4AEE44       29 Code                COMISBC_TEXT
+  4AEE70      117 Code                COMISION_TEXT
+  4AEF88       E6 Code                CWSYNCHC_TEXT
+  4AF070     17BA Code                EFOCUS_TEXT
+  4B082C       2D Code                IEXE32_TEXT
+  4B085C     20DC Code                INIT_TEXT
+  4B2938       37 Code                INST00_TEXT
+  4B3000       70 Initialized Data    ABBREAK_CONST
+  4B3070      278 Initialized Data    ABBROWSE_CONST
+  4B32E8      F08 Initialized Data    ABBROWSE_DATA
+  4B41F0       9C Initialized Data    ABDROPS_CONST
+  4B428C      204 Initialized Data    ABDROPS_DATA
+  4B4490       A6 Initialized Data    ABEIP_CONST
+  4B4538       AC Initialized Data    ABEIP_DATA
+  4B45E4      814 Initialized Data    ABERROR_CONST
+  4B4DF8     1CC0 Initialized Data    ABERROR_DATA
+  4B6AB8      CD9 Initialized Data    ABFILE_CONST
+  4B7794      68F Initialized Data    ABFILE_DATA
+  4B7E24       B4 Initialized Data    ABFUZZY_DATA
+  4B7ED8      11C Initialized Data    ABPOPUP_CONST
+  4B7FF4      120 Initialized Data    ABPOPUP_DATA
+  4B8114      281 Initialized Data    ABQUERY_CONST
+  4B8398       87 Initialized Data    ABQUERY_DATA
+  4B8420      2BA Initialized Data    ABREPORT_CONST
+  4B86DC      86C Initialized Data    ABREPORT_DATA
+  4B8F48      14D Initialized Data    ABRESIZE_CONST
+  4B9098      23F Initialized Data    ABRESIZE_DATA
+  4B92D8       44 Initialized Data    ABRPATMG_DATA
+  4B931C      125 Initialized Data    ABRPPSEL_CONST
+  4B9444       A3 Initialized Data    ABRPPSEL_DATA
+  4B94E8       4D Initialized Data    ABTOOLBA_CONST
+  4B9538      398 Initialized Data    ABTOOLBA_DATA
+  4B98D0      22F Initialized Data    ABUTIL_CONST
+  4B9B00      25D Initialized Data    ABUTIL_DATA
+  4B9D60       59 Initialized Data    ABWINDOW_CONST
+  4B9DBC       9B Initialized Data    ABWINDOW_DATA
+  4B9E58      208 Initialized Data    ABWMFPAR_CONST
+  4BA060      E45 Initialized Data    ABWMFPAR_DATA
+  4BAEA8       8E Initialized Data    COMIS001_CONST
+  4BAF38      28C Initialized Data    COMIS001_DATA
+  4BB1C4       36 Initialized Data    COMIS002_CONST
+  4BB1FC      997 Initialized Data    COMIS002_DATA
+  4BBB94      1A2 Initialized Data    COMIS003_CONST
+  4BBD38      F75 Initialized Data    COMIS003_DATA
+  4BCCB0       32 Initialized Data    COMIS004_CONST
+  4BCCE4      8B3 Initialized Data    COMIS004_DATA
+  4BD598       2E Initialized Data    COMIS005_CONST
+  4BD5C8      8C3 Initialized Data    COMIS005_DATA
+  4BDE8C       32 Initialized Data    COMIS006_CONST
+  4BDEC0      7B8 Initialized Data    COMIS006_DATA
+  4BE678       32 Initialized Data    COMIS007_CONST
+  4BE6AC      7ED Initialized Data    COMIS007_DATA
+  4BEE9C        B Initialized Data    COMIS008_DATA
+  4BEEA8       36 Initialized Data    COMIS009_CONST
+  4BEEE0      7E3 Initialized Data    COMIS009_DATA
+  4BF6C4       32 Initialized Data    COMIS010_CONST
+  4BF6F8      8DC Initialized Data    COMIS010_DATA
+  4BFFD4       36 Initialized Data    COMIS011_CONST
+  4C000C      8D0 Initialized Data    COMIS011_DATA
+  4C08DC       32 Initialized Data    COMIS012_CONST
+  4C0910      8C3 Initialized Data    COMIS012_DATA
+  4C11D4       E2 Initialized Data    COMIS013_CONST
+  4C12B8      B3B Initialized Data    COMIS013_DATA
+  4C1DF4       36 Initialized Data    COMIS014_CONST
+  4C1E2C      8DF Initialized Data    COMIS014_DATA
+  4C270C       3A Initialized Data    COMIS015_CONST
+  4C2748      8CB Initialized Data    COMIS015_DATA
+  4C3014       36 Initialized Data    COMIS016_CONST
+  4C304C      8C6 Initialized Data    COMIS016_DATA
+  4C3914      192 Initialized Data    COMIS017_CONST
+  4C3AA8      E83 Initialized Data    COMIS017_DATA
+  4C492C       6A Initialized Data    COMIS018_CONST
+  4C4998      2AC Initialized Data    COMIS018_DATA
+  4C4C44       6E Initialized Data    COMIS019_CONST
+  4C4CB4      5E7 Initialized Data    COMIS019_DATA
+  4C529C       76 Initialized Data    COMIS021_CONST
+  4C5314      5E7 Initialized Data    COMIS021_DATA
+  4C58FC       8E Initialized Data    COMIS022_CONST
+  4C598C      9ED Initialized Data    COMIS022_DATA
+  4C637C       8A Initialized Data    COMIS023_CONST
+  4C6408      610 Initialized Data    COMIS023_DATA
+  4C6A18       2E Initialized Data    COMIS024_CONST
+  4C6A48      28C Initialized Data    COMIS024_DATA
+  4C6CD4       2E Initialized Data    COMIS025_CONST
+  4C6D04      28C Initialized Data    COMIS025_DATA
+  4C6F90       2E Initialized Data    COMIS026_CONST
+  4C6FC0      28C Initialized Data    COMIS026_DATA
+  4C724C      346 Initialized Data    COMIS027_CONST
+  4C7594      C54 Initialized Data    COMIS027_DATA
+  4C81E8      98E Initialized Data    COMIS028_CONST
+  4C8B78     2094 Initialized Data    COMIS028_DATA
+  4CAC0C       BA Initialized Data    COMIS029_CONST
+  4CACC8      600 Initialized Data    COMIS029_DATA
+  4CB2C8       62 Initialized Data    COMIS030_CONST
+  4CB32C      2AC Initialized Data    COMIS030_DATA
+  4CB5D8       52 Initialized Data    COMIS031_CONST
+  4CB62C      82F Initialized Data    COMIS031_DATA
+  4CBE5C       52 Initialized Data    COMIS032_CONST
+  4CBEB0      506 Initialized Data    COMIS032_DATA
+  4CC3B8       9A Initialized Data    COMIS033_CONST
+  4CC454      807 Initialized Data    COMIS033_DATA
+  4CCC5C       66 Initialized Data    COMIS034_CONST
+  4CCCC4      2AC Initialized Data    COMIS034_DATA
+  4CCF70      382 Initialized Data    COMIS035_CONST
+  4CD2F4      5E8 Initialized Data    COMIS035_DATA
+  4CD8DC       36 Initialized Data    COMIS036_CONST
+  4CD914      8C6 Initialized Data    COMIS036_DATA
+  4CE1DC       3A Initialized Data    COMIS037_CONST
+  4CE218      28C Initialized Data    COMIS037_DATA
+  4CE4A4       CE Initialized Data    COMIS038_CONST
+  4CE574      614 Initialized Data    COMIS038_DATA
+  4CEB88       36 Initialized Data    COMIS039_CONST
+  4CEBC0      28C Initialized Data    COMIS039_DATA
+  4CEE4C       BE Initialized Data    COMIS040_CONST
+  4CEF0C      608 Initialized Data    COMIS040_DATA
+  4CF514       E6 Initialized Data    COMIS041_CONST
+  4CF5FC      5DC Initialized Data    COMIS041_DATA
+  4CFBD8       86 Initialized Data    COMIS042_CONST
+  4CFC60      28C Initialized Data    COMIS042_DATA
+  4CFEEC       66 Initialized Data    COMIS043_CONST
+  4CFF54      28C Initialized Data    COMIS043_DATA
+  4D01E0       82 Initialized Data    COMIS044_CONST
+  4D0264      28C Initialized Data    COMIS044_DATA
+  4D04F0       6A Initialized Data    COMIS045_CONST
+  4D055C      3C4 Initialized Data    COMIS045_DATA
+  4D0920       36 Initialized Data    COMIS046_CONST
+  4D0958      8C6 Initialized Data    COMIS046_DATA
+  4D1220       32 Initialized Data    COMIS047_CONST
+  4D1254      5C7 Initialized Data    COMIS047_DATA
+  4D181C       62 Initialized Data    COMIS048_CONST
+  4D1880      2AC Initialized Data    COMIS048_DATA
+  4D1B2C       32 Initialized Data    COMIS049_CONST
+  4D1B60      7EC Initialized Data    COMIS049_DATA
+  4D234C       EA Initialized Data    COMIS050_CONST
+  4D2438      5E7 Initialized Data    COMIS050_DATA
+  4D2A20       36 Initialized Data    COMIS051_CONST
+  4D2A58      5C7 Initialized Data    COMIS051_DATA
+  4D3020       EA Initialized Data    COMIS052_CONST
+  4D310C      881 Initialized Data    COMIS052_DATA
+  4D3990       3A Initialized Data    COMIS053_CONST
+  4D39CC      8CA Initialized Data    COMIS053_DATA
+  4D4298       B2 Initialized Data    COMIS054_CONST
+  4D434C      600 Initialized Data    COMIS054_DATA
+  4D494C       2A Initialized Data    COMIS055_CONST
+  4D4978      28C Initialized Data    COMIS055_DATA
+  4D4C04       66 Initialized Data    COMIS056_CONST
+  4D4C6C      28C Initialized Data    COMIS056_DATA
+  4D4EF8       5E Initialized Data    COMIS057_CONST
+  4D4F58      5E4 Initialized Data    COMIS057_DATA
+  4D553C       FE Initialized Data    COMIS058_CONST
+  4D563C      5F8 Initialized Data    COMIS058_DATA
+  4D5C34       3E Initialized Data    COMIS059_CONST
+  4D5C74      28C Initialized Data    COMIS059_DATA
+  4D5F00      24E Initialized Data    COMIS060_CONST
+  4D6150      28C Initialized Data    COMIS060_DATA
+  4D63DC       32 Initialized Data    COMIS061_CONST
+  4D6410      28C Initialized Data    COMIS061_DATA
+  4D669C       92 Initialized Data    COMIS062_CONST
+  4D6730      5E0 Initialized Data    COMIS062_DATA
+  4D6D10       36 Initialized Data    COMIS063_CONST
+  4D6D48      28C Initialized Data    COMIS063_DATA
+  4D6FD4       2E Initialized Data    COMIS064_CONST
+  4D7004      28C Initialized Data    COMIS064_DATA
+  4D7290       36 Initialized Data    COMIS065_CONST
+  4D72C8      28C Initialized Data    COMIS065_DATA
+  4D7554       7E Initialized Data    COMIS066_CONST
+  4D75D4      5DC Initialized Data    COMIS066_DATA
+  4D7BB0        5 Initialized Data    COMIS067_DATA
+  4D7BB8       3E Initialized Data    COMIS069_CONST
+  4D7BF8      28C Initialized Data    COMIS069_DATA
+  4D7E84       D6 Initialized Data    COMIS070_CONST
+  4D7F5C      5F8 Initialized Data    COMIS070_DATA
+  4D8554       3A Initialized Data    COMIS071_CONST
+  4D8590      28C Initialized Data    COMIS071_DATA
+  4D881C       72 Initialized Data    COMIS072_CONST
+  4D8890      5E4 Initialized Data    COMIS072_DATA
+  4D8E74       32 Initialized Data    COMIS073_CONST
+  4D8EA8      28C Initialized Data    COMIS073_DATA
+  4D9134       32 Initialized Data    COMIS074_CONST
+  4D9168      28C Initialized Data    COMIS074_DATA
+  4D93F4       7A Initialized Data    COMIS075_CONST
+  4D9470      5DC Initialized Data    COMIS075_DATA
+  4D9A4C       36 Initialized Data    COMIS076_CONST
+  4D9A84      28C Initialized Data    COMIS076_DATA
+  4D9D10       8A Initialized Data    COMIS077_CONST
+  4D9D9C      5FC Initialized Data    COMIS077_DATA
+  4DA398      1A2 Initialized Data    COMIS078_CONST
+  4DA53C      F75 Initialized Data    COMIS078_DATA
+  4DB4B4      192 Initialized Data    COMIS079_CONST
+  4DB648      E83 Initialized Data    COMIS079_DATA
+  4DC4CC       32 Initialized Data    COMIS080_CONST
+  4DC500      28C Initialized Data    COMIS080_DATA
+  4DC78C       B2 Initialized Data    COMIS081_CONST
+  4DC840      600 Initialized Data    COMIS081_DATA
+  4DCE40      15E Initialized Data    COMIS082_CONST
+  4DCFA0      28C Initialized Data    COMIS082_DATA
+  4DD22C      24A Initialized Data    COMIS083_CONST
+  4DD478      BCD Initialized Data    COMIS083_DATA
+  4DE048       6E Initialized Data    COMIS084_CONST
+  4DE0B8      600 Initialized Data    COMIS084_DATA
+  4DE6B8       4F Initialized Data    COMIS085_DATA
+  4DE708      1D2 Initialized Data    COMIS086_CONST
+  4DE8DC      B4F Initialized Data    COMIS086_DATA
+  4DF42C      322 Initialized Data    COMIS087_CONST
+  4DF750     131B Initialized Data    COMIS087_DATA
+  4E0A6C       8A Initialized Data    COMIS088_CONST
+  4E0AF8      3C4 Initialized Data    COMIS088_DATA
+  4E0EBC       32 Initialized Data    COMIS089_CONST
+  4E0EF0      B0E Initialized Data    COMIS089_DATA
+  4E1A00       3A Initialized Data    COMIS090_CONST
+  4E1A3C      A66 Initialized Data    COMIS090_DATA
+  4E24A4       8E Initialized Data    COMIS091_CONST
+  4E2534      28C Initialized Data    COMIS091_DATA
+  4E27C0      3BE Initialized Data    COMIS092_CONST
+  4E2B80      5E8 Initialized Data    COMIS092_DATA
+  4E3168       32 Initialized Data    COMIS093_CONST
+  4E319C      8C8 Initialized Data    COMIS093_DATA
+  4E3A64       2E Initialized Data    COMIS094_CONST
+  4E3A94      7B0 Initialized Data    COMIS094_DATA
+  4E4244       46 Initialized Data    COMIS095_CONST
+  4E428C      F70 Initialized Data    COMIS095_DATA
+  4E51FC      1D2 Initialized Data    COMIS096_CONST
+  4E53D0      B4F Initialized Data    COMIS096_DATA
+  4E5F20      3BE Initialized Data    COMIS097_CONST
+  4E62E0      5E8 Initialized Data    COMIS097_DATA
+  4E68C8      322 Initialized Data    COMIS098_CONST
+  4E6BEC     131B Initialized Data    COMIS098_DATA
+  4E7F08       9A Initialized Data    COMIS099_CONST
+  4E7FA4      82F Initialized Data    COMIS099_DATA
+  4E87D4       D6 Initialized Data    COMIS100_CONST
+  4E88AC      28C Initialized Data    COMIS100_DATA
+  4E8B38       D6 Initialized Data    COMIS101_CONST
+  4E8C10      28C Initialized Data    COMIS101_DATA
+  4E8E9C       EE Initialized Data    COMIS102_CONST
+  4E8F8C      28C Initialized Data    COMIS102_DATA
+  4E9218       32 Initialized Data    COMIS103_CONST
+  4E924C      28C Initialized Data    COMIS103_DATA
+  4E94D8       62 Initialized Data    COMIS104_CONST
+  4E953C      5E4 Initialized Data    COMIS104_DATA
+  4E9B20       3A Initialized Data    COMIS105_CONST
+  4E9B5C      3A4 Initialized Data    COMIS105_DATA
+  4E9F00       9A Initialized Data    COMIS106_CONST
+  4E9F9C      C8E Initialized Data    COMIS106_DATA
+  4EAC2C       36 Initialized Data    COMIS107_CONST
+  4EAC64      28C Initialized Data    COMIS107_DATA
+  4EAEF0       3E Initialized Data    COMIS108_CONST
+  4EAF30      28C Initialized Data    COMIS108_DATA
+  4EB1BC       2E Initialized Data    COMIS109_CONST
+  4EB1EC      F3F Initialized Data    COMIS109_DATA
+  4EC12C       6E Initialized Data    COMIS110_CONST
+  4EC19C      6FF Initialized Data    COMIS110_DATA
+  4EC89C       36 Initialized Data    COMIS111_CONST
+  4EC8D4      BCE Initialized Data    COMIS111_DATA
+  4ED4A4       72 Initialized Data    COMIS112_CONST
+  4ED518      6FF Initialized Data    COMIS112_DATA
+  4EDC18       42 Initialized Data    COMIS114_CONST
+  4EDC5C      28C Initialized Data    COMIS114_DATA
+  4EDEE8       DA Initialized Data    COMIS115_CONST
+  4EDFC4      5F8 Initialized Data    COMIS115_DATA
+  4EE5BC       C2 Initialized Data    COMIS116_CONST
+  4EE680      5F8 Initialized Data    COMIS116_DATA
+  4EEC78       3E Initialized Data    COMIS117_CONST
+  4EECB8      28C Initialized Data    COMIS117_DATA
+  4EEF44      12A Initialized Data    COMIS118_CONST
+  4EF070      28C Initialized Data    COMIS118_DATA
+  4EF2FC       56 Initialized Data    COMIS119_CONST
+  4EF354      28C Initialized Data    COMIS119_DATA
+  4EF5E0       36 Initialized Data    COMIS120_CONST
+  4EF618      28C Initialized Data    COMIS120_DATA
+  4EF8A4       EE Initialized Data    COMIS121_CONST
+  4EF994      620 Initialized Data    COMIS121_DATA
+  4EFFB4       CA Initialized Data    COMIS123_CONST
+  4F0080      5EC Initialized Data    COMIS123_DATA
+  4F066C       86 Initialized Data    COMIS124_CONST
+  4F06F4      614 Initialized Data    COMIS124_DATA
+  4F0D08       7E Initialized Data    COMIS125_CONST
+  4F0D88      5E0 Initialized Data    COMIS125_DATA
+  4F1368      43E Initialized Data    COMIS126_CONST
+  4F17A8      28C Initialized Data    COMIS126_DATA
+  4F1A34      17E Initialized Data    COMIS127_CONST
+  4F1BB4      28C Initialized Data    COMIS127_DATA
+  4F1E40      15E Initialized Data    COMIS128_CONST
+  4F1FA0      28C Initialized Data    COMIS128_DATA
+  4F222C        D Initialized Data    COMIS129_CONST
+  4F223C       C6 Initialized Data    COMIS130_CONST
+  4F2304      28C Initialized Data    COMIS130_DATA
+  4F2590       8E Initialized Data    COMIS131_CONST
+  4F2620      28C Initialized Data    COMIS131_DATA
+  4F28AC      1D6 Initialized Data    COMIS132_CONST
+  4F2A84      28C Initialized Data    COMIS132_DATA
+  4F2D10       21 Initialized Data    COMIS133_DATA
+  4F2D34       27 Initialized Data    COMIS134_DATA
+  4F2D5C      122 Initialized Data    COMIS135_CONST
+  4F2E80      604 Initialized Data    COMIS135_DATA
+  4F3484      51E Initialized Data    COMIS137_CONST
+  4F39A4      28C Initialized Data    COMIS137_DATA
+  4F3C30       D6 Initialized Data    COMIS138_CONST
+  4F3D08      28C Initialized Data    COMIS138_DATA
+  4F3F94      416 Initialized Data    COMIS139_CONST
+  4F43AC     1BFC Initialized Data    COMIS139_DATA
+  4F5FA8       9E Initialized Data    COMIS140_CONST
+  4F6048      604 Initialized Data    COMIS140_DATA
+  4F664C      481 Initialized Data    COMISBC0_CONST
+  4F6AD0     4380 Initialized Data    COMISBC0_DATA
+  4FAE50      447 Initialized Data    COMISBC1_CONST
+  4FB298     3960 Initialized Data    COMISBC1_DATA
+  4FEBF8      A00 Initialized Data    COMISION_CONST
+  4FF5F8     1A88 Initialized Data    COMISION_DATA
+  501080       48 Initialized Data    CWSYNCHC_DATA
+  5010C8        E Initialized Data    CWUTIL_CONST
+  5010D8       36 Initialized Data    CWUTIL_DATA
+  501110      21C Initialized Data    EFOCUS_DATA
+  50132C       3C Initialized Data    IEXE32_DATA
+  501368        0 Initialized Data    __CPPINI_CONS
+  501368     120C Initialized Data    __CPPINI_CONST
+  502574        4 Initialized Data    __CPPINI_END
+  502578        0 Initialized Data    __INIVMT_CONS
+  502578      B88 Initialized Data    __INIVMT_CONST
+  503100        0 Initialized Data    __INIVMT_CONST_END
+  503100       40 Un-initialized Data ABEIP_BSS
+  503140      404 Un-initialized Data ABERROR_BSS
+  503544       10 Un-initialized Data ABFILE_BSS
+  503554        4 Un-initialized Data ABFUZZY_BSS
+  503558      104 Un-initialized Data ABUTIL_BSS
+  50365C        0 Un-initialized Data ABWMFPAR_BSS
+  50365C        4 Un-initialized Data COMIS001_BSS
+  503660        4 Un-initialized Data COMIS002_BSS
+  503664        4 Un-initialized Data COMIS003_BSS
+  503668        4 Un-initialized Data COMIS004_BSS
+  50366C        4 Un-initialized Data COMIS005_BSS
+  503670        4 Un-initialized Data COMIS006_BSS
+  503674        4 Un-initialized Data COMIS007_BSS
+  503678        4 Un-initialized Data COMIS009_BSS
+  50367C        4 Un-initialized Data COMIS010_BSS
+  503680        4 Un-initialized Data COMIS011_BSS
+  503684        4 Un-initialized Data COMIS012_BSS
+  503688        4 Un-initialized Data COMIS013_BSS
+  50368C        4 Un-initialized Data COMIS014_BSS
+  503690        4 Un-initialized Data COMIS015_BSS
+  503694        4 Un-initialized Data COMIS016_BSS
+  503698        4 Un-initialized Data COMIS017_BSS
+  50369C        4 Un-initialized Data COMIS018_BSS
+  5036A0        4 Un-initialized Data COMIS019_BSS
+  5036A4        4 Un-initialized Data COMIS021_BSS
+  5036A8        4 Un-initialized Data COMIS022_BSS
+  5036AC        4 Un-initialized Data COMIS023_BSS
+  5036B0        4 Un-initialized Data COMIS024_BSS
+  5036B4        4 Un-initialized Data COMIS025_BSS
+  5036B8        4 Un-initialized Data COMIS026_BSS
+  5036BC        4 Un-initialized Data COMIS027_BSS
+  5036C0        4 Un-initialized Data COMIS028_BSS
+  5036C4        4 Un-initialized Data COMIS029_BSS
+  5036C8        4 Un-initialized Data COMIS030_BSS
+  5036CC        4 Un-initialized Data COMIS031_BSS
+  5036D0        4 Un-initialized Data COMIS032_BSS
+  5036D4        4 Un-initialized Data COMIS033_BSS
+  5036D8        4 Un-initialized Data COMIS034_BSS
+  5036DC        4 Un-initialized Data COMIS035_BSS
+  5036E0        4 Un-initialized Data COMIS036_BSS
+  5036E4        4 Un-initialized Data COMIS037_BSS
+  5036E8        4 Un-initialized Data COMIS038_BSS
+  5036EC        4 Un-initialized Data COMIS039_BSS
+  5036F0        4 Un-initialized Data COMIS040_BSS
+  5036F4        4 Un-initialized Data COMIS041_BSS
+  5036F8        4 Un-initialized Data COMIS042_BSS
+  5036FC        4 Un-initialized Data COMIS043_BSS
+  503700        4 Un-initialized Data COMIS044_BSS
+  503704        4 Un-initialized Data COMIS045_BSS
+  503708        4 Un-initialized Data COMIS046_BSS
+  50370C        4 Un-initialized Data COMIS047_BSS
+  503710        4 Un-initialized Data COMIS048_BSS
+  503714        4 Un-initialized Data COMIS049_BSS
+  503718        4 Un-initialized Data COMIS050_BSS
+  50371C        4 Un-initialized Data COMIS051_BSS
+  503720        4 Un-initialized Data COMIS052_BSS
+  503724        4 Un-initialized Data COMIS053_BSS
+  503728        4 Un-initialized Data COMIS054_BSS
+  50372C        4 Un-initialized Data COMIS055_BSS
+  503730        4 Un-initialized Data COMIS056_BSS
+  503734        4 Un-initialized Data COMIS057_BSS
+  503738        4 Un-initialized Data COMIS058_BSS
+  50373C        4 Un-initialized Data COMIS059_BSS
+  503740        4 Un-initialized Data COMIS060_BSS
+  503744        4 Un-initialized Data COMIS061_BSS
+  503748        4 Un-initialized Data COMIS062_BSS
+  50374C        4 Un-initialized Data COMIS063_BSS
+  503750        4 Un-initialized Data COMIS064_BSS
+  503754        4 Un-initialized Data COMIS065_BSS
+  503758        4 Un-initialized Data COMIS066_BSS
+  50375C        4 Un-initialized Data COMIS069_BSS
+  503760        4 Un-initialized Data COMIS070_BSS
+  503764        4 Un-initialized Data COMIS071_BSS
+  503768        4 Un-initialized Data COMIS072_BSS
+  50376C        4 Un-initialized Data COMIS073_BSS
+  503770        4 Un-initialized Data COMIS074_BSS
+  503774        4 Un-initialized Data COMIS075_BSS
+  503778        4 Un-initialized Data COMIS076_BSS
+  50377C        4 Un-initialized Data COMIS077_BSS
+  503780        4 Un-initialized Data COMIS078_BSS
+  503784        4 Un-initialized Data COMIS079_BSS
+  503788        4 Un-initialized Data COMIS080_BSS
+  50378C        4 Un-initialized Data COMIS081_BSS
+  503790        4 Un-initialized Data COMIS082_BSS
+  503794        4 Un-initialized Data COMIS083_BSS
+  503798        4 Un-initialized Data COMIS084_BSS
+  50379C        4 Un-initialized Data COMIS086_BSS
+  5037A0        4 Un-initialized Data COMIS087_BSS
+  5037A4        4 Un-initialized Data COMIS088_BSS
+  5037A8        4 Un-initialized Data COMIS089_BSS
+  5037AC        4 Un-initialized Data COMIS090_BSS
+  5037B0        4 Un-initialized Data COMIS091_BSS
+  5037B4        4 Un-initialized Data COMIS092_BSS
+  5037B8        4 Un-initialized Data COMIS093_BSS
+  5037BC        4 Un-initialized Data COMIS094_BSS
+  5037C0        4 Un-initialized Data COMIS095_BSS
+  5037C4        4 Un-initialized Data COMIS096_BSS
+  5037C8        4 Un-initialized Data COMIS097_BSS
+  5037CC        4 Un-initialized Data COMIS098_BSS
+  5037D0        4 Un-initialized Data COMIS099_BSS
+  5037D4        4 Un-initialized Data COMIS100_BSS
+  5037D8        4 Un-initialized Data COMIS101_BSS
+  5037DC        4 Un-initialized Data COMIS102_BSS
+  5037E0        4 Un-initialized Data COMIS103_BSS
+  5037E4        4 Un-initialized Data COMIS104_BSS
+  5037E8        4 Un-initialized Data COMIS105_BSS
+  5037EC        4 Un-initialized Data COMIS106_BSS
+  5037F0        4 Un-initialized Data COMIS107_BSS
+  5037F4        4 Un-initialized Data COMIS108_BSS
+  5037F8        4 Un-initialized Data COMIS109_BSS
+  5037FC        4 Un-initialized Data COMIS110_BSS
+  503800        4 Un-initialized Data COMIS111_BSS
+  503804        4 Un-initialized Data COMIS112_BSS
+  503808        4 Un-initialized Data COMIS114_BSS
+  50380C        4 Un-initialized Data COMIS115_BSS
+  503810        4 Un-initialized Data COMIS116_BSS
+  503814        4 Un-initialized Data COMIS117_BSS
+  503818        4 Un-initialized Data COMIS118_BSS
+  50381C        4 Un-initialized Data COMIS119_BSS
+  503820        4 Un-initialized Data COMIS120_BSS
+  503824        4 Un-initialized Data COMIS121_BSS
+  503828        4 Un-initialized Data COMIS123_BSS
+  50382C        4 Un-initialized Data COMIS124_BSS
+  503830        4 Un-initialized Data COMIS125_BSS
+  503834        4 Un-initialized Data COMIS126_BSS
+  503838        4 Un-initialized Data COMIS127_BSS
+  50383C        4 Un-initialized Data COMIS128_BSS
+  503840        4 Un-initialized Data COMIS130_BSS
+  503844        4 Un-initialized Data COMIS131_BSS
+  503848        4 Un-initialized Data COMIS132_BSS
+  50384C        4 Un-initialized Data COMIS135_BSS
+  503850        4 Un-initialized Data COMIS137_BSS
+  503854        4 Un-initialized Data COMIS138_BSS
+  503858        4 Un-initialized Data COMIS139_BSS
+  50385C        4 Un-initialized Data COMIS140_BSS
+  503860     38B0 Un-initialized Data COMISION_BSS
+  507110        0 Un-initialized Data CWUTIL_BSS
+  508000        8 __T_L_S__DAT
+  508008     2E9C __T_L_S__DATA
+  50AEA4        0 __T_L_S__DATA_END
+  50AEB0        0 __T_L_S__BS
+  50AEB0    155DC __T_L_S__BSS
+  52048C        0 __T_L_S__BSS_END
+
+  401900 EVALUATELEVEL@F17LEVELMANAGERCLASSs
+  4019B8 RESTORERESETBUFFER@F17LEVELMANAGERCLASSs
+  401A5C SAVERESETBUFFER@F17LEVELMANAGERCLASSs
+  401B28 RESTOREBUFFEROFF@F17LEVELMANAGERCLASS
+  401BA4 RESTOREBUFFERON@F17LEVELMANAGERCLASS
+  401C38 SAVEBUFFER@F17LEVELMANAGERCLASS
+  401CB0 REFRESHFIELDS@F17LEVELMANAGERCLASSs
+  401E08 RESETTOTALS@F17LEVELMANAGERCLASSs
+  401F14 ASKLEVELOFF@F17LEVELMANAGERCLASSs
+  402024 ASKLEVELON@F17LEVELMANAGERCLASSs
+  4020C0 ASKLEVEL@F17LEVELMANAGERCLASSUc
+  4021C8 RESET@F17LEVELMANAGERCLASS
+  402394 ASKBREAK@F17BREAKMANAGERCLASSUc
+  402414 RESET@F17BREAKMANAGERCLASS
+  402488 KILL_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  4024A8 RESET_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENTUc
+  4024D4 RESETREQUIRED_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  4024F4 SETALERTS_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  402514 TAKEEVENT_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  402538 UPDATE_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  402558 UPDATEWINDOW_@_WINDOWCOMPONENT_@_BROWSECLASS@F15WINDOWCOMPONENT
+  402578 UPDATEWINDOW@F11BROWSECLASS
+  4027BC UPDATEVIEWRECORD@F11BROWSECLASS
+  4028E0 UPDATETOOLBARBUTTONS@F11BROWSECLASS
+  4029A4 UPDATETHUMBFIXED@F11BROWSECLASS
+  402B24 UPDATETHUMB@F11BROWSECLASS
+  402DE8 UPDATERESETS@F11BROWSECLASS
+  402E08 UPDATEBUFFER@F11BROWSECLASS
+  402E5C TAKEVCRSCROLL@F11BROWSECLASSl
+  402F50 TAKESCROLL@F11BROWSECLASSl
+  402FEC TAKENEWSELECTION@F11BROWSECLASS
+  40318C TAKELOCATE@F11BROWSECLASS
+  40343C TAKEKEY@F11BROWSECLASS
+  40368C TAKEEVENT@F11BROWSECLASS
+  403F08 TAKECHOICECHANGED@F11BROWSECLASS
+  403F78 TAKEACCEPTEDLOCATOR@F11BROWSECLASS
+  404084 SETUSEPOPUP@F11BROWSECLASSUc
+  4040A4 SETSORT@F11BROWSECLASSUcUc
+  404224 SETQUEUERECORD@F11BROWSECLASS
+  40425C SETALERTS@F11BROWSECLASS
+  4047A0 SCROLLPAGE@F11BROWSECLASSl
+  404960 SCROLLONE@F11BROWSECLASSl
+  4049F0 SCROLLEND@F11BROWSECLASSl
+  404A90 RESETTHUMBLIMITS@F11BROWSECLASS
+  404B9C RESETSORT@F11BROWSECLASSUc
+  404BD8 RESETRESETS@F11BROWSECLASS
+  404CD8 RESETQUEUE@F11BROWSECLASSUc
+  4051A8 RESETFROMVIEW@F11BROWSECLASS
+  4051F4 RESETFROMFILE@F11BROWSECLASS
+  40522C RESETFROMBUFFER@F11BROWSECLASS
+  405410 RESETFROMASK@F11BROWSECLASSRUcRUc
+  40563C RECORDS@F11BROWSECLASS
+  4056B8 PREVIOUS@F11BROWSECLASS
+  405708 POSTNEWSELECTION@F11BROWSECLASS
+  405784 NOTIFYUPDATEERROR@F11BROWSECLASS
+  4057B4 NEXT@F11BROWSECLASS
+  405804 KILL@F11BROWSECLASS
+  405AD4 INITSORT@F11BROWSECLASSUc
+  405B3C INIT@F11BROWSECLASS12ILISTCONTROLBi11BROWSEQUEUE15RELATIONMANAGER13WINDOWMANAGER
+  405C9C INIT@F11BROWSECLASSlRsbBiBq15RELATIONMANAGER13WINDOWMANAGER
+  405D28 FETCH@F11BROWSECLASSUc
+  405F14 CHECKEIP@F11BROWSECLASS
+  40602C ASKRECORD@F11BROWSECLASSUc
+  406058 ASK@F11BROWSECLASSUc
+  40612C APPLYRANGE@F11BROWSECLASS
+  4061C8 ADDTOOLBARTARGET@F11BROWSECLASS12TOOLBARCLASS
+  406244 ADDSORTORDER@F11BROWSECLASS9STEPCLASSBk
+  4062F4 ADDLOCATOR@F11BROWSECLASS12LOCATORCLASS
+  406328 ADDFIELD@F11BROWSECLASSRsbRsb
+  40639C ADDFIELD@F11BROWSECLASSRlRl
+  406408 ADDFIELD@F11BROWSECLASSRuRu
+  406460 ADDEDITCONTROL@F11BROWSECLASS9EDITCLASSlUc
+  4064A0 RECORDS_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  4064B8 INSERT_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  4064D0 INSERT_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUEl
+  4064F4 FETCH_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUEl
+  406518 UPDATE_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  406530 DELETE_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  406548 FREE_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  406560 WHO_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUEl
+  406588 GETVIEWPOSITION_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUE
+  4065AC SETVIEWPOSITION_@_BROWSEQUEUE_@_STANDARDBEHAVIOR@F11BROWSEQUEUEsb
+  4065E8 CHOICE_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROL
+  406600 GETCONTROL_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROL
+  406614 GETITEMS_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROL
+  406650 GETVISIBLE_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROL
+  40668C SETCHOICE_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROLl
+  4066E4 SETCONTROL_@_ILISTCONTROL_@_STANDARDBEHAVIOR@F12ILISTCONTROLl
+  406704 INIT@F16STANDARDBEHAVIORBqRsbl
+  406754 TAKENEWSELECTION@F16BROWSEEIPMANAGER
+  40680C TAKECOMPLETED@F16BROWSEEIPMANAGERUc
+  406A68 KILL@F16BROWSEEIPMANAGER
+  406AB0 INIT@F16BROWSEEIPMANAGER
+  406F74 CLEARCOLUMN@F16BROWSEEIPMANAGER
+  406FDC UPDATEWINDOW@F18FILTERLOCATORCLASS
+  407388 TAKEACCEPTED@F18FILTERLOCATORCLASS
+  4073E8 RESET@F18FILTERLOCATORCLASS
+  4073F4 TAKEKEY@F23INCREMENTALLOCATORCLASS
+  407528 SETALERTS@F23INCREMENTALLOCATORCLASSl
+  40758C UPDATEWINDOW@F17ENTRYLOCATORCLASS
+  4075AC UPDATE@F17ENTRYLOCATORCLASS
+  4076C4 TAKEKEY@F17ENTRYLOCATORCLASS
+  40772C TAKEACCEPTED@F17ENTRYLOCATORCLASS
+  407800 SETSHADOW@F17ENTRYLOCATORCLASSsb
+  407838 SET@F17ENTRYLOCATORCLASS
+  4078B4 GETSHADOW@F17ENTRYLOCATORCLASS
+  4078D0 INIT@F17ENTRYLOCATORCLASSlRuUc
+  407970 TAKEKEY@F16STEPLOCATORCLASS
+  407BAC SET@F16STEPLOCATORCLASS
+  407BB8 INIT@F16STEPLOCATORCLASSlRuUc
+  407C28 UPDATEWINDOW@F12LOCATORCLASS
+  407C44 TAKEACCEPTED@F12LOCATORCLASS
+  407C54 SETSHADOW@F12LOCATORCLASSsb
+  407C70 SETENABLED@F12LOCATORCLASSUc
+  407CC8 SETALERTS@F12LOCATORCLASSl
+  407CDC SETLOCATORFIELD@F12LOCATORCLASSRu
+  407D40 SET@F12LOCATORCLASS
+  407D78 RESET@F12LOCATORCLASS
+  407D84 INIT@F12LOCATORCLASSlRuUc11BROWSECLASS
+  407DE0 INIT@F12LOCATORCLASSlRuUc
+  407E24 GETSHADOW@F12LOCATORCLASS
+  407E48 DESTRUCT@F12LOCATORCLASS
+  407E68 UNHASH@F15STEPSTRINGCLASSl
+  407F14 SETLIMITNEEDED@F15STEPSTRINGCLASS
+  407F38 SETLIMIT@F15STEPSTRINGCLASSuu
+  408260 KILL@F15STEPSTRINGCLASS
+  4082A0 INIT@F15STEPSTRINGCLASSUcUc
+  4084B4 HASH@F15STEPSTRINGCLASSsb
+  40857C GETVALUE@F15STEPSTRINGCLASSUc
+  4085F0 GETPERCENTILE@F15STEPSTRINGCLASSu
+  40874C SETLIMIT@F13STEPLONGCLASSuu
+  408834 GETVALUE@F13STEPLONGCLASSUc
+  4088A8 GETPERCENTILE@F13STEPLONGCLASSu
+  408960 SETLIMITNEEDED@F9STEPCLASS
+  408970 SETLIMIT@F9STEPCLASSuu
+  40898C KILL@F9STEPCLASS
+  408998 INIT@F9STEPCLASSUc
+  4089B8 GETVALUE@F9STEPCLASSUc
+  4089E0 GETPERCENTILE@F9STEPCLASSu
+  4089F8 CASEINSENSITIVECOMPARE@FRgRg
+  408AEC CASESENSITIVECOMPARE@FRgRg
+  408BB8 UNIQUEPOSITION@F18FILEDROPCOMBOCLASS
+  408BE8 TAKEEVENT@F18FILEDROPCOMBOCLASS
+  408DA4 TAKENEWSELECTION@F18FILEDROPCOMBOCLASSl
+  4091C8 TAKENEWSELECTION@F18FILEDROPCOMBOCLASS
+  4091F0 TAKEACCEPTED@F18FILEDROPCOMBOCLASS
+  4093EC RESETFROMITEM@F18FILEDROPCOMBOCLASSl
+  409478 RESETFROMLIST@F18FILEDROPCOMBOCLASS
+  409560 RESETQUEUE@F18FILEDROPCOMBOCLASSUc
+  409620 KEYVALID@F18FILEDROPCOMBOCLASS
+  409698 KILL@F18FILEDROPCOMBOCLASS
+  4096C0 INIT@F18FILEDROPCOMBOCLASSRulRsbBiBq15RELATIONMANAGER13WINDOWMANAGER10ERRORCLASSUcUcUc
+  409788 GETQUEUEMATCH@F18FILEDROPCOMBOCLASSsb
+  409904 BUFFERMATCHES@F18FILEDROPCOMBOCLASS
+  4099E0 ASK@F18FILEDROPCOMBOCLASS
+  409A9C ADDRECORD@F18FILEDROPCOMBOCLASS
+  409B0C KILL_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409B2C RESET_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENTUc
+  409B60 RESETREQUIRED_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409B80 SETALERTS_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409B8C TAKEEVENT_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409BD8 UPDATE_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409BE4 UPDATEWINDOW_@_WINDOWCOMPONENT_@_FILEDROPCLASS@F15WINDOWCOMPONENT
+  409BF0 VALIDATERECORD@F13FILEDROPCLASS
+  409C04 TAKENEWSELECTION@F13FILEDROPCLASSl
+  409CF0 TAKENEWSELECTION@F13FILEDROPCLASS
+  409D18 TAKEEVENT@F13FILEDROPCLASS
+  409D7C TAKEACCEPTED@F13FILEDROPCLASS
+  409D88 SETQUEUERECORD@F13FILEDROPCLASS
+  409DC0 RESETQUEUE@F13FILEDROPCLASSUc
+  40A050 KILL@F13FILEDROPCLASS
+  40A0B8 INIT@F13FILEDROPCLASSlRsbBiBq15RELATIONMANAGER13WINDOWMANAGER
+  40A2B8 BUFFERMATCHES@F13FILEDROPCLASS
+  40A33C ADDUPDATEFIELD@F13FILEDROPCLASSRuRu
+  40A394 ADDRECORD@F13FILEDROPCLASS
+  40A3C8 ADDFIELD@F13FILEDROPCLASSRuRu
+  40A420 TAKENEWSELECTION@F10EIPMANAGER
+  40A49C TAKEFOCUSLOSS@F10EIPMANAGER
+  40A514 TAKEFIELDEVENT@F10EIPMANAGER
+  40A650 TAKEEVENT@F10EIPMANAGER
+  40A6EC TAKECOMPLETED@F10EIPMANAGERUc
+  40A748 TAKEACTION@F10EIPMANAGERl
+  40AA9C TAKEACCEPTALL@F10EIPMANAGER
+  40AC0C RUN@F10EIPMANAGERUc
+  40ACC4 RESETCOLUMN@F10EIPMANAGER
+  40AD8C GETEDIT@F10EIPMANAGER
+  40ADF4 NEXT@F10EIPMANAGER
+  40AF44 KILL@F10EIPMANAGER
+  40B0D8 INITCONTROLS@F10EIPMANAGER
+  40B328 INIT@F10EIPMANAGER
+  40B3CC CLEARCOLUMN@F10EIPMANAGER
+  40B424 ADDCONTROL@F10EIPMANAGER9EDITCLASSlUc
+  40B4C8 CREATECONTROL@F14EDITENTRYCLASS
+  40B4FC TAKEEVENT@F9EDITCLASSl
+  40B558 TAKEACCEPTED@F9EDITCLASSUc
+  40B580 SETREADONLY@F9EDITCLASSUc
+  40B5E0 SETALERTS@F9EDITCLASS
+  40B6E8 KILL@F9EDITCLASS
+  40B72C INIT@F9EDITCLASSllRu
+  40B800 REPLACE@FsbsbRsc
+  40B914 KILL_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B920 RESET_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENTUc
+  40B934 RESETREQUIRED_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B944 SETALERTS_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B950 TAKEEVENT_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B970 UPDATE_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B97C UPDATEWINDOW_@_WINDOWCOMPONENT_@_HISTHANDLERCLASS@F15WINDOWCOMPONENT
+  40B99C VLBPROC@F16HISTHANDLERCLASSls
+  40BA88 TAKEEVENT@F16HISTHANDLERCLASS
+  40BB58 INIT@F16HISTHANDLERCLASSBw10ERRORCLASS16ERRORHISTORYLIST
+  40BB90 _VLBPROC@F16HISTHANDLERCLASSls
+  40BBC8 TAKEACCEPTED@F11MSGBOXCLASS
+  40BC18 SETUPADDITIONALFEQS@F11MSGBOXCLASS
+  40BCA8 KILL@F11MSGBOXCLASS
+  40BCFC INIT@F11MSGBOXCLASS
+  40BFCC INIT@F11MSGBOXCLASSBw10ERRORCLASSOsbllll
+  40C084 FETCHSTDBUTTON@F11MSGBOXCLASSs
+  40C0D8 GETALLSTATUSVARIABLES@F10ERRORCLASS16ERRORSTATUSGROUP
+  40C14C GETERRORBUFFERFATALITY@F10ERRORCLASS
+  40C1B4 GETERRORBUFFERTITLE@F10ERRORCLASS
+  40C224 GETERRORBUFFERID@F10ERRORCLASS
+  40C280 SETMESSAGETEXT@F10ERRORCLASSsb
+  40C300 SETKEYNAME@F10ERRORCLASSsb
+  40C380 SETFIELDNAME@F10ERRORCLASSsb
+  40C3FC SETFILENAME@F10ERRORCLASSsb
+  40C47C STOREERRORENTRY@F10ERRORCLASSUs
+  40C600 GETHISTORYRESETONVIEW@F10ERRORCLASS
+  40C650 SETHISTORYRESETONVIEW@F10ERRORCLASSUc
+  40C6A8 GETHISTORYVIEWLEVEL@F10ERRORCLASS
+  40C6F8 SETHISTORYVIEWLEVEL@F10ERRORCLASSl
+  40C750 GETHISTORYTHRESHOLD@F10ERRORCLASS
+  40C7A0 SETHISTORYTHRESHOLD@F10ERRORCLASSl
+  40C7F8 GETLOGERRORS@F10ERRORCLASS
+  40C848 GETSILENT@F10ERRORCLASS
+  40C898 SETDEFAULTCATEGORY@F10ERRORCLASSsa
+  40C8F0 GETDEFAULTCATEGORY@F10ERRORCLASS
+  40C940 VIEWHISTORY@F10ERRORCLASS
+  40C9A0 THROWMESSAGE@F10ERRORCLASSssb
+  40C9F0 THROW@F10ERRORCLASSs
+  40CA1C TAKEUSER@F10ERRORCLASS
+  40CA88 TAKEPROGRAM@F10ERRORCLASS
+  40CAA4 TAKEOTHER@F10ERRORCLASS
+  40CAC0 TAKENOTIFY@F10ERRORCLASS
+  40CB1C TAKEFATAL@F10ERRORCLASS
+  40CBA8 TAKEERROR@F10ERRORCLASSs
+  40CD84 TAKEBENIGN@F10ERRORCLASS
+  40CD94 SUBSSTRING@F10ERRORCLASS
+  40D174 SETPROCEDURENAME@F10ERRORCLASSOsb
+  40D250 GETERRORENTRY@F10ERRORCLASSUs15ERRORENTRYGROUPl
+  40D2FC GETERRORENTRY@F10ERRORCLASSUs15ERRORENTRYGROUP
+  40D360 SETID@F10ERRORCLASSUsl
+  40D3E0 SETID@F10ERRORCLASSUs
+  40D440 SETKEY@F10ERRORCLASSsb
+  40D478 SETFILE@F10ERRORCLASSsb
+  40D4B0 SETFIELD@F10ERRORCLASSsb
+  40D4E8 SETERRORS@F10ERRORCLASS
+  40D5A8 SETERRORLOG@F10ERRORCLASS17ERRORLOGINTERFACE
+  40D688 SETCATEGORY@F10ERRORCLASSssa
+  40D720 RESETHISTORY@F10ERRORCLASS
+  40D784 REMOVEERROR@F10ERRORCLASSUs
+  40D820 MESSAGEBOX@F10ERRORCLASSUcsbOsbOsblll
+  40D8A8 MSG@F10ERRORCLASSsbOsbOsblll
+  40DC54 MESSAGE@F10ERRORCLASSsll
+  40DCE8 KILL@F10ERRORCLASS
+  40DDB4 INIT@F10ERRORCLASS16ERRORSTATUSCLASS
+  40DE20 INIT@F10ERRORCLASS
+  40DF44 HISTORYMSG@F10ERRORCLASSsblll
+  40E100 GETPROCEDURENAME@F10ERRORCLASS
+  40E238 GETCATEGORY@F10ERRORCLASSs
+  40E2E8 ADDHISTORY@F10ERRORCLASS
+  40E374 ADDERRORS@F10ERRORCLASS10ERRORBLOCK
+  40E544 ADDERROR@F10ERRORCLASSUsRsbRsbUcsa
+  40E664 DESTRUCT@F10ERRORCLASS
+  40E68C CONSTRUCT@F10ERRORCLASS
+  40E6B0 DESTRUCT@F16ERRORSTATUSCLASS
+  40E6F4 CONSTRUCT@F16ERRORSTATUSCLASS
+  40E85C CLOSE_@_ERRORLOGINTERFACE_@_STANDARDERRORLOGCLASS@F17ERRORLOGINTERFACEUc
+  40E880 OPEN_@_ERRORLOGINTERFACE_@_STANDARDERRORLOGCLASS@F17ERRORLOGINTERFACEUc
+  40E8A4 TAKE_@_ERRORLOGINTERFACE_@_STANDARDERRORLOGCLASS@F17ERRORLOGINTERFACEsb
+  40E944 CLOSE@F21STANDARDERRORLOGCLASSUc
+  40E9D0 OPEN@F21STANDARDERRORLOGCLASSUc
+  40EA80 DESTRUCT@F21STANDARDERRORLOGCLASS
+  40EA98 CONSTRUCT@F21STANDARDERRORLOGCLASS
+  40EAB0 REMOVERELATIONFILEMAPPING@F12FILESMANAGER15RELATIONMANAGER
+  40EAE0 REMOVERELATIONFILEMAPPING@F12FILESMANAGERl
+  40EB38 REMOVEFILEMAPPING@F12FILESMANAGER11FILEMANAGER
+  40EB64 REMOVEFILEMAPPING@F12FILESMANAGERl
+  40EC50 NOTEUSAGE@F12FILESMANAGER11FILEMANAGERUc
+  40ED54 NOTEOPEN@F12FILESMANAGER11FILEMANAGER
+  40EDCC NOTECLOSE@F12FILESMANAGER11FILEMANAGER
+  40EEC0 GETRELATIONFILEMAPPING@F12FILESMANAGERl
+  40EF10 GETFILEMAPPING@F12FILESMANAGERl
+  40EF60 GETFILEID@F12FILESMANAGERBf
+  40EF84 FINDRECORD@F12FILESMANAGER11FILEMANAGER
+  40F070 ADDFILEMAPPING@F12FILESMANAGER15RELATIONMANAGER
+  40F140 ADDFILEMAPPING@F12FILESMANAGER11FILEMANAGER
+  40F214 DESTRUCT@F12FILESMANAGER
+  40F26C CONSTRUCT@F12FILESMANAGER
+  40F2AC CREATEFILEOPENSERVER@FBf
+  40F32C CREATEFILEOPENSERVER@FBfl
+  40F3A0 CREATEUNTHREADEDFILEOPENSERVER@FBf
+  40F450 CREATETHREADEDFILEOPENSERVER@FBf
+  40F49C OPCODECANBEDONE@Fl
+  40F4CC CLEANUP@F11FILEMANAGER
+  40F7C0 LOCALACTION@FUc
+  40F7EC CASEDVALUE@FsbRuu
+  40F9BC DUPSTRING@Fsb
+  40FA28 CONCATGETCOMPONENTS@F13KEYFIELDQUEUERscUc
+  40FACC OPENFILE_@_IFILEOPENSERVER_@_UNTHREADEDFILEOPENSERVER@F15IFILEOPENSERVERl
+  40FB78 CLOSEFILE_@_IFILEOPENSERVER_@_UNTHREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FC04 LINK_@_IFILEOPENSERVER_@_UNTHREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FC60 RELEASE_@_IFILEOPENSERVER_@_UNTHREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FD14 INIT@F24UNTHREADEDFILEOPENSERVERBf
+  40FD40 DESTRUCT@F24UNTHREADEDFILEOPENSERVER
+  40FD70 CONSTRUCT@F24UNTHREADEDFILEOPENSERVER
+  40FDAC OPENFILE_@_IFILEOPENSERVER_@_THREADEDFILEOPENSERVER@F15IFILEOPENSERVERl
+  40FDF0 CLOSEFILE_@_IFILEOPENSERVER_@_THREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FE0C LINK_@_IFILEOPENSERVER_@_THREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FE24 RELEASE_@_IFILEOPENSERVER_@_THREADEDFILEOPENSERVER@F15IFILEOPENSERVER
+  40FE3C RELEASE@F14FILEOPENSERVER
+  40FE78 LINK@F14FILEOPENSERVER
+  40FE8C INIT@F14FILEOPENSERVERBf
+  40FEAC DESTRUCT@F14FILEOPENSERVER
+  40FEB8 CONSTRUCT@F14FILEOPENSERVER
+  40FEF0 VALIDATERECORD@F11VIEWMANAGER
+  40FF00 UNUSEVIEW@F11VIEWMANAGER
+  41004C USEVIEW@F11VIEWMANAGER
+  410200 SETSORT@F11VIEWMANAGERUc
+  41027C SETORDER@F11VIEWMANAGERsb
+  410338 SETFREEELEMENT@F11VIEWMANAGER
+  4103C4 SETFILTER@F11VIEWMANAGERsbsb
+  410514 SETFILTER@F11VIEWMANAGERsb
+  410558 SAVEBUFFERS@F11VIEWMANAGER
+  4106B4 RESTOREBUFFERS@F11VIEWMANAGER
+  41075C RESET@F11VIEWMANAGER
+  41077C RESET@F11VIEWMANAGERUc
+  4107D4 PRIMERECORD@F11VIEWMANAGERUc
+  410948 PREVIOUS@F11VIEWMANAGER
+  4109B8 OPEN@F11VIEWMANAGER
+  410A90 NEXT@F11VIEWMANAGER
+  410B00 LIMITMAJORCOMPONENTS@F11VIEWMANAGERRu
+  410BD4 KILL@F11VIEWMANAGER
+  410D7C GETFIELDNAME@F11VIEWMANAGERRu
+  410F64 GETFIELDASCENDING@F11VIEWMANAGERRu
+  4112C8 INIT@F11VIEWMANAGERBi15RELATIONMANAGER9SORTORDER
+  411378 GETFREEELEMENTPOSITION@F11VIEWMANAGER
+  4113E8 GETFREEELEMENTNAME@F11VIEWMANAGER
+  411444 GETFREEELEMENTASCENDING@F11VIEWMANAGER
+  4114A4 CLEARFILESRECORD@F11VIEWMANAGER
+  41155C CLOSE@F11VIEWMANAGERUc
+  411594 CLOSE@F11VIEWMANAGER
+  4115B4 APPLYRANGE@F11VIEWMANAGER
+  4117D0 APPLYORDER@F11VIEWMANAGER
+  41183C APPLYFILTER@F11VIEWMANAGER
+  411D94 APPENDORDER@F11VIEWMANAGERsb
+  411E78 ADDSORTORDER@F11VIEWMANAGERBk
+  411F90 ADDRANGE@F11VIEWMANAGERRu15RELATIONMANAGER15RELATIONMANAGER
+  412018 ADDRANGE@F11VIEWMANAGERRuRuRu
+  4120BC ADDRANGE@F11VIEWMANAGERRuRu
+  412130 ADDRANGE@F11VIEWMANAGERRu
+  41219C DESTRUCT@F11VIEWMANAGER
+  4121C8 DEFEREDADDRELATIONS@F15RELATIONMANAGER
+  41220C UPDATESECONDARY@F15RELATIONMANAGERBk18BUFFEREDPAIRSCLASSUc
+  412404 UPDATE@F15RELATIONMANAGERUc
+  41263C SETOPENRELATED@F15RELATIONMANAGER
+  412650 SETQUICKSCAN@F15RELATIONMANAGERUcUc
+  4127A8 SETALIAS@F15RELATIONMANAGER15RELATIONMANAGER
+  4127C8 SAVE@F15RELATIONMANAGER
+  41282C FORCEOPEN@F15RELATIONMANAGERUc
+  412864 OPEN@F15RELATIONMANAGERUc
+  4128B0 OPENCLOSESERVER@F15RELATIONMANAGERUcUc
+  412ACC LOGOUTUPDATE@F15RELATIONMANAGER
+  412B5C LOGOUTPRIME@F15RELATIONMANAGER
+  412C7C LOGOUTDELETE@F15RELATIONMANAGER
+  412D20 LISTLINKINGFIELDS@F15RELATIONMANAGER15RELATIONMANAGER15FIELDPAIRSCLASSUc
+  412F08 KILL@F15RELATIONMANAGER
+  412FBC INIT@F15RELATIONMANAGER11FILEMANAGERUc
+  413054 DELETESECONDARY@F15RELATIONMANAGERBk18BUFFEREDPAIRSCLASSUcUc
+  413360 DELETE@F15RELATIONMANAGERUc
+  4135A0 CLOSE@F15RELATIONMANAGERUc
+  4135C4 CASCADEUPDATES@F15RELATIONMANAGER
+  4136D0 CANCELAUTOINC@F15RELATIONMANAGER
+  4136F4 ADDRELATIONLINK@F15RELATIONMANAGERRsbRsb
+  4137A8 ADDRELATIONLINK@F15RELATIONMANAGERRlRl
+  413854 ADDRELATIONLINK@F15RELATIONMANAGERRuRu
+  4138EC ADDRELATION@F15RELATIONMANAGER15RELATIONMANAGERUcUcBk
+  413984 ADDRELATION@F15RELATIONMANAGER15RELATIONMANAGER
+  4139E8 DEFEREDRELATIONS@F15RELATIONMANAGER
+  413A14 CONSTRUCT@F15RELATIONMANAGER
+  413A28 FUNCTIONCALLED_@_FILECALLBACKINTERFACE_@_FILEMANAGER@F21FILECALLBACKINTERFACEl6PARAMSRscRsc
+  413C2C FUNCTIONDONE_@_FILECALLBACKINTERFACE_@_FILEMANAGER@F21FILECALLBACKINTERFACEl6PARAMSRscRsc
+  413E68 POSTUPDATE@F11FILEMANAGERRscRsc
+  413E98 PREUPDATE@F11FILEMANAGERllRscRsc
+  413EC8 POSTINSERT@F11FILEMANAGERRscRsc
+  413EF8 PREINSERT@F11FILEMANAGERllRscRsc
+  413F28 POSTDELETE@F11FILEMANAGERRscRsc
+  413F58 PREDELETE@F11FILEMANAGERRscRsc
+  413F88 FUNCTIONDONE@F11FILEMANAGERl6PARAMSRscRsc
+  414064 FUNCTIONCALLED@F11FILEMANAGERl6PARAMSRscRsc
+  414154 DELETED@F11FILEMANAGER
+  414164 DELETERECORD@F11FILEMANAGERUc
+  4141C0 VALIDATERECORD@F11FILEMANAGERPl
+  4142E0 VALIDATEFIELDS@F11FILEMANAGERllPl
+  414414 VALIDATEFIELDSERVER@F11FILEMANAGERlUc
+  4144D8 TRYVALIDATEFIELD@F11FILEMANAGERl
+  414504 VALIDATEFIELD@F11FILEMANAGERl
+  414530 USEFILE@F11FILEMANAGERUc
+  41465C UPDATESERVER@F11FILEMANAGERUc
+  414764 UPDATE@F11FILEMANAGER
+  41477C TRYUPDATE@F11FILEMANAGER
+  414794 TRYREGET@F11FILEMANAGERsb
+  41483C TRYPRIMEAUTOINC@F11FILEMANAGER
+  414854 TRYPREVIOUS@F11FILEMANAGER
+  414870 TRYOPEN@F11FILEMANAGER
+  41488C TRYNEXT@F11FILEMANAGER
+  4148A8 TRYINSERT@F11FILEMANAGER
+  4148C0 TRYFETCH@F11FILEMANAGERBk
+  414914 THROWMESSAGE@F11FILEMANAGERUssb
+  41496C THROW@F11FILEMANAGER
+  4149A4 THROW@F11FILEMANAGERUs
+  4149D4 SETKEY@F11FILEMANAGERBk
+  414A74 SETERRORS@F11FILEMANAGER10ERRORCLASS
+  414A94 SETERROR@F11FILEMANAGERUs
+  414AC4 SAVEFILE@F11FILEMANAGER
+  414C40 SAVEBUFFER@F11FILEMANAGER
+  414E54 RESTOREFILE@F11FILEMANAGERRUs11FILEMANAGERUc
+  414FF8 RESTOREFILE@F11FILEMANAGERRUsUc
+  415060 RESTOREBUFFER@F11FILEMANAGERRUs11FILEMANAGERUc
+  41526C RESTOREBUFFER@F11FILEMANAGERRUsUc
+  41529C PRIMERECORD@F11FILEMANAGERUc
+  4153D8 PRIMEFIELDS@F11FILEMANAGER
+  4153E4 PRIMEAUTOINCSERVER@F11FILEMANAGERUc
+  4159A4 PRIMEAUTOINC@F11FILEMANAGER
+  4159BC PREVIOUS@F11FILEMANAGER
+  4159D8 POSITION@F11FILEMANAGER
+  415A5C OPENSERVER@F11FILEMANAGERUcUc
+  415B38 OPENFILE@F11FILEMANAGERUc
+  415D54 OPEN@F11FILEMANAGER
+  415D70 NEXTSERVER@F11FILEMANAGERUcUc
+  415E44 NEXT@F11FILEMANAGER
+  415E60 KILL@F11FILEMANAGER
+  415EC0 KEYTOORDER@F11FILEMANAGERBkUc
+  416038 ISOPENED@F11FILEMANAGER
+  416068 INSERTSERVER@F11FILEMANAGERUc
+  41629C INSERT@F11FILEMANAGER
+  4162B4 INIT@F11FILEMANAGERBf10ERRORCLASS
+  4163D4 INIT@F11FILEMANAGER
+  41641C GETOPENED@F11FILEMANAGER
+  416434 GETNAME@F11FILEMANAGER
+  41647C GETFIELDNAME@F11FILEMANAGERBkUc
+  416520 GETFIELDASCENDING@F11FILEMANAGERBkUc
+  4165B0 GETFIELD@F11FILEMANAGERBkUc
+  416640 GETEOF@F11FILEMANAGER
+  416658 GETCOMPONENTS@F11FILEMANAGERBk
+  41668C FETCH@F11FILEMANAGERBk
+  4166CC EQUALBUFFER@F11FILEMANAGERRUs
+  41687C CLOSE@F11FILEMANAGER
+  416904 CLEARKEY@F11FILEMANAGERBkUcUcUc
+  4169E0 CANCELAUTOINC@F11FILEMANAGER15RELATIONMANAGER
+  416A64 BINDFIELDS@F11FILEMANAGER
+  416A94 ADDKEY@F11FILEMANAGERBksbUc
+  416DCC DESTRUCT@F11FILEMANAGER
+  416EAC SETOPTION@F10FUZZYCLASSUcUc
+  416F34 KILL@F10FUZZYCLASS
+  416F40 INIT@F10FUZZYCLASS
+  416F68 CONSTRUCT@F10FUZZYCLASS
+  4170F8 TOOLBOX@F10POPUPCLASSsb
+  417178 SETTRANSLATOR@F10POPUPCLASS15TRANSLATORCLASS
+  4171B4 SETTOOLBOX@F10POPUPCLASSsbUc
+  417228 SETICON@F10POPUPCLASSsbsb
+  4172A0 SETITEMENABLE@F10POPUPCLASSsbUc
+  417354 SETITEMCHECK@F10POPUPCLASSsbUc
+  417408 SETITEM@F10POPUPCLASSllsbsb
+  417690 RESETTOOLBOX@F10POPUPCLASS
+  4179E4 LOCATENAME@F10POPUPCLASSsb
+  417A6C KILL@F10POPUPCLASS
+  417A94 INIT@F10POPUPCLASS
+  417AD8 GETNAME@F10POPUPCLASSl
+  417E1C GETMENUTEXT@F10POPUPCLASS
+  4180E8 GETLASTSELECTION@F10POPUPCLASS
+  418104 GETITEMS@F10POPUPCLASSUc
+  4181DC EXECUTEPOPUP@F10POPUPCLASSsbll
+  4182BC DELETEITEM@F10POPUPCLASSsb
+  418300 CHECKMIMICS@F10POPUPCLASS
+  4184E8 ASKTOOLBOX@F10POPUPCLASSsb
+  418860 ASK@F10POPUPCLASSll
+  4189B4 ADDSUBMENU@F10POPUPCLASSsbsbsb
+  418A5C ADDSUBMENU@F10POPUPCLASSsbsb
+  418B18 ADDMENU@F10POPUPCLASSsbUc
+  418C90 ADDITEMMIMIC@F10POPUPCLASSsblOsb
+  418DD0 ADDITEMEVENT@F10POPUPCLASSsbll
+  418ED0 ADDITEM@F10POPUPCLASSsbsbsbUc
+  418F58 ADDITEM@F10POPUPCLASSsbsb
+  418FBC ADDITEM@F10POPUPCLASSsb
+  419034 POPTOOLBOX@Fsbsb
+  419098 REMOVEAMPERSAND@Fsb
+  419150 GETUNIQUENAME@F10POPUPCLASSsb
+  4192A8 CLEARQUERY@F10QUERYCLASS
+  419368 GETQUERIES@F10QUERYCLASS11SECTORQUEUE
+  41942C RESTORE@F10QUERYCLASSsb
+  419C38 TAKE@F10QUERYCLASS10POPUPCLASS
+  419D04 SAVE@F10QUERYCLASSsb
+  419E68 SETQUICKPOPUP@F10QUERYCLASS10POPUPCLASSUs
+  41A364 QUOTE@F10QUERYCLASSsb
+  41A758 GETLIMIT@F10QUERYCLASSRscRscRUcUcRsc
+  41B104 GETFILTER@F10QUERYCLASS
+  41B594 MAKEOPERATOR@FsbsbRscRsc
+  41B910 MAKEOPERATOR@Fsbsb
+  41B9A0 SETPOSITION@F16PAGEMANAGERCLASSlssUsUs
+  41BB58 SETCENTRE@F16PAGEMANAGERCLASSlUcUc
+  41BBD4 KILL@F16PAGEMANAGERCLASS
+  41BC44 INIT@F16PAGEMANAGERCLASS17PRINTPREVIEWCLASSlUsRsb
+  41BDD0 HIGHLIGHT@F16PAGEMANAGERCLASSl
+  41BE74 GETPROP@F16PAGEMANAGERCLASSlUs
+  41BEF4 EXISTS@F16PAGEMANAGERCLASSl
+  41BF34 DRAW@F16PAGEMANAGERCLASSls
+  41C6F0 DELETE@F16PAGEMANAGERCLASSl
+  41C754 DELETE@F16PAGEMANAGERCLASS
+  41C784 COORDCONTAINED@F16PAGEMANAGERCLASSss
+  41C9D0 TAKEWINDOWEVENT@F13REPORTMANAGER
+  41CC50 TAKERECORD@F13REPORTMANAGER
+  41CDB0 TAKENORECORDS@F13REPORTMANAGER
+  41CDD0 TAKECLOSEEVENT@F13REPORTMANAGER
+  41CFFC TAKEACCEPTED@F13REPORTMANAGER
+  41D03C SETDYNAMICCONTROLSATTRIBUTES@F13REPORTMANAGER
+  41D048 SETSTATICCONTROLSATTRIBUTES@F13REPORTMANAGER
+  41D054 PROCESSRESULTFILES@F13REPORTMANAGER15OUTPUTFILEQUEUE
+  41D06C OPENREPORT@F13REPORTMANAGER
+  41D164 OPEN@F13REPORTMANAGER
+  41D1EC KILL@F13REPORTMANAGER
+  41D334 INIT@F13REPORTMANAGER12PROCESSCLASSBr17PRINTPREVIEWCLASS
+  41D4B4 NEXT@F13REPORTMANAGER
+  41D548 CANCELPRINTREPORT@F13REPORTMANAGER
+  41D584 PRINTREPORT@F13REPORTMANAGER
+  41D78C ENDREPORT@F13REPORTMANAGER
+  41D7D8 ASKPREVIEW@F13REPORTMANAGER
+  41D90C ASK@F13REPORTMANAGER
+  41D970 TAKEFIELDEVENT@F17PRINTPREVIEWCLASS
+  41D9F4 TAKEWINDOWEVENT@F17PRINTPREVIEWCLASS
+  41DEE8 TAKEEVENT@F17PRINTPREVIEWCLASS
+  41E648 TAKEACCEPTED@F17PRINTPREVIEWCLASS
+  41ED54 SYNCIMAGEQUEUE@F17PRINTPREVIEWCLASS
+  41EDA4 SETINIMANAGER@F17PRINTPREVIEWCLASS8INICLASS
+  41EDDC SETDEFAULTPAGES@F17PRINTPREVIEWCLASS
+  41EE2C RESETUSERZOOM@F17PRINTPREVIEWCLASS
+  41EF00 PROCESSRESULTFILES@F17PRINTPREVIEWCLASS15OUTPUTFILEQUEUE
+  41EF18 OPEN@F17PRINTPREVIEWCLASS
+  41F470 NEWZOOM@F17PRINTPREVIEWCLASS
+  41F494 KILL@F17PRINTPREVIEWCLASS
+  41F564 INPAGELIST@F17PRINTPREVIEWCLASSl
+  41F750 INIT@F17PRINTPREVIEWCLASS12PREVIEWQUEUE25REPORTTARGETSELECTORCLASS17WMFDOCUMENTPARSER
+  41F7A0 INIT@F17PRINTPREVIEWCLASS12PREVIEWQUEUE
+  41FDC0 DRAWPAGE@F17PRINTPREVIEWCLASS
+  41FE78 DISPLAY@F17PRINTPREVIEWCLASSslUsUs
+  420338 DELETEIMAGEQUEUE@F17PRINTPREVIEWCLASSl
+  4203E0 CONFIGMENUCHECKS@F17PRINTPREVIEWCLASS
+  4204A0 ASKTHUMBNAILS@F17PRINTPREVIEWCLASS
+  42059C ASKPRINTPAGES@F17PRINTPREVIEWCLASS
+  420758 ASKPAGE@F17PRINTPREVIEWCLASS
+  4208A0 CHILDPROCESSINGEND@F12PROCESSCLASSUs
+  4208C0 CHILDPROCESSINGSTART@F12PROCESSCLASSUs
+  420910 UPDATEDISPLAY@F12PROCESSCLASS
+  420998 TAKERECORD@F12PROCESSCLASS
+  4209A8 TAKELOCATE@F12PROCESSCLASS
+  4209F0 TAKEACCEPTED@F12PROCESSCLASS
+  4209FC SETPROGRESSLIMITS@F12PROCESSCLASSsbsb
+  420AE0 SETPROGRESSLIMITS@F12PROCESSCLASS
+  420BB4 RESET@F12PROCESSCLASS
+  420C64 NEXT@F12PROCESSCLASSUc
+  420FE4 KILL@F12PROCESSCLASS
+  421068 INIT@F12PROCESSCLASSBi15RELATIONMANAGERlPUc9STEPCLASSRu
+  4210E4 INIT@F12PROCESSCLASSBi15RELATIONMANAGERlPUcl
+  42114C PERCENTILE2IDX@F17PRINTPREVIEWCLASSs
+  4211E8 IDX2PERCENTILE@F17PRINTPREVIEWCLASSUc
+  42149C SETPRIORITIES@F17WINDOWRESIZECLASS13POSITIONGROUP
+  4214F0 SETSIZE@Fs13POSITIONGROUP
+  42159C GETSIZEINFO@Fs13POSITIONGROUP
+  4216B0 RESTORECONTROLS@F17WINDOWRESIZECLASS
+  421728 TAKERESIZE@F17WINDOWRESIZECLASS
+  421744 SETPOSITION@F17WINDOWRESIZECLASSl13POSITIONGROUP13POSITIONGROUP13POSITIONGROUP13POSITIONGROUP
+  421D8C SETPARENTDEFAULTS@F17WINDOWRESIZECLASS
+  422098 SETPARENTCONTROL@F17WINDOWRESIZECLASSll
+  42219C RESTOREWINDOW@F17WINDOWRESIZECLASS
+  422258 RESIZECHILDREN@F17WINDOWRESIZECLASSl13POSITIONGROUP13POSITIONGROUP
+  422460 RESIZE@F17WINDOWRESIZECLASSl
+  422788 RESIZE@F17WINDOWRESIZECLASS
+  4227A8 RESET@F17WINDOWRESIZECLASS
+  422AF4 KILL@F17WINDOWRESIZECLASS
+  422B80 INIT@F17WINDOWRESIZECLASSUcUcUc
+  422D80 GETCURRENTPOS@F17WINDOWRESIZECLASSl13POSITIONGROUP
+  422DE4 GETORIGPOS@F17WINDOWRESIZECLASSl13POSITIONGROUP
+  422E50 GETRESIZESTRATEGY@F17WINDOWRESIZECLASSsOUc
+  422F88 GETPOSITIONSTRATEGY@F17WINDOWRESIZECLASSsOUc
+  4230A4 GETPARENTCONTROL@F17WINDOWRESIZECLASSl
+  4230FC INIT@F22REPORTATTRIBUTEMANAGERBr
+  423110 DESTRUCT@F22REPORTATTRIBUTEMANAGER
+  42313C CONSTRUCT@F22REPORTATTRIBUTEMANAGER
+  42315C DESTRUCT@F25REPORTTARGETSELECTORCLASS
+  423188 CONSTRUCT@F25REPORTTARGETSELECTORCLASS
+  4231B4 GETREPORTGENERATORNAME@F25REPORTTARGETSELECTORCLASSs
+  42325C GETSELECTED@F25REPORTTARGETSELECTORCLASS
+  4232DC GETPRINTSELECTED@F25REPORTTARGETSELECTORCLASS
+  4232FC ITEMS@F25REPORTTARGETSELECTORCLASS
+  423924 ASK@F25REPORTTARGETSELECTORCLASSUcUc
+  423B54 TAKEEVENT@F12TOOLBARCLASSPl13WINDOWMANAGER
+  423BBC SETTARGET@F12TOOLBARCLASSl
+  423CBC KILL@F12TOOLBARCLASS
+  423CE0 INIT@F12TOOLBARCLASS
+  423D0C DISPLAYBUTTONS@F12TOOLBARCLASS
+  423D5C ADDTARGET@F12TOOLBARCLASS13TOOLBARTARGETl
+  423DD0 TRYTAKETOOLBAR@F18TOOLBARUPDATECLASS
+  423DEC TAKEEVENT@F18TOOLBARUPDATECLASSPl13WINDOWMANAGER
+  423E4C TAKETOOLBAR@F18TOOLBARUPDATECLASS
+  423F2C DISPLAYBUTTONS@F18TOOLBARUPDATECLASS
+  423FE4 TRYTAKETOOLBAR@F19TOOLBARLISTBOXCLASS
+  424044 TAKEEVENT@F19TOOLBARLISTBOXCLASSPl13WINDOWMANAGER
+  4241B0 TAKETOOLBAR@F19TOOLBARLISTBOXCLASS
+  4241DC DISPLAYBUTTONS@F19TOOLBARLISTBOXCLASS
+  424210 TAKEEVENT@F13TOOLBARTARGETPl13WINDOWMANAGER
+  4242B0 DISPLAYBUTTONS@F13TOOLBARTARGET
+  4244AC SETTIPS@Fsb
+  4245A0 UPDATEQUEUE@F8INICLASSsbsbBqRuPuPuPu
+  4247A4 UPDATE@F8INICLASSsbsbsb
+  424858 UPDATE@F8INICLASSsbBw
+  424A0C UPDATE@F8INICLASS
+  424A18 TRYFETCH@F8INICLASSsbsb
+  424A88 REMOVE@F8INICLASSsbsb
+  424C00 KILL@F8INICLASS
+  424D3C INIT@F8INICLASSsbll
+  424E6C GETSECTORS@F8INICLASSOsbOsbOsb11SECTORQUEUE
+  425064 GETSECTOR@F8INICLASSsbsbsb
+  42513C GETFAMILY@F8INICLASSsbRscRscRsc
+  4252D4 FETCHQUEUE@F8INICLASSsbsbBqRuPuPuPu
+  425514 FETCHFIELD@F8INICLASSsbsbUc
+  425678 FETCH@F8INICLASSsbsbRu
+  425734 FETCH@F8INICLASSsbBw
+  425968 FETCH@F8INICLASSsbsb
+  425AD4 FETCH@F8INICLASS
+  425AE0 ADDSECTOR@F8INICLASSsb
+  425BC4 UPDATEWINDOWINFO@F8INICLASSsb10WINDOWINFO
+  425E1C FETCHWINDOWINFO@F8INICLASSsb10WINDOWINFO
+  426080 UPDATE@F8INICLASSsbsbsbsb
+  426264 FETCH@F8INICLASSsbsbsbsb
+  426484 DESTRUCT@F8INICLASS
+  4264AC CONSTRUCT@F8INICLASS
+  4264C8 KILL@F18BUFFEREDPAIRSCLASS
+  426578 INIT@F18BUFFEREDPAIRSCLASS
+  4265AC EQUALRIGHTBUFFER@F18BUFFEREDPAIRSCLASS
+  426610 EQUALLEFTBUFFER@F18BUFFEREDPAIRSCLASS
+  426674 ASSIGNRIGHTTOBUFFER@F18BUFFEREDPAIRSCLASS
+  4266D8 ASSIGNLEFTTOBUFFER@F18BUFFEREDPAIRSCLASS
+  42673C ASSIGNBUFFERTORIGHT@F18BUFFEREDPAIRSCLASS
+  4267A0 ASSIGNBUFFERTOLEFT@F18BUFFEREDPAIRSCLASS
+  426804 ADDPAIR@F18BUFFEREDPAIRSCLASSRuRu
+  4268C0 INIT@F15FIELDPAIRSCLASS
+  4268E8 KILL@F15FIELDPAIRSCLASS
+  426974 EQUALLEFTRIGHT@F15FIELDPAIRSCLASS
+  4269D8 EQUAL@F15FIELDPAIRSCLASS
+  4269EC CLEARRIGHT@F15FIELDPAIRSCLASS
+  426A40 CLEARLEFT@F15FIELDPAIRSCLASS
+  426A90 ASSIGNRIGHTTOLEFT@F15FIELDPAIRSCLASS
+  426AF4 ASSIGNLEFTTORIGHT@F15FIELDPAIRSCLASS
+  426B58 ADDITEM@F15FIELDPAIRSCLASSRu
+  426BC4 ADDPAIR@F15FIELDPAIRSCLASSRuRu
+  426C38 NEXT@F13CONSTANTCLASS
+  426E68 SET@F13CONSTANTCLASSRsb
+  426F00 RESET@F13CONSTANTCLASS
+  426F74 KILL@F13CONSTANTCLASS
+  427000 INIT@F13CONSTANTCLASSUc
+  427064 GETCSTRING@F13CONSTANTCLASS
+  4270D8 GETPSTRING@F13CONSTANTCLASS
+  427150 GETLONG@F13CONSTANTCLASS
+  427180 GETUSHORT@F13CONSTANTCLASS
+  4271B4 GETSHORT@F13CONSTANTCLASS
+  4271D0 GETBYTE@F13CONSTANTCLASS
+  427228 ADDITEM@F13CONSTANTCLASSUcRu
+  427298 CONSTRUCT@F13CONSTANTCLASS
+  4272C4 REMOVEDOLLAR@Fsb
+  4273A4 ADDDOLLAR@Fsb
+  427448 SAVEONINSERTACTION@F13WINDOWMANAGER
+  42752C SAVEONCHANGEACTION@F13WINDOWMANAGER
+  427680 DELETEACTION@F13WINDOWMANAGER
+  427878 CHANGEACTION@F13WINDOWMANAGER
+  427C88 INSERTACTION@F13WINDOWMANAGER
+  427EE8 TAKEDISABLEBUTTON@F13WINDOWMANAGERlUc
+  427F2C UPDATE@F13WINDOWMANAGER
+  427F84 TAKEWINDOWEVENT@F13WINDOWMANAGER
+  4280E8 TAKESELECTED@F13WINDOWMANAGER
+  4280F8 TAKEREJECTED@F13WINDOWMANAGER
+  42813C TAKENOTIFY@F13WINDOWMANAGERlll
+  428164 TAKENEWSELECTION@F13WINDOWMANAGER
+  4281E4 TAKEFIELDEVENT@F13WINDOWMANAGER
+  4281F4 TAKEEVENT@F13WINDOWMANAGER
+  4283D0 TAKECLOSEEVENT@F13WINDOWMANAGER
+  4285C8 TAKECOMPLETED@F13WINDOWMANAGER
+  4286EC TAKEACCEPTED@F13WINDOWMANAGER
+  428824 SETRESPONSE@F13WINDOWMANAGERUc
+  428884 SETALERTS@F13WINDOWMANAGER
+  428954 SAVEHISTORY@F13WINDOWMANAGER
+  428A1C RUN@F13WINDOWMANAGERUsUc
+  428A3C RUN@F13WINDOWMANAGER
+  428A8C RESTOREFIELD@F13WINDOWMANAGERl
+  428C64 RESETBUFFERS@F13WINDOWMANAGERUc
+  428CC8 RESET@F13WINDOWMANAGERUc
+  428D7C PRIMEUPDATE@F13WINDOWMANAGER
+  428F28 PRIMEFIELDS@F13WINDOWMANAGER
+  428F34 POSTCOMPLETED@F13WINDOWMANAGER
+  428FE8 OPEN@F13WINDOWMANAGERBwBw
+  42904C OPEN@F13WINDOWMANAGER
+  429098 KILL@F13WINDOWMANAGER
+  42924C INIT@F13WINDOWMANAGER
+  4292F0 REMOVEITEM@F13WINDOWMANAGER15WINDOWCOMPONENT
+  429350 ASK@F13WINDOWMANAGER
+  4293BC ADDUPDATEFILE@F13WINDOWMANAGER11FILEMANAGER
+  429414 ADDITEM@F13WINDOWMANAGER17WINDOWRESIZECLASS
+  429434 ADDITEM@F13WINDOWMANAGER15WINDOWCOMPONENT
+  4294A0 ADDITEM@F13WINDOWMANAGER18TOOLBARUPDATECLASS
+  429524 ADDITEM@F13WINDOWMANAGER12TOOLBARCLASS
+  42954C ADDITEM@F13WINDOWMANAGERlUc
+  4295A8 ADDITEM@F13WINDOWMANAGER11BROWSECLASS
+  4295E0 ADDHISTORYFILE@F13WINDOWMANAGERRgRg
+  429678 ADDHISTORYFIELD@F13WINDOWMANAGERll
+  4296C4 DISABLECANCELCONTROLS@F13WINDOWMANAGER
+  429730 ENABLECANCELCONTROLS@F13WINDOWMANAGER
+  42979C PROCESSDOCUMENT@F17WMFDOCUMENTPARSER
+  4297B4 OPENDOCUMENT@F17WMFDOCUMENTPARSER
+  429888 CLOSEDOCUMENT@F17WMFDOCUMENTPARSER
+  4298CC INIT@F17WMFDOCUMENTPARSER12PREVIEWQUEUE16IREPORTGENERATOR10ERRORCLASS
+  4299F0 GENERATEREPORT@F17WMFDOCUMENTPARSERUc
+  429D84 TAKERECORD@F9WMFPARSER
+  42E63C PROCESSFILE@F9WMFPARSER
+  42E674 PROCESSHEADER@F9WMFPARSER
+  42E864 ADDOBJECT@F9WMFPARSERUc
+  42E970 CLOSEFILE@F9WMFPARSER
+  42E9C8 RUN@F9WMFPARSER
+  42E9DC OPENFILE@F9WMFPARSER
+  42EABC KILL@F9WMFPARSER
+  42EB48 INIT@F9WMFPARSERsb16IREPORTGENERATOR10ERRORCLASS
+  42EC3C GETBOXBOTTOM@F9WMFPARSER
+  42EC54 GETBOXRIGHT@F9WMFPARSER
+  42EC6C GETBOXTOP@F9WMFPARSER
+  42EC84 GETBOXLEFT@F9WMFPARSER
+  42EC9C DESTRUCT@F9WMFPARSER
+  42EDB8 CONSTRUCT@F9WMFPARSER
+  42F8E0 MAIN@F
+  430CC4 COMIS002$CLIENTES@F
+  432580 COMIS003$GUIAS_EMPRESA1@F
+  43309C COMIS004$LOCALIDADES@F
+  433A60 COMIS005$ZONAS@F
+  434400 COMIS006$PROVINCIAS@F
+  434F34 COMIS007$TRANSPORTES@F
+  435B0C COMIS009$DISTRIBUIDORES@F
+  4364CC COMIS010$SELECTCATIVA@F
+  436D7C COMIS011$SELECTPROVINCIA@F
+  437768 COMIS012$SELECTZONAS@F
+  439104 COMIS013$UPDATECLIENTES@F
+  439C88 COMIS014$SELECTTRANSPORTE@F
+  43A5C0 COMIS015$SELECTDISTRIBUIDORES@F
+  43B004 COMIS016$SELECTCLIENTES@F
+  43DA6C COMIS017$UPDATEGUIAS1@F
+  43E780 COMIS018$UPDATELOCALIDAD@F
+  43F6B4 COMIS019$UPDATETRANSPOR@F
+  440778 COMIS021$UPDATEDISTRIBUIDORES@F
+  441650 COMIS022$MOVIMIENTOS@F
+  442210 COMIS023$HOJARUTA@F
+  442938 COMIS024$WINHOJARUTA@F
+  442E30 COMIS025$REDESPACHO@F
+  4432F8 COMIS026$DESTINATARIO@F
+  444998 COMIS027$FACTURAS_EMPRESA1@F
+  44B60C COMIS028$UPDATEFACTURAS1@F
+  44CEF0 COMIS029$IMPRESIONGUIA1@F
+  44D960 COMIS030$UPDATEITEMGUIA@F
+  44E44C COMIS031$VISTAGUIAS@F
+  44EFE4 COMIS032$UPDATEVISITA_CLI@F
+  44FD94 COMIS033$AGENDA@F
+  45095C COMIS034$UPDATEVISITAS@F
+  451AD0 COMIS035$RECIBOCONTRAREEMBOLSO@F
+  452508 COMIS036$SELECTDESTINO@F
+  452DBC COMIS037$WINHOJARUTADISTRIBUIDOR@F
+  453850 COMIS038$HOJARUTADISTRIBUIDOR@F
+  453FD4 COMIS039$WINHOJARUTAEMPRESA@F
+  454A38 COMIS040$HOJARUTAEMPRESA@F
+  455554 COMIS041$VISITASPROGRAMADAS@F
+  455CA0 COMIS042$WINVISITASPROGRAMADAS@F
+  456238 COMIS043$WINSUBDIARIOIVAVENTAS@F
+  45686C COMIS044$WINREIMPRESIONGUIA@F
+  457048 COMIS045$UPDATELOCALIDAD2@F
+  457928 COMIS046$SELECTREMITENTE@F
+  458374 COMIS047$UPDATEREMITENTE@F
+  458C64 COMIS048$UPDATEITEMFAC@F
+  4595FC COMIS049$PROVEEDORES@F
+  45A920 COMIS050$UPDATEPROVEEDORES@F
+  45B45C COMIS051$UPDATEDESTINATARIO@F
+  45C394 COMIS052$COMPRAS@F
+  45CE20 COMIS053$SELECTPROVEEDORES@F
+  45D9D8 COMIS054$IMPRESIONGUIA2@F
+  45E228 COMIS055$AUTOR@F
+  45E7B8 COMIS056$WINSUBDIARIOIVACOMPRAS@F
+  45EEAC COMIS057$PADRONCLIENTESNOMBRE@F
+  45F9D0 COMIS058$GUIASPENDIENTESFACTURAR@F
+  4602FC COMIS059$WINGUIASPENDIENTESFACTURAR@F
+  460DE8 COMIS060$APLICAFACTURA@F
+  46156C COMIS061$WINREDESPACHO@F
+  461F44 COMIS062$LISTADOREDESPACHOS@F
+  462640 COMIS063$WINCONTRAREEMBOLSO@F
+  462B00 COMIS064$REMITENTE@F
+  46302C COMIS065$WINFACTURASIMPAGAS@F
+  463984 COMIS066$FACTURASIMPAGAS@F
+  4640E4 COMIS069$WINCONTRAREEMBOLSOIMPAGOS@F
+  464908 COMIS070$CONTRAREEMBOLSOSIMPAGOS@F
+  4651EC COMIS071$WINMOVIMIENTOSCLIENTE@F
+  465B24 COMIS072$MOVIMIENTOSCLIENTE@F
+  4662DC COMIS073$IMPRIMETOTAL1@F
+  466810 COMIS074$IMPRIMETOTAL2@F
+  4670EC COMIS075$GUIASSINFACTURAR@F
+  4677F0 COMIS076$WINGUIASSINFACTURAR@F
+  468654 COMIS077$IMPRESIONFACTURA1@F
+  469E44 COMIS078$GUIAS_EMPRESA3@F
+  46CABC COMIS079$UPDATEGUIAS3@F
+  46D5B4 COMIS080$IMPRIMETOTAL3@F
+  46DF6C COMIS081$IMPRESIONGUIA3@F
+  46EC28 COMIS082$PARAMETRO_3@F
+  470340 COMIS083$FACTURAS_EMPRESA3@F
+  471234 COMIS084$IMPRESIONFACTURA3@F
+  472ABC COMIS086$RECIBOS_EMPRESA1@F
+  474EB8 COMIS087$UPDATERECIBOS1@F
+  4762C8 COMIS088$UPDATEVALORES@F
+  4774B4 COMIS089$VISTAVALORES@F
+  478370 COMIS090$VISTAAPLICACIONES@F
+  478CF8 COMIS091$APLICAGUIAS@F
+  47A368 COMIS092$IMPRESIONRECIBO1@F
+  47AF68 COMIS093$SELECTBANCO@F
+  47B934 COMIS094$BANCOS@F
+  47D44C COMIS095$VALORES@F
+  47EC90 COMIS096$RECIBOS_EMPRESA3@F
+  480518 COMIS097$IMPRESIONRECIBO3@F
+  482B84 COMIS098$UPDATERECIBOS3@F
+  483D4C COMIS099$CUENTACORRIENTE@F
+  484628 COMIS100$ANULAIMPRESION@F
+  484D94 COMIS101$ANULACOBRANZA@F
+  485580 COMIS102$WINRECIBOCONTRAREEMBOLSO@F
+  485CC0 COMIS103$WINRESUMENCTACTE@F
+  48666C COMIS104$RESUMENCTACTE@F
+  486F18 COMIS105$IMPORTEREDESPACHO@F
+  488B98 COMIS106$REDESPACHOS@F
+  489310 COMIS107$WINLISTADOREDESPACHO@F
+  489984 COMIS108$WINLIQUIDACIONREDESPACHO@F
+  48A97C COMIS109$DESTINOS@F
+  48B938 COMIS110$UPDATETRANSLOC@F
+  48C9C8 COMIS111$TRANS_DESTINOS@F
+  48D6DC COMIS112$UPDATETRANS_DESTINOS@F
+  48E050 COMIS114$WINCONTRAREEMBOLSOSTRANSPORTE@F
+  48E934 COMIS115$CONTRAREEMBOLSOSTRANSPORTE@F
+  48F35C COMIS116$CONTRAREEMBOLSOSCOBRADOS@F
+  48FA48 COMIS117$WINCONTRAREEMBOLSOCOBRADOS@F
+  49022C COMIS118$ANULAGUIA@F
+  490E90 COMIS119$EMISIONRECIBO@F
+  4916B8 COMIS120$SELECTCOMPROBANTE@F
+  493AE8 COMIS121$UPDATEFACPROV@F
+  494834 COMIS123$SUBDIARIOIVAVENTAS@F
+  495524 COMIS124$SUBDIARIOIVACOMPRAS@F
+  4960E8 COMIS125$FACTURASIMPAGASGENERAL@F
+  498094 COMIS126$CITIVENTAS@F
+  498B88 COMIS127$GENERAFACTURASANULADAS@F
+  499750 COMIS128$PARAMETRO_1@F
+  499994 EJECUTA_WS@F
+  499EDC COMIS130$LEE_FECOMPULTIMOAUTORIZADO@F
+  49A418 COMIS131$GENERAR_ARCHIVO_RECE@F
+  49AC10 COMIS132$LEER_RESPUESTA_RECE@F
+  49C048 COMIS135$IMPRESIONFACTURAELECTRONICA1@F
+  49F030 COMIS137$REGIMEN_DE_COMPRAS_Y_VENTAS@F
+  49F638 COMIS138$ABRIR_REGIMEN_COMPRAS_Y_VENTAS@F
+  4A3A88 COMIS139$UPDATEFACTURAS3@F
+  4A54C8 COMIS140$IMPRESIONFACTURAELECTRONICA3@F
+  4A59FC KILL@F17HIDE:RELATE:ZONAS
+  4A5B8C DEFEREDADDRELATIONS@F17HIDE:RELATE:ZONAS
+  4A5BA8 INIT@F17HIDE:RELATE:ZONAS
+  4A5BF0 USEFILE@F17HIDE:ACCESS:ZONASUc
+  4A5CD0 KILL@F17HIDE:ACCESS:ZONAS
+  4A5CFC INIT@F17HIDE:ACCESS:ZONAS
+  4A5D9C KILL@F19HIDE:RELATE:ITEMFAC
+  4A5E24 DEFEREDADDRELATIONS@F19HIDE:RELATE:ITEMFAC
+  4A5E40 INIT@F19HIDE:RELATE:ITEMFAC
+  4A5E88 USEFILE@F19HIDE:ACCESS:ITEMFACUc
+  4A5F68 KILL@F19HIDE:ACCESS:ITEMFAC
+  4A5F94 INIT@F19HIDE:ACCESS:ITEMFAC
+  4A6034 KILL@F20HIDE:RELATE:APLIGUIA
+  4A60D8 DEFEREDADDRELATIONS@F20HIDE:RELATE:APLIGUIA
+  4A60F4 INIT@F20HIDE:RELATE:APLIGUIA
+  4A613C USEFILE@F20HIDE:ACCESS:APLIGUIAUc
+  4A621C KILL@F20HIDE:ACCESS:APLIGUIA
+  4A6248 INIT@F20HIDE:ACCESS:APLIGUIA
+  4A62E8 KILL@F19HIDE:RELATE:APLIFAC
+  4A638C DEFEREDADDRELATIONS@F19HIDE:RELATE:APLIFAC
+  4A63A8 INIT@F19HIDE:RELATE:APLIFAC
+  4A63F0 USEFILE@F19HIDE:ACCESS:APLIFACUc
+  4A64D0 KILL@F19HIDE:ACCESS:APLIFAC
+  4A64FC INIT@F19HIDE:ACCESS:APLIFAC
+  4A659C KILL@F29HIDE:RELATE:FE_RESPUESTA_RECE
+  4A65FC INIT@F29HIDE:RELATE:FE_RESPUESTA_RECE
+  4A6644 USEFILE@F29HIDE:ACCESS:FE_RESPUESTA_RECEUc
+  4A66D0 KILL@F29HIDE:ACCESS:FE_RESPUESTA_RECE
+  4A66FC INIT@F29HIDE:ACCESS:FE_RESPUESTA_RECE
+  4A679C KILL@F19HIDE:RELATE:FE_RECE
+  4A67FC INIT@F19HIDE:RELATE:FE_RECE
+  4A6844 USEFILE@F19HIDE:ACCESS:FE_RECEUc
+  4A68D0 KILL@F19HIDE:ACCESS:FE_RECE
+  4A68FC INIT@F19HIDE:ACCESS:FE_RECE
+  4A69C8 KILL@F20HIDE:RELATE:LOCALIDA
+  4A6A28 INIT@F20HIDE:RELATE:LOCALIDA
+  4A6A70 USEFILE@F20HIDE:ACCESS:LOCALIDAUc
+  4A6B24 KILL@F20HIDE:ACCESS:LOCALIDA
+  4A6B50 INIT@F20HIDE:ACCESS:LOCALIDA
+  4A6BF0 KILL@F19HIDE:RELATE:FACPROV
+  4A6C94 DEFEREDADDRELATIONS@F19HIDE:RELATE:FACPROV
+  4A6CB0 INIT@F19HIDE:RELATE:FACPROV
+  4A6CF8 USEFILE@F19HIDE:ACCESS:FACPROVUc
+  4A6EFC KILL@F19HIDE:ACCESS:FACPROV
+  4A6F28 INIT@F19HIDE:ACCESS:FACPROV
+  4A6FC8 BINDFIELDS@F19HIDE:ACCESS:FACPROV
+  4A7028 KILL@F17HIDE:RELATE:GUIAS
+  4A7208 DEFEREDADDRELATIONS@F17HIDE:RELATE:GUIAS
+  4A7224 INIT@F17HIDE:RELATE:GUIAS
+  4A726C VALIDATEFIELDSERVER@F17HIDE:ACCESS:GUIASlUc
+  4A7368 USEFILE@F17HIDE:ACCESS:GUIASUc
+  4A7598 KILL@F17HIDE:ACCESS:GUIAS
+  4A75C4 INIT@F17HIDE:ACCESS:GUIAS
+  4A7664 BINDFIELDS@F17HIDE:ACCESS:GUIAS
+  4A76C4 KILL@F20HIDE:RELATE:FACTURAS
+  4A78D4 DEFEREDADDRELATIONS@F20HIDE:RELATE:FACTURAS
+  4A78F0 INIT@F20HIDE:RELATE:FACTURAS
+  4A7938 USEFILE@F20HIDE:ACCESS:FACTURASUc
+  4A7B3C KILL@F20HIDE:ACCESS:FACTURAS
+  4A7B68 INIT@F20HIDE:ACCESS:FACTURAS
+  4A7C08 KILL@F19HIDE:RELATE:VISITAS
+  4A7CAC DEFEREDADDRELATIONS@F19HIDE:RELATE:VISITAS
+  4A7CC8 INIT@F19HIDE:RELATE:VISITAS
+  4A7D10 USEFILE@F19HIDE:ACCESS:VISITASUc
+  4A7DF0 KILL@F19HIDE:ACCESS:VISITAS
+  4A7E1C INIT@F19HIDE:ACCESS:VISITAS
+  4A7EBC KILL@F21HIDE:RELATE:PARAMETRO
+  4A7F1C INIT@F21HIDE:RELATE:PARAMETRO
+  4A7F64 USEFILE@F21HIDE:ACCESS:PARAMETROUc
+  4A8018 KILL@F21HIDE:ACCESS:PARAMETRO
+  4A8044 INIT@F21HIDE:ACCESS:PARAMETRO
+  4A80E4 KILL@F23HIDE:RELATE:PROVEEDORES
+  4A8218 DEFEREDADDRELATIONS@F23HIDE:RELATE:PROVEEDORES
+  4A8234 INIT@F23HIDE:RELATE:PROVEEDORES
+  4A827C USEFILE@F23HIDE:ACCESS:PROVEEDORESUc
+  4A8408 KILL@F23HIDE:ACCESS:PROVEEDORES
+  4A8434 INIT@F23HIDE:ACCESS:PROVEEDORES
+  4A84D4 BINDFIELDS@F23HIDE:ACCESS:PROVEEDORES
+  4A8534 KILL@F22HIDE:RELATE:REDESPACHO
+  4A85BC DEFEREDADDRELATIONS@F22HIDE:RELATE:REDESPACHO
+  4A85D8 INIT@F22HIDE:RELATE:REDESPACHO
+  4A8620 USEFILE@F22HIDE:ACCESS:REDESPACHOUc
+  4A86D4 KILL@F22HIDE:ACCESS:REDESPACHO
+  4A8700 INIT@F22HIDE:ACCESS:REDESPACHO
+  4A87A0 KILL@F24HIDE:RELATE:COMPROBANTES
+  4A88A0 DEFEREDADDRELATIONS@F24HIDE:RELATE:COMPROBANTES
+  4A88BC INIT@F24HIDE:RELATE:COMPROBANTES
+  4A8904 USEFILE@F24HIDE:ACCESS:COMPROBANTESUc
+  4A89E4 KILL@F24HIDE:ACCESS:COMPROBANTES
+  4A8A10 INIT@F24HIDE:ACCESS:COMPROBANTES
+  4A8AB0 KILL@F17HIDE:RELATE:CITIA
+  4A8B10 INIT@F17HIDE:RELATE:CITIA
+  4A8B58 USEFILE@F17HIDE:ACCESS:CITIAUc
+  4A8BE4 KILL@F17HIDE:ACCESS:CITIA
+  4A8C10 INIT@F17HIDE:ACCESS:CITIA
+  4A8CB0 KILL@F17HIDE:RELATE:CITIC
+  4A8D10 INIT@F17HIDE:RELATE:CITIC
+  4A8D58 USEFILE@F17HIDE:ACCESS:CITICUc
+  4A8DE4 KILL@F17HIDE:ACCESS:CITIC
+  4A8E10 INIT@F17HIDE:ACCESS:CITIC
+  4A8EB0 KILL@F18HIDE:RELATE:CITICA
+  4A8F10 INIT@F18HIDE:RELATE:CITICA
+  4A8F58 USEFILE@F18HIDE:ACCESS:CITICAUc
+  4A8FE4 KILL@F18HIDE:ACCESS:CITICA
+  4A9010 INIT@F18HIDE:ACCESS:CITICA
+  4A90B0 KILL@F16HIDE:RELATE:CITI
+  4A9110 INIT@F16HIDE:RELATE:CITI
+  4A9158 USEFILE@F16HIDE:ACCESS:CITIUc
+  4A91E4 KILL@F16HIDE:ACCESS:CITI
+  4A9210 INIT@F16HIDE:ACCESS:CITI
+  4A92B0 KILL@F20HIDE:RELATE:CLIENTES
+  4A9528 DEFEREDADDRELATIONS@F20HIDE:RELATE:CLIENTES
+  4A9544 INIT@F20HIDE:RELATE:CLIENTES
+  4A958C USEFILE@F20HIDE:ACCESS:CLIENTESUc
+  4A9740 KILL@F20HIDE:ACCESS:CLIENTES
+  4A976C INIT@F20HIDE:ACCESS:CLIENTES
+  4A980C BINDFIELDS@F20HIDE:ACCESS:CLIENTES
+  4A986C COMISBC0$COMISBC0:FILESINIT@F
+  4A9A40 COMISBC0$COMISBC0:DCTKILL@F
+  4A9DF4 COMISBC0$COMISBC0:DCTINIT@F
+  4AA7F4 KILL@F22HIDE:RELATE:LOCALIDAD2
+  4AA854 INIT@F22HIDE:RELATE:LOCALIDAD2
+  4AA8B8 USEFILE@F22HIDE:ACCESS:LOCALIDAD2Uc
+  4AA96C KILL@F22HIDE:ACCESS:LOCALIDAD2
+  4AA998 INIT@F22HIDE:ACCESS:LOCALIDAD2
+  4AAA50 KILL@F24HIDE:RELATE:DESTINATARIO
+  4AABE0 DEFEREDADDRELATIONS@F24HIDE:RELATE:DESTINATARIO
+  4AABFC INIT@F24HIDE:RELATE:DESTINATARIO
+  4AAC60 USEFILE@F24HIDE:ACCESS:DESTINATARIOUc
+  4AAE14 KILL@F24HIDE:ACCESS:DESTINATARIO
+  4AAE40 INIT@F24HIDE:ACCESS:DESTINATARIO
+  4AAEF8 KILL@F21HIDE:RELATE:REMITENTE
+  4AB084 DEFEREDADDRELATIONS@F21HIDE:RELATE:REMITENTE
+  4AB0A0 INIT@F21HIDE:RELATE:REMITENTE
+  4AB104 USEFILE@F21HIDE:ACCESS:REMITENTEUc
+  4AB2B8 KILL@F21HIDE:ACCESS:REMITENTE
+  4AB2E4 INIT@F21HIDE:ACCESS:REMITENTE
+  4AB39C KILL@F19HIDE:RELATE:RECIBOS
+  4AB464 DEFEREDADDRELATIONS@F19HIDE:RELATE:RECIBOS
+  4AB480 INIT@F19HIDE:RELATE:RECIBOS
+  4AB4E4 USEFILE@F19HIDE:ACCESS:RECIBOSUc
+  4AB6E8 KILL@F19HIDE:ACCESS:RECIBOS
+  4AB714 INIT@F19HIDE:ACCESS:RECIBOS
+  4AB7CC KILL@F21HIDE:RELATE:CATIVAREM
+  4AB82C INIT@F21HIDE:RELATE:CATIVAREM
+  4AB890 USEFILE@F21HIDE:ACCESS:CATIVAREMUc
+  4AB970 KILL@F21HIDE:ACCESS:CATIVAREM
+  4AB99C INIT@F21HIDE:ACCESS:CATIVAREM
+  4ABA54 KILL@F21HIDE:RELATE:CATIVADES
+  4ABAB4 INIT@F21HIDE:RELATE:CATIVADES
+  4ABB18 USEFILE@F21HIDE:ACCESS:CATIVADESUc
+  4ABBF8 KILL@F21HIDE:ACCESS:CATIVADES
+  4ABC24 INIT@F21HIDE:ACCESS:CATIVADES
+  4ABCDC KILL@F20HIDE:RELATE:TRANSLOC
+  4ABD64 DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSLOC
+  4ABD80 INIT@F20HIDE:RELATE:TRANSLOC
+  4ABDC8 USEFILE@F20HIDE:ACCESS:TRANSLOCUc
+  4ABEA8 KILL@F20HIDE:ACCESS:TRANSLOC
+  4ABED4 INIT@F20HIDE:ACCESS:TRANSLOC
+  4ABF74 BINDFIELDS@F20HIDE:ACCESS:TRANSLOC
+  4ABFD4 KILL@F18HIDE:RELATE:BANCOS
+  4AC0A8 DEFEREDADDRELATIONS@F18HIDE:RELATE:BANCOS
+  4AC0C4 INIT@F18HIDE:RELATE:BANCOS
+  4AC10C USEFILE@F18HIDE:ACCESS:BANCOSUc
+  4AC1EC KILL@F18HIDE:ACCESS:BANCOS
+  4AC218 INIT@F18HIDE:ACCESS:BANCOS
+  4AC2B8 KILL@F19HIDE:RELATE:VALORES
+  4AC35C DEFEREDADDRELATIONS@F19HIDE:RELATE:VALORES
+  4AC378 INIT@F19HIDE:RELATE:VALORES
+  4AC3C0 VALIDATEFIELDSERVER@F19HIDE:ACCESS:VALORESlUc
+  4AC4BC USEFILE@F19HIDE:ACCESS:VALORESUc
+  4AC61C KILL@F19HIDE:ACCESS:VALORES
+  4AC648 INIT@F19HIDE:ACCESS:VALORES
+  4AC6E8 KILL@F26HIDE:RELATE:DISTRIBUIDORES
+  4AC938 DEFEREDADDRELATIONS@F26HIDE:RELATE:DISTRIBUIDORES
+  4AC954 INIT@F26HIDE:RELATE:DISTRIBUIDORES
+  4AC99C USEFILE@F26HIDE:ACCESS:DISTRIBUIDORESUc
+  4ACAD4 KILL@F26HIDE:ACCESS:DISTRIBUIDORES
+  4ACB00 INIT@F26HIDE:ACCESS:DISTRIBUIDORES
+  4ACBA0 KILL@F16HIDE:RELATE:DIAS
+  4ACCA0 DEFEREDADDRELATIONS@F16HIDE:RELATE:DIAS
+  4ACCBC INIT@F16HIDE:RELATE:DIAS
+  4ACD04 USEFILE@F16HIDE:ACCESS:DIASUc
+  4ACDB8 KILL@F16HIDE:ACCESS:DIAS
+  4ACDE4 INIT@F16HIDE:ACCESS:DIAS
+  4ACE84 KILL@F18HIDE:RELATE:CATIVA
+  4AD0A0 DEFEREDADDRELATIONS@F18HIDE:RELATE:CATIVA
+  4AD0BC INIT@F18HIDE:RELATE:CATIVA
+  4AD104 USEFILE@F18HIDE:ACCESS:CATIVAUc
+  4AD1E4 KILL@F18HIDE:ACCESS:CATIVA
+  4AD210 INIT@F18HIDE:ACCESS:CATIVA
+  4AD2B0 KILL@F20HIDE:RELATE:TRANSPOR
+  4AD3FC DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSPOR
+  4AD418 INIT@F20HIDE:RELATE:TRANSPOR
+  4AD460 USEFILE@F20HIDE:ACCESS:TRANSPORUc
+  4AD598 KILL@F20HIDE:ACCESS:TRANSPOR
+  4AD5C4 INIT@F20HIDE:ACCESS:TRANSPOR
+  4AD664 KILL@F20HIDE:RELATE:PROVINCI
+  4AD83C DEFEREDADDRELATIONS@F20HIDE:RELATE:PROVINCI
+  4AD858 INIT@F20HIDE:RELATE:PROVINCI
+  4AD8A0 USEFILE@F20HIDE:ACCESS:PROVINCIUc
+  4AD980 KILL@F20HIDE:ACCESS:PROVINCI
+  4AD9AC INIT@F20HIDE:ACCESS:PROVINCI
+  4ADA4C KILL@F20HIDE:RELATE:ITEMGUIA
+  4ADAD4 DEFEREDADDRELATIONS@F20HIDE:RELATE:ITEMGUIA
+  4ADAF0 INIT@F20HIDE:RELATE:ITEMGUIA
+  4ADB38 USEFILE@F20HIDE:ACCESS:ITEMGUIAUc
+  4ADC18 KILL@F20HIDE:ACCESS:ITEMGUIA
+  4ADC44 INIT@F20HIDE:ACCESS:ITEMGUIA
+  4ADCE4 KILL@F20HIDE:RELATE:PARAMFE3
+  4ADD44 INIT@F20HIDE:RELATE:PARAMFE3
+  4ADD8C USEFILE@F20HIDE:ACCESS:PARAMFE3Uc
+  4ADE40 KILL@F20HIDE:ACCESS:PARAMFE3
+  4ADE6C INIT@F20HIDE:ACCESS:PARAMFE3
+  4ADF0C KILL@F19HIDE:RELATE:PARAMFE
+  4ADF6C INIT@F19HIDE:RELATE:PARAMFE
+  4ADFB4 USEFILE@F19HIDE:ACCESS:PARAMFEUc
+  4AE068 KILL@F19HIDE:ACCESS:PARAMFE
+  4AE094 INIT@F19HIDE:ACCESS:PARAMFE
+  4AE134 COMISBC1$COMISBC1:FILESINIT@F
+  4AE2C4 COMISBC1$COMISBC1:DCTKILL@F
+  4AE5EC COMISBC1$COMISBC1:DCTINIT@F
+  4AEE44 DCTKILL@F
+  4AEE54 DCTINIT@F
+  4AEE70 _main
+  4AEF58 DESTRUCT@F10DICTIONARY
+  4AEF6C CONSTRUCT@F10DICTIONARY
+  4AEF88 GETIFACE@F15CRITICALSECTION
+  4AEF9C DESTRUCT@F15CRITICALSECTION
+  4AEFBC CONSTRUCT@F15CRITICALSECTION
+  4AEFD8 KILL@F17CRITICALPROCEDURE
+  4AF00C INIT@F17CRITICALPROCEDURE11ISYNCOBJECT
+  4AF044 DESTRUCT@F17CRITICALPROCEDURE
+  4AF058 CONSTRUCT@F17CRITICALPROCEDURE
+  4AF070 CONSTRUCT@F15ENTERBYTABCLASS
+  4AF0A0 DESTRUCT@F15ENTERBYTABCLASS
+  4AF0EC PRESSKEY@F15ENTERBYTABCLASSl
+  4AF160 EXCLUDECONTROL@F15ENTERBYTABCLASSl
+  4AF1C4 TAKEEVENT@F15ENTERBYTABCLASS
+  4AF47C INIT@F15ENTERBYTABCLASSUc
+  4AFB04 CONSTRUCT@F22ENHANCEDFOCUSCLASSTYPE
+  4AFB24 DESTRUCT@F22ENHANCEDFOCUSCLASSTYPE
+  4AFB50 CONTROLALLOWED@F22ENHANCEDFOCUSCLASSTYPEl
+  4AFC80 ENHANCEFOCUSSELECT@F22ENHANCEDFOCUSCLASSTYPEl
+  4B02EC ENHANCEFOCUSUNSELECT@F22ENHANCEDFOCUSCLASSTYPE
+  4B0584 TAKEEVENT@F22ENHANCEDFOCUSCLASSTYPE
+  4B0610 DISABLECONTROLTYPE@F22ENHANCEDFOCUSCLASSTYPEUs
+  4B0640 INIT@F22ENHANCEDFOCUSCLASSTYPEUclUcUclUcllsllUclsbs
+  4B2938 __thr_inst0
+  4B2948 __thr_init_entry
+  4B2968 __thr_init_exit
+  4B32E8 $OVERRIDECHARACTERS
+  4B3308 $SCROLL:NAME
+  4B3434 $SCROLL:ALPHA
+  4B34FC TYPE$BROWSECLASS
+  4B38CC TYPE$BROWSEEIPMANAGER
+  4B3BA0 VMT$BROWSEEIPMANAGER
+  4B3C44 VMT$BROWSECLASS
+  4B3DFC TYPE$STANDARDBEHAVIOR
+  4B3E3C VMT$STANDARDBEHAVIOR
+  4B3E88 TYPE$FILTERLOCATORCLASS
+  4B3F08 VMT$FILTERLOCATORCLASS
+  4B3F44 TYPE$INCREMENTALLOCATORCLASS
+  4B3FA0 VMT$INCREMENTALLOCATORCLASS
+  4B3FDC TYPE$ENTRYLOCATORCLASS
+  4B4038 VMT$ENTRYLOCATORCLASS
+  4B4074 TYPE$STEPLOCATORCLASS
+  4B40C4 VMT$STEPLOCATORCLASS
+  4B40FC TYPE$STEPSTRINGCLASS
+  4B414C VMT$STEPSTRINGCLASS
+  4B416C TYPE$STEPLONGCLASS
+  4B4194 VMT$STEPLONGCLASS
+  4B41B4 TYPE$STEPCLASS
+  4B41D0 VMT$STEPCLASS
+  4B428C TYPE$FILEDROPCLASS
+  4B43E4 VMT$FILEDROPCLASS
+  4B4538 TYPE$COLORMAP
+  4B4564 TCB$COLORMAP
+  4B4574 TYPE$EDITENTRYCLASS
+  4B45BC VMT$EDITENTRYCLASS
+  4B4DF8 STDERRORFILE$TYPE$RECORD
+  4B4E10 $STDERRORFILE
+  4B4E5C TYPE$PNQ
+  4B4E7C TYPE$DEFAULTERRORS
+  4B50D8 $DEFAULTERRORS
+  4B6320 TYPE$HISTHANDLERCLASS
+  4B6368 VMT$HISTHANDLERCLASS
+  4B6398 TYPE$MSGBOXCLASS
+  4B6610 VMT$MSGBOXCLASS
+  4B6698 TYPE$ERRORCLASS
+  4B691C VMT$ERRORCLASS
+  4B6968 TYPE$STANDARDERRORLOGCLASS
+  4B69A0 VMT$STANDARDERRORLOGCLASS
+  4B69B8 TYPE$ERRORSTATUSCLASS
+  4B6AAC VMT$ERRORSTATUSCLASS
+  4B7794 TYPE$UNTHREADEDFILEOPENERMAP
+  4B77B8 TCB$UNTHREADEDFILEOPENERMAP
+  4B77C8 TYPE$FILESMANAGER
+  4B780C VMT$FILESMANAGER
+  4B7818 TYPE$FILEMAPPING_T
+  4B7844 TYPE$FILEMAPPING_R
+  4B7874 TYPE$STATUSQ_T
+  4B78DC TYPE$SAVEQUEUE
+  4B7918 TYPE$FIELDSLIST
+  4B7948 TYPE$FILEKEYQUEUE
+  4B7994 TYPE$KEYFIELDQUEUE
+  4B79C0 TYPE$RELATIONQUEUE
+  4B7A10 TYPE$THREADEDFILEOPENSERVER
+  4B7A44 VMT$THREADEDFILEOPENSERVER
+  4B7A68 TYPE$UNTHREADEDFILEOPENSERVER
+  4B7AB8 VMT$UNTHREADEDFILEOPENSERVER
+  4B7AFC TYPE$FILEMANAGER
+  4B7CCC VMT$FILEMANAGER
+  4B7E24 TYPE$FUZZYCLASS
+  4B7ECC VMT$FUZZYCLASS
+  4B7FF4 TYPE$POPUPITEMQUEUE
+  4B8064 TYPE$POPUPCLASS
+  4B8108 VMT$POPUPCLASS
+  4B8398 TYPE$FIELDQUEUE
+  4B86DC TYPE$PAGEMANAGERCLASS
+  4B8798 VMT$PAGEMANAGERCLASS
+  4B87A4 TYPE$ZOOMITEMQUEUE
+  4B87DC $ZOOMPRESETS
+  4B88F8 TYPE$PRINTPREVIEWCLASS
+  4B8E9C VMT$PRINTPREVIEWCLASS
+  4B9154 TYPE$WINDOWRESIZECLASS
+  4B92D8 TYPE$REPORTATTRIBUTEMANAGER
+  4B92F4 VMT$REPORTATTRIBUTEMANAGER
+  4B9444 TYPE$REPORTTARGETSELECTORCLASS
+  4B94A8 VMT$REPORTTARGETSELECTORCLASS
+  4B9538 TYPE$TOOLBARTARGETQUEUE
+  4B9554 $UPDATECHANGETIPS
+  4B967C $UPDATEINSERTTIPS
+  4B96D4 $LISTBOXTIPS
+  4B9764 TYPE$TOOLBARCLASS
+  4B977C VMT$TOOLBARCLASS
+  4B9794 TYPE$TOOLBARUPDATECLASS
+  4B981C VMT$TOOLBARUPDATECLASS
+  4B9838 TYPE$TOOLBARLISTBOXCLASS
+  4B98B4 VMT$TOOLBARLISTBOXCLASS
+  4B9B18 TYPE$CONSTDESCRIPTORLIST
+  4B9B40 TYPE$CONSTANTCLASS
+  4B9BE0 VMT$CONSTANTCLASS
+  4B9BEC TYPE$INICLASS
+  4B9C34 VMT$INICLASS
+  4B9CBC TYPE$BUFFEREDPAIRSCLASS
+  4B9CE0 VMT$BUFFEREDPAIRSCLASS
+  4B9D18 TYPE$FIELDPAIRSCLASS
+  4B9D30 VMT$FIELDPAIRSCLASS
+  4B9DBC TYPE$FILELIST
+  4B9DE0 TYPE$HISTORYLIST
+  4B9E18 TYPE$BUTTONLIST
+  4B9E3C TYPE$COMPONENTLIST
+  4BA060 WMFINFILE$TYPE$WMFF@:RECORD
+  4BA080 TYPE$QUEUEDC
+  4BA0E4 TYPE$QUEUEHOLES
+  4BA0F8 TYPE$QUEUEBRUSH
+  4BA124 TYPE$QUEUEPENS
+  4BA150 TYPE$QUEUEFONTS
+  4BA198 TYPE$QUEUEOBJECTS
+  4BA1B4 TYPE$WMFDOCUMENTPARSER
+  4BA218 VMT$WMFDOCUMENTPARSER
+  4BA224 TYPE$WMFPARSER
+  4BAD20 VMT$WMFPARSER
+  4BAD2C TYPE$POINTQUEUE
+  4BAD48 TYPE$SLICEFORMATQUEUE
+  4BADF0 TYPE$TEXTFORMATQUEUE
+  4F6AD0 TYPE$HIDE:RELATE:ZONAS
+  4F6B60 VMT$HIDE:RELATE:ZONAS
+  4F6B98 TYPE$HIDE:ACCESS:ZONAS
+  4F6D68 VMT$HIDE:ACCESS:ZONAS
+  4F6E30 TYPE$HIDE:RELATE:ITEMFAC
+  4F6EC0 VMT$HIDE:RELATE:ITEMFAC
+  4F6EF8 TYPE$HIDE:ACCESS:ITEMFAC
+  4F70C8 VMT$HIDE:ACCESS:ITEMFAC
+  4F7190 TYPE$HIDE:RELATE:APLIGUIA
+  4F7220 VMT$HIDE:RELATE:APLIGUIA
+  4F7258 TYPE$HIDE:ACCESS:APLIGUIA
+  4F7428 VMT$HIDE:ACCESS:APLIGUIA
+  4F74F0 TYPE$HIDE:RELATE:APLIFAC
+  4F7580 VMT$HIDE:RELATE:APLIFAC
+  4F75B8 TYPE$HIDE:ACCESS:APLIFAC
+  4F7788 VMT$HIDE:ACCESS:APLIFAC
+  4F7850 TYPE$HIDE:RELATE:FE_RESPUESTA_RECE
+  4F78E0 VMT$HIDE:RELATE:FE_RESPUESTA_RECE
+  4F7918 TYPE$HIDE:ACCESS:FE_RESPUESTA_RECE
+  4F7AE8 VMT$HIDE:ACCESS:FE_RESPUESTA_RECE
+  4F7BB0 TYPE$HIDE:RELATE:FE_RECE
+  4F7C40 VMT$HIDE:RELATE:FE_RECE
+  4F7C78 TYPE$HIDE:ACCESS:FE_RECE
+  4F7E48 VMT$HIDE:ACCESS:FE_RECE
+  4F7F10 TYPE$HIDE:RELATE:LOCALIDA
+  4F7FA0 VMT$HIDE:RELATE:LOCALIDA
+  4F7FD8 TYPE$HIDE:ACCESS:LOCALIDA
+  4F81A8 VMT$HIDE:ACCESS:LOCALIDA
+  4F8270 TYPE$HIDE:RELATE:FACPROV
+  4F8300 VMT$HIDE:RELATE:FACPROV
+  4F8338 TYPE$HIDE:ACCESS:FACPROV
+  4F8508 VMT$HIDE:ACCESS:FACPROV
+  4F85D0 TYPE$HIDE:RELATE:GUIAS
+  4F8660 VMT$HIDE:RELATE:GUIAS
+  4F8698 TYPE$HIDE:ACCESS:GUIAS
+  4F8868 VMT$HIDE:ACCESS:GUIAS
+  4F8930 TYPE$HIDE:RELATE:FACTURAS
+  4F89C0 VMT$HIDE:RELATE:FACTURAS
+  4F89F8 TYPE$HIDE:ACCESS:FACTURAS
+  4F8BC8 VMT$HIDE:ACCESS:FACTURAS
+  4F8C90 TYPE$HIDE:RELATE:VISITAS
+  4F8D20 VMT$HIDE:RELATE:VISITAS
+  4F8D58 TYPE$HIDE:ACCESS:VISITAS
+  4F8F28 VMT$HIDE:ACCESS:VISITAS
+  4F8FF0 TYPE$HIDE:RELATE:PARAMETRO
+  4F9080 VMT$HIDE:RELATE:PARAMETRO
+  4F90B8 TYPE$HIDE:ACCESS:PARAMETRO
+  4F9288 VMT$HIDE:ACCESS:PARAMETRO
+  4F9350 TYPE$HIDE:RELATE:PROVEEDORES
+  4F93E0 VMT$HIDE:RELATE:PROVEEDORES
+  4F9418 TYPE$HIDE:ACCESS:PROVEEDORES
+  4F95E8 VMT$HIDE:ACCESS:PROVEEDORES
+  4F96B0 TYPE$HIDE:RELATE:REDESPACHO
+  4F9740 VMT$HIDE:RELATE:REDESPACHO
+  4F9778 TYPE$HIDE:ACCESS:REDESPACHO
+  4F9948 VMT$HIDE:ACCESS:REDESPACHO
+  4F9A10 TYPE$HIDE:RELATE:COMPROBANTES
+  4F9AA0 VMT$HIDE:RELATE:COMPROBANTES
+  4F9AD8 TYPE$HIDE:ACCESS:COMPROBANTES
+  4F9CA8 VMT$HIDE:ACCESS:COMPROBANTES
+  4F9D70 TYPE$HIDE:RELATE:CITIA
+  4F9E00 VMT$HIDE:RELATE:CITIA
+  4F9E38 TYPE$HIDE:ACCESS:CITIA
+  4FA008 VMT$HIDE:ACCESS:CITIA
+  4FA0D0 TYPE$HIDE:RELATE:CITIC
+  4FA160 VMT$HIDE:RELATE:CITIC
+  4FA198 TYPE$HIDE:ACCESS:CITIC
+  4FA368 VMT$HIDE:ACCESS:CITIC
+  4FA430 TYPE$HIDE:RELATE:CITICA
+  4FA4C0 VMT$HIDE:RELATE:CITICA
+  4FA4F8 TYPE$HIDE:ACCESS:CITICA
+  4FA6C8 VMT$HIDE:ACCESS:CITICA
+  4FA790 TYPE$HIDE:RELATE:CITI
+  4FA820 VMT$HIDE:RELATE:CITI
+  4FA858 TYPE$HIDE:ACCESS:CITI
+  4FAA28 VMT$HIDE:ACCESS:CITI
+  4FAAF0 TYPE$HIDE:RELATE:CLIENTES
+  4FAB80 VMT$HIDE:RELATE:CLIENTES
+  4FABB8 TYPE$HIDE:ACCESS:CLIENTES
+  4FAD88 VMT$HIDE:ACCESS:CLIENTES
+  4FB298 TYPE$HIDE:RELATE:LOCALIDAD2
+  4FB328 VMT$HIDE:RELATE:LOCALIDAD2
+  4FB360 TYPE$HIDE:ACCESS:LOCALIDAD2
+  4FB530 VMT$HIDE:ACCESS:LOCALIDAD2
+  4FB5F8 TYPE$HIDE:RELATE:DESTINATARIO
+  4FB688 VMT$HIDE:RELATE:DESTINATARIO
+  4FB6C0 TYPE$HIDE:ACCESS:DESTINATARIO
+  4FB890 VMT$HIDE:ACCESS:DESTINATARIO
+  4FB958 TYPE$HIDE:RELATE:REMITENTE
+  4FB9E8 VMT$HIDE:RELATE:REMITENTE
+  4FBA20 TYPE$HIDE:ACCESS:REMITENTE
+  4FBBF0 VMT$HIDE:ACCESS:REMITENTE
+  4FBCB8 TYPE$HIDE:RELATE:RECIBOS
+  4FBD48 VMT$HIDE:RELATE:RECIBOS
+  4FBD80 TYPE$HIDE:ACCESS:RECIBOS
+  4FBF50 VMT$HIDE:ACCESS:RECIBOS
+  4FC018 TYPE$HIDE:RELATE:CATIVAREM
+  4FC0A8 VMT$HIDE:RELATE:CATIVAREM
+  4FC0E0 TYPE$HIDE:ACCESS:CATIVAREM
+  4FC2B0 VMT$HIDE:ACCESS:CATIVAREM
+  4FC378 TYPE$HIDE:RELATE:CATIVADES
+  4FC408 VMT$HIDE:RELATE:CATIVADES
+  4FC440 TYPE$HIDE:ACCESS:CATIVADES
+  4FC610 VMT$HIDE:ACCESS:CATIVADES
+  4FC6D8 TYPE$HIDE:RELATE:TRANSLOC
+  4FC768 VMT$HIDE:RELATE:TRANSLOC
+  4FC7A0 TYPE$HIDE:ACCESS:TRANSLOC
+  4FC970 VMT$HIDE:ACCESS:TRANSLOC
+  4FCA38 TYPE$HIDE:RELATE:BANCOS
+  4FCAC8 VMT$HIDE:RELATE:BANCOS
+  4FCB00 TYPE$HIDE:ACCESS:BANCOS
+  4FCCD0 VMT$HIDE:ACCESS:BANCOS
+  4FCD98 TYPE$HIDE:RELATE:VALORES
+  4FCE28 VMT$HIDE:RELATE:VALORES
+  4FCE60 TYPE$HIDE:ACCESS:VALORES
+  4FD030 VMT$HIDE:ACCESS:VALORES
+  4FD0F8 TYPE$HIDE:RELATE:DISTRIBUIDORES
+  4FD188 VMT$HIDE:RELATE:DISTRIBUIDORES
+  4FD1C0 TYPE$HIDE:ACCESS:DISTRIBUIDORES
+  4FD390 VMT$HIDE:ACCESS:DISTRIBUIDORES
+  4FD458 TYPE$HIDE:RELATE:DIAS
+  4FD4E8 VMT$HIDE:RELATE:DIAS
+  4FD520 TYPE$HIDE:ACCESS:DIAS
+  4FD6F0 VMT$HIDE:ACCESS:DIAS
+  4FD7B8 TYPE$HIDE:RELATE:CATIVA
+  4FD848 VMT$HIDE:RELATE:CATIVA
+  4FD880 TYPE$HIDE:ACCESS:CATIVA
+  4FDA50 VMT$HIDE:ACCESS:CATIVA
+  4FDB18 TYPE$HIDE:RELATE:TRANSPOR
+  4FDBA8 VMT$HIDE:RELATE:TRANSPOR
+  4FDBE0 TYPE$HIDE:ACCESS:TRANSPOR
+  4FDDB0 VMT$HIDE:ACCESS:TRANSPOR
+  4FDE78 TYPE$HIDE:RELATE:PROVINCI
+  4FDF08 VMT$HIDE:RELATE:PROVINCI
+  4FDF40 TYPE$HIDE:ACCESS:PROVINCI
+  4FE110 VMT$HIDE:ACCESS:PROVINCI
+  4FE1D8 TYPE$HIDE:RELATE:ITEMGUIA
+  4FE268 VMT$HIDE:RELATE:ITEMGUIA
+  4FE2A0 TYPE$HIDE:ACCESS:ITEMGUIA
+  4FE470 VMT$HIDE:ACCESS:ITEMGUIA
+  4FE538 TYPE$HIDE:RELATE:PARAMFE3
+  4FE5C8 VMT$HIDE:RELATE:PARAMFE3
+  4FE600 TYPE$HIDE:ACCESS:PARAMFE3
+  4FE7D0 VMT$HIDE:ACCESS:PARAMFE3
+  4FE898 TYPE$HIDE:RELATE:PARAMFE
+  4FE928 VMT$HIDE:RELATE:PARAMFE
+  4FE960 TYPE$HIDE:ACCESS:PARAMFE
+  4FEB30 VMT$HIDE:ACCESS:PARAMFE
+  4FF5F8 TYPE$DICTIONARY
+  4FF608 VMT$DICTIONARY
+  4FF614 LOCALIDAD2$TYPE$LOC2:RECORD
+  4FF638 DESTINATARIO$TYPE$DES:RECORD
+  4FF768 REMITENTE$TYPE$RTE:RECORD
+  4FF898 RECIBOS$TYPE$REC:RECORD
+  4FFB90 CATIVAREM$TYPE$IVAR:RECORD
+  4FFBE0 CATIVADES$TYPE$IVAD:RECORD
+  4FFC30 TRANSLOC$TYPE$TRL:RECORD
+  4FFCDC BANCOS$TYPE$BCO:RECORD
+  4FFD20 VALORES$TYPE$VAL:RECORD
+  4FFDAC DISTRIBUIDORES$TYPE$DIS:RECORD
+  4FFE88 DIAS$TYPE$DIA:RECORD
+  4FFEBC CATIVA$TYPE$IVA:RECORD
+  4FFF08 TRANSPOR$TYPE$TRA:RECORD
+  4FFFE0 PROVINCI$TYPE$PCIA:RECORD
+  500020 ITEMGUIA$TYPE$ITGUIA:RECORD
+  500094 PARAMFE3$TYPE$PARFE3:RECORD
+  500128 PARAMFE$TYPE$PARFE:RECORD
+  5001DC ZONAS$TYPE$ZON:RECORD
+  500210 ITEMFAC$TYPE$ITFAC:RECORD
+  500288 APLIGUIA$TYPE$APGUIA:RECORD
+  5002C4 APLIFAC$TYPE$APFAC:RECORD
+  500340 FE_RESPUESTA_RECE$TYPE$FE_RESP:RECORD
+  500360 FE_RECE$TYPE$FRECE:RECORD
+  500380 LOCALIDA$TYPE$LOC:RECORD
+  5003A4 FACPROV$TYPE$FCP:RECORD
+  500604 GUIAS$TYPE$GUIA:RECORD
+  500888 FACTURAS$TYPE$FAC:RECORD
+  500B80 VISITAS$TYPE$VIS:RECORD
+  500BC4 PARAMETRO$TYPE$PAR:RECORD
+  500CF8 PROVEEDORES$TYPE$PROV:RECORD
+  500E18 REDESPACHO$TYPE$RD:RECORD
+  500E50 COMPROBANTES$TYPE$CPTE:RECORD
+  500EC4 CITIA$TYPE$CITIA:RECORD
+  500EE8 CITIC$TYPE$CITIC:RECORD
+  500F0C CITICA$TYPE$CITICA:RECORD
+  500F30 CITI$TYPE$CITI:RECORD
+  500F50 CLIENTES$TYPE$CLI:RECORD
+  501080 TYPE$CRITICALSECTION
+  501098 VMT$CRITICALSECTION
+  5010A4 TYPE$CRITICALPROCEDURE
+  5010BC VMT$CRITICALPROCEDURE
+  501110 TYPE$NEXTTABSTOPCONTROLQUEUE
+  50112C TYPE$ENTERBYTABCLASS
+  501170 VMT$ENTERBYTABCLASS
+  501184 TYPE$CONTROLTYPEQUEUE
+  501198 TYPE$ENHANCEDFOCUSCLASSTYPE
+  50130C VMT$ENHANCEDFOCUSCLASSTYPE
+  502578 VMTP$ENTERBYTABCLASS
+  502580 VMTP$ENHANCEDFOCUSCLASSTYPE
+  502588 VMTP$HIDE:RELATE:ZONAS
+  502590 VMTP$HIDE:ACCESS:ZONAS
+  502598 VMTP$HIDE:RELATE:ITEMFAC
+  5025A0 VMTP$HIDE:ACCESS:ITEMFAC
+  5025A8 VMTP$HIDE:RELATE:APLIGUIA
+  5025B0 VMTP$HIDE:ACCESS:APLIGUIA
+  5025B8 VMTP$HIDE:RELATE:APLIFAC
+  5025C0 VMTP$HIDE:ACCESS:APLIFAC
+  5025C8 VMTP$HIDE:RELATE:FE_RESPUESTA_RECE
+  5025D0 VMTP$HIDE:ACCESS:FE_RESPUESTA_RECE
+  5025D8 VMTP$HIDE:RELATE:FE_RECE
+  5025E0 VMTP$HIDE:ACCESS:FE_RECE
+  5025E8 VMTP$HIDE:RELATE:LOCALIDA
+  5025F0 VMTP$HIDE:ACCESS:LOCALIDA
+  5025F8 VMTP$HIDE:RELATE:FACPROV
+  502600 VMTP$HIDE:ACCESS:FACPROV
+  502608 VMTP$HIDE:RELATE:GUIAS
+  502610 VMTP$HIDE:ACCESS:GUIAS
+  502618 VMTP$HIDE:RELATE:FACTURAS
+  502620 VMTP$HIDE:ACCESS:FACTURAS
+  502628 VMTP$HIDE:RELATE:VISITAS
+  502630 VMTP$HIDE:ACCESS:VISITAS
+  502638 VMTP$HIDE:RELATE:PARAMETRO
+  502640 VMTP$HIDE:ACCESS:PARAMETRO
+  502648 VMTP$HIDE:RELATE:PROVEEDORES
+  502650 VMTP$HIDE:ACCESS:PROVEEDORES
+  502658 VMTP$HIDE:RELATE:REDESPACHO
+  502660 VMTP$HIDE:ACCESS:REDESPACHO
+  502668 VMTP$HIDE:RELATE:COMPROBANTES
+  502670 VMTP$HIDE:ACCESS:COMPROBANTES
+  502678 VMTP$HIDE:RELATE:CITIA
+  502680 VMTP$HIDE:ACCESS:CITIA
+  502688 VMTP$HIDE:RELATE:CITIC
+  502690 VMTP$HIDE:ACCESS:CITIC
+  502698 VMTP$HIDE:RELATE:CITICA
+  5026A0 VMTP$HIDE:ACCESS:CITICA
+  5026A8 VMTP$HIDE:RELATE:CITI
+  5026B0 VMTP$HIDE:ACCESS:CITI
+  5026B8 VMTP$HIDE:RELATE:CLIENTES
+  5026C0 VMTP$HIDE:ACCESS:CLIENTES
+  5026C8 VMTP$HIDE:RELATE:LOCALIDAD2
+  5026D0 VMTP$HIDE:ACCESS:LOCALIDAD2
+  5026D8 VMTP$HIDE:RELATE:DESTINATARIO
+  5026E0 VMTP$HIDE:ACCESS:DESTINATARIO
+  5026E8 VMTP$HIDE:RELATE:REMITENTE
+  5026F0 VMTP$HIDE:ACCESS:REMITENTE
+  5026F8 VMTP$HIDE:RELATE:RECIBOS
+  502700 VMTP$HIDE:ACCESS:RECIBOS
+  502708 VMTP$HIDE:RELATE:CATIVAREM
+  502710 VMTP$HIDE:ACCESS:CATIVAREM
+  502718 VMTP$HIDE:RELATE:CATIVADES
+  502720 VMTP$HIDE:ACCESS:CATIVADES
+  502728 VMTP$HIDE:RELATE:TRANSLOC
+  502730 VMTP$HIDE:ACCESS:TRANSLOC
+  502738 VMTP$HIDE:RELATE:BANCOS
+  502740 VMTP$HIDE:ACCESS:BANCOS
+  502748 VMTP$HIDE:RELATE:VALORES
+  502750 VMTP$HIDE:ACCESS:VALORES
+  502758 VMTP$HIDE:RELATE:DISTRIBUIDORES
+  502760 VMTP$HIDE:ACCESS:DISTRIBUIDORES
+  502768 VMTP$HIDE:RELATE:DIAS
+  502770 VMTP$HIDE:ACCESS:DIAS
+  502778 VMTP$HIDE:RELATE:CATIVA
+  502780 VMTP$HIDE:ACCESS:CATIVA
+  502788 VMTP$HIDE:RELATE:TRANSPOR
+  502790 VMTP$HIDE:ACCESS:TRANSPOR
+  502798 VMTP$HIDE:RELATE:PROVINCI
+  5027A0 VMTP$HIDE:ACCESS:PROVINCI
+  5027A8 VMTP$HIDE:RELATE:ITEMGUIA
+  5027B0 VMTP$HIDE:ACCESS:ITEMGUIA
+  5027B8 VMTP$HIDE:RELATE:PARAMFE3
+  5027C0 VMTP$HIDE:ACCESS:PARAMFE3
+  5027C8 VMTP$HIDE:RELATE:PARAMFE
+  5027D0 VMTP$HIDE:ACCESS:PARAMFE
+  5027D8 VMTP$DICTIONARY
+  502FD0 VMTP$FILESMANAGER
+  502FD8 VMTP$THREADEDFILEOPENSERVER
+  502FE0 VMTP$UNTHREADEDFILEOPENSERVER
+  502FE8 VMTP$FILEMANAGER
+  502FF0 VMTP$CONSTANTCLASS
+  502FF8 VMTP$INICLASS
+  503000 VMTP$BUFFEREDPAIRSCLASS
+  503008 VMTP$FIELDPAIRSCLASS
+  503010 VMTP$POPUPCLASS
+  503018 VMTP$TOOLBARCLASS
+  503020 VMTP$TOOLBARUPDATECLASS
+  503028 VMTP$TOOLBARLISTBOXCLASS
+  503030 VMTP$EDITENTRYCLASS
+  503038 VMTP$BROWSEEIPMANAGER
+  503040 VMTP$BROWSECLASS
+  503048 VMTP$STANDARDBEHAVIOR
+  503050 VMTP$FILTERLOCATORCLASS
+  503058 VMTP$INCREMENTALLOCATORCLASS
+  503060 VMTP$ENTRYLOCATORCLASS
+  503068 VMTP$STEPLOCATORCLASS
+  503070 VMTP$STEPSTRINGCLASS
+  503078 VMTP$STEPLONGCLASS
+  503080 VMTP$STEPCLASS
+  503088 VMTP$HISTHANDLERCLASS
+  503090 VMTP$MSGBOXCLASS
+  503098 VMTP$ERRORCLASS
+  5030A0 VMTP$STANDARDERRORLOGCLASS
+  5030A8 VMTP$ERRORSTATUSCLASS
+  5030B0 VMTP$FUZZYCLASS
+  5030B8 VMTP$FILEDROPCLASS
+  5030C0 VMTP$WMFDOCUMENTPARSER
+  5030C8 VMTP$WMFPARSER
+  5030D0 VMTP$REPORTATTRIBUTEMANAGER
+  5030D8 VMTP$REPORTTARGETSELECTORCLASS
+  5030E0 VMTP$PAGEMANAGERCLASS
+  5030E8 VMTP$PRINTPREVIEWCLASS
+  5030F0 VMTP$CRITICALSECTION
+  5030F8 VMTP$CRITICALPROCEDURE
+  503100 $COLORMAP
+  503138 $MULTIWINDOW
+  50313C $TXTWINDOW
+  503140 $WINDOW
+  503144 STDERRORFILE$RECORD
+  503544 $UNTHREADEDFILEOPENERMAP
+  50354C $CREATEOPENERCRIT
+  503554 $FUZZYOBJECT
+  50365C P80$MEMOS$EXTRACTFILE
+  503860 $GLO:MONTOLETRA
+  503960 $GLO:LETRAFACTURA
+  503964 $GLO:IMPRIMETOTAL
+  503968 $GLO:LINEARECE
+  503A8C $GLO:NROCAE
+  503AAC $GLO:LINEARECE_FEX
+  504AB0 $GLO:ARCHIVORECE
+  504CB0 $GLO:ARCHIVO_RESPUESTA_RECE
+  504EB0 $GLO_NOMBRE_USUARIO
+  504EE4 $GLO:MENSAGE
+  504F48 $FUZZYMATCHER
+  50656C $GLOBALERRORS
+  5065A0 $INIMGR
+  5066B8 KEYS$CITI
+  5066BC $LADJFDSETTING
+  5066C0 $GLO:TEST
+  5066C4 $GLO:PARAMETROS
+  506EC4 $GLO:EJECUTABLE
+  5070C4 $GLO:FECHACAE
+  5070C8 $GLO:PUNTOVENTAELECTRONICO
+  5070CC $GLO:HOJAINICIAL
+  5070D0 $GLO:SALDOAAPLICAR
+  5070D8 $GLO:IMPORTEFACTURAR
+  5070E0 $GLO:DIA
+  5070E4 $GLO:GUIA
+  5070E8 $GLO:TRANSPORTE
+  5070EC $GLO:DISTRIBUIDOR
+  5070F0 $GLO:PROVEEDOR
+  5070F4 $GLO:CLIENTE
+  5070F8 $GLO:NUMERAGUIA
+  5070FC $GLO:NUMERAFACTURA
+  507100 $GLO:LUGARFACTURA
+  507104 $GLO:EMPRESA
+  507108 $GLO:FECHAHASTA
+  50710C $GLO:FECHADESDE
+  507110 P21$MEMOS$INFILE
+  508008 LOCALIDAD2$LOC2:POR_LOCALIDAD
+  50802C KEYS$LOCALIDAD2
+  508030 $LOCALIDAD2
+  50807C DESTINATARIO$DES:POR_CODIGO
+  5080A0 DESTINATARIO$DES:POR_NOMBRE
+  5080C4 DESTINATARIO$DES:POR_LOCALIDAD
+  5080E8 DESTINATARIO$DES:POR_ZONA
+  50810C DESTINATARIO$DES:POR_DISTRIBUIDOR
+  508130 DESTINATARIO$DES:POR_CATEGORIAIVA
+  508154 DESTINATARIO$DES:POR_PROVINCIA
+  508178 KEYS$DESTINATARIO
+  508194 DESTINATARIO$DES:NOTAS
+  5081B4 MEMOS$DESTINATARIO
+  5081B8 $DESTINATARIO
+  508204 REMITENTE$RTE:POR_CODIGO
+  508228 REMITENTE$RTE:POR_NOMBRE
+  50824C REMITENTE$RTE:POR_LOCALIDAD
+  508270 REMITENTE$RTE:POR_ZONA
+  508294 REMITENTE$RTE:POR_DISTRIBUIDOR
+  5082B8 REMITENTE$RTE:POR_CATEGORIAIVA
+  5082DC REMITENTE$RTE:POR_PROVINCIA
+  508300 KEYS$REMITENTE
+  50831C REMITENTE$RTE:NOTAS
+  50833C MEMOS$REMITENTE
+  508340 $REMITENTE
+  50838C RECIBOS$REC:POR_REGISTRO
+  5083B0 RECIBOS$REC:POR_NROCOMPROBANTE
+  5083D4 RECIBOS$REC:POR_COMPROBANTE
+  5083F8 RECIBOS$REC:POR_FECHAA
+  50841C RECIBOS$REC:POR_FECHAD
+  508440 RECIBOS$REC:POR_CLIENTE
+  508464 RECIBOS$REC:POR_REMITENTE
+  508488 RECIBOS$REC:POR_DESTINATARIO
+  5084AC RECIBOS$REC:POR_DISTRIBUIDOR
+  5084D0 KEYS$RECIBOS
+  5084F4 $RECIBOS
+  508540 CATIVAREM$IVAR:POR_CODIVA
+  508564 CATIVAREM$IVAR:POR_DESCRIPCION
+  508588 KEYS$CATIVAREM
+  508590 $CATIVAREM
+  5085DC CATIVADES$IVAD:POR_CODIVA
+  508600 CATIVADES$IVAD:POR_DESCRIPCION
+  508624 KEYS$CATIVADES
+  50862C $CATIVADES
+  508678 TRANSLOC$TRL:POR_TRANSPORTE
+  50869C TRANSLOC$TRL:POR_LOCALIDAD
+  5086C0 KEYS$TRANSLOC
+  5086C8 TRANSLOC$TRL:OBSERVACION
+  5086E8 MEMOS$TRANSLOC
+  5086EC $TRANSLOC
+  508738 BANCOS$BCO:POR_NOMBRE
+  50875C BANCOS$BCO:POR_CODIGO
+  508780 KEYS$BANCOS
+  508788 $BANCOS
+  5087D4 VALORES$VAL:POR_CODIGOINTERNO
+  5087F8 VALORES$VAL:POR_RECIBO
+  50881C VALORES$VAL:POR_BANCO
+  508840 VALORES$VAL:POR_NUMERO
+  508864 VALORES$VAL:POR_FECHA
+  508888 KEYS$VALORES
+  50889C $VALORES
+  5088E8 DISTRIBUIDORES$DIS:POR_CODIGO
+  50890C DISTRIBUIDORES$DIS:POR_NOMBRE
+  508930 DISTRIBUIDORES$DIS:POR_PROVINCIA
+  508954 DISTRIBUIDORES$DIS:POR_ZONA
+  508978 KEYS$DISTRIBUIDORES
+  508988 $DISTRIBUIDORES
+  5089D4 DIAS$DIA:POR_CODIGO
+  5089F8 KEYS$DIAS
+  5089FC $DIAS
+  508A48 CATIVA$IVA:POR_CODIVA
+  508A6C CATIVA$IVA:POR_DESCRIPCION
+  508A90 KEYS$CATIVA
+  508A98 $CATIVA
+  508AE4 TRANSPOR$TRA:POR_CODIGO
+  508B08 TRANSPOR$TRA:POR_DENOMINACION
+  508B2C TRANSPOR$TRA:POR_PROVINCIA
+  508B50 TRANSPOR$TRA:POR_CATEGORIAIVA
+  508B74 KEYS$TRANSPOR
+  508B84 $TRANSPOR
+  508BD0 PROVINCI$PCIA:POR_CODIGO
+  508BF4 PROVINCI$PCIA:POR_DENOMINACION
+  508C18 KEYS$PROVINCI
+  508C20 $PROVINCI
+  508C6C ITEMGUIA$ITGUIA:POR_GUIA
+  508C90 ITEMGUIA$ITGUIA:POR_ITEM
+  508CB4 KEYS$ITEMGUIA
+  508CBC $ITEMGUIA
+  508D08 PARAMFE3$PARFE3:PARAMETROSFE_X_ID
+  508D2C KEYS$PARAMFE3
+  508D30 $PARAMFE3
+  508D7C PARAMFE$PARFE:PARAMETROSFE_X_ID
+  508DA0 KEYS$PARAMFE
+  508DA4 $PARAMFE
+  508DF0 ZONAS$ZON:POR_CODIGO
+  508E14 ZONAS$ZON:POR_NOMBRE
+  508E38 KEYS$ZONAS
+  508E40 $ZONAS
+  508E8C ITEMFAC$ITFAC:POR_FACTURA
+  508EB0 ITEMFAC$ITFAC:POR_ITEM
+  508ED4 KEYS$ITEMFAC
+  508EDC $ITEMFAC
+  508F28 APLIGUIA$APGUIA:POR_FACTURA
+  508F4C APLIGUIA$APGUIA:POR_GUIA
+  508F70 KEYS$APLIGUIA
+  508F78 $APLIGUIA
+  508FC4 APLIFAC$APFAC:POR_RECIBO
+  508FE8 APLIFAC$APFAC:POR_FACTURA
+  50900C KEYS$APLIFAC
+  509014 $APLIFAC
+  509060 $FE_RESPUESTA_RECE
+  5090AC $FE_RECE
+  5090F8 LOCALIDA$LOC:POR_LOCALIDAD
+  50911C KEYS$LOCALIDA
+  509120 $LOCALIDA
+  50916C FACPROV$FCP:POR_FECHA_PRESENTACION
+  509190 FACPROV$FCP:POR_FECHAPRESENTACIOND
+  5091B4 FACPROV$FCP:POR_NROCOMPROBANTE
+  5091D8 FACPROV$FCP:POR_PROVEEDOR_FECHA
+  5091FC FACPROV$FCP:POR_COMPROBANTE
+  509220 FACPROV$FCP:POR_REGISTRO
+  509244 FACPROV$FCP:POR_FECHA_CPTE
+  509268 FACPROV$FCP:POR_CUENTA
+  50928C FACPROV$FCP:POR_CAJA
+  5092B0 KEYS$FACPROV
+  5092D4 FACPROV$FCP:COMENTARIO
+  5092F4 MEMOS$FACPROV
+  5092F8 $FACPROV
+  509344 GUIAS$GUIA:POR_REGISTRO
+  509368 GUIAS$GUIA:POR_FECHA
+  50938C GUIAS$GUIA:POR_CLIENTE_FECHAA
+  5093B0 GUIAS$GUIA:POR_CLIENTE_FECHAD
+  5093D4 GUIAS$GUIA:POR_NUMERO
+  5093F8 GUIAS$GUIA:POR_COMPROBANTE
+  50941C GUIAS$GUIA:POR_DISTRIBUIDOR
+  509440 GUIAS$GUIA:POR_REDESPACHO
+  509464 GUIAS$GUIA:POR_REMITENTE
+  509488 GUIAS$GUIA:POR_DESTINATARIO
+  5094AC KEYS$GUIAS
+  5094D4 GUIAS$GUIA:OBSERVACION
+  5094F4 MEMOS$GUIAS
+  5094F8 $GUIAS
+  509544 FACTURAS$FAC:POR_REGISTRO
+  509568 FACTURAS$FAC:POR_NROCOMPROBANTE
+  50958C FACTURAS$FAC:POR_COMPROBANTE
+  5095B0 FACTURAS$FAC:POR_FECHAA
+  5095D4 FACTURAS$FAC:POR_FECHAD
+  5095F8 FACTURAS$FAC:POR_CLIENTE
+  50961C FACTURAS$FAC:POR_REMITENTE
+  509640 FACTURAS$FAC:POR_DESTINATARIO
+  509664 FACTURAS$FAC:POR_DISTRIBUIDOR
+  509688 KEYS$FACTURAS
+  5096AC $FACTURAS
+  5096F8 VISITAS$VIS:POR_CLIENTE
+  50971C VISITAS$VIS:POR_DIA
+  509740 KEYS$VISITAS
+  509748 $VISITAS
+  509794 PARAMETRO$PAR:POR_REGISTRO
+  5097B8 KEYS$PARAMETRO
+  5097BC $PARAMETRO
+  509808 PROVEEDORES$PROV:POR_CODPROVEEDOR
+  50982C PROVEEDORES$PROV:POR_NOMBRE
+  509850 PROVEEDORES$PROV:POR_LOCALIDAD
+  509874 PROVEEDORES$PROV:POR_TIPO
+  509898 PROVEEDORES$PROV:POR_PROVINCIA
+  5098BC PROVEEDORES$PROV:POR_TIPOIVA
+  5098E0 KEYS$PROVEEDORES
+  5098F8 PROVEEDORES$PROV:NOTAS
+  509918 MEMOS$PROVEEDORES
+  50991C $PROVEEDORES
+  509968 REDESPACHO$RD:POR_GUIA
+  50998C KEYS$REDESPACHO
+  509990 $REDESPACHO
+  5099DC COMPROBANTES$CPTE:POR_CODIGO
+  509A00 COMPROBANTES$CPTE:POR_DESCRIPCION
+  509A24 KEYS$COMPROBANTES
+  509A2C $COMPROBANTES
+  509A78 $CITIA
+  509AC4 $CITIC
+  509B10 $CITICA
+  509B5C $CITI
+  509BA8 CLIENTES$CLI:POR_CODIGO
+  509BCC CLIENTES$CLI:POR_NOMBRE
+  509BF0 CLIENTES$CLI:POR_LOCALIDAD
+  509C14 CLIENTES$CLI:POR_ZONA
+  509C38 CLIENTES$CLI:POR_DISTRIBUIDOR
+  509C5C CLIENTES$CLI:POR_CATEGORIAIVA
+  509C80 CLIENTES$CLI:POR_PROVINCIA
+  509CA4 KEYS$CLIENTES
+  509CC0 CLIENTES$CLI:NOTAS
+  509CE0 MEMOS$CLIENTES
+  509CE4 $CLIENTES
+  50AD24 P193$DBTEXTLOGFILE
+  50AD70 $EPOC
+  50AD74 P80$EXTRACTFILE
+  50ADC0 $WMFINFILE
+  50AE0C P20$OUTFILE
+  50AE58 P21$INFILE
+  50AEB0 COMISBC0$_HIDE:RELATE:ZONAS
+  50AEB4 COMISBC0$_HIDE:ACCESS:ZONAS
+  50AEB8 COMISBC0$_HIDE:RELATE:ITEMFAC
+  50AEBC COMISBC0$_HIDE:ACCESS:ITEMFAC
+  50AEC0 COMISBC0$_HIDE:RELATE:APLIGUIA
+  50AEC4 COMISBC0$_HIDE:ACCESS:APLIGUIA
+  50AEC8 COMISBC0$_HIDE:RELATE:APLIFAC
+  50AECC COMISBC0$_HIDE:ACCESS:APLIFAC
+  50AED0 COMISBC0$_HIDE:RELATE:FE_RESPUESTA_RECE
+  50AED4 COMISBC0$_HIDE:ACCESS:FE_RESPUESTA_RECE
+  50AED8 COMISBC0$_HIDE:RELATE:FE_RECE
+  50AEDC COMISBC0$_HIDE:ACCESS:FE_RECE
+  50AEE0 COMISBC0$_HIDE:RELATE:LOCALIDA
+  50AEE4 COMISBC0$_HIDE:ACCESS:LOCALIDA
+  50AEE8 COMISBC0$_HIDE:RELATE:FACPROV
+  50AEEC COMISBC0$_HIDE:ACCESS:FACPROV
+  50AEF0 COMISBC0$_HIDE:RELATE:GUIAS
+  50AEF4 COMISBC0$_HIDE:ACCESS:GUIAS
+  50AEF8 COMISBC0$_HIDE:RELATE:FACTURAS
+  50AEFC COMISBC0$_HIDE:ACCESS:FACTURAS
+  50AF00 COMISBC0$_HIDE:RELATE:VISITAS
+  50AF04 COMISBC0$_HIDE:ACCESS:VISITAS
+  50AF08 COMISBC0$_HIDE:RELATE:PARAMETRO
+  50AF0C COMISBC0$_HIDE:ACCESS:PARAMETRO
+  50AF10 COMISBC0$_HIDE:RELATE:PROVEEDORES
+  50AF14 COMISBC0$_HIDE:ACCESS:PROVEEDORES
+  50AF18 COMISBC0$_HIDE:RELATE:REDESPACHO
+  50AF1C COMISBC0$_HIDE:ACCESS:REDESPACHO
+  50AF20 COMISBC0$_HIDE:RELATE:COMPROBANTES
+  50AF24 COMISBC0$_HIDE:ACCESS:COMPROBANTES
+  50AF28 COMISBC0$_HIDE:RELATE:CITIA
+  50AF2C COMISBC0$_HIDE:ACCESS:CITIA
+  50AF30 COMISBC0$_HIDE:RELATE:CITIC
+  50AF34 COMISBC0$_HIDE:ACCESS:CITIC
+  50AF38 COMISBC0$_HIDE:RELATE:CITICA
+  50AF3C COMISBC0$_HIDE:ACCESS:CITICA
+  50AF40 COMISBC0$_HIDE:RELATE:CITI
+  50AF44 COMISBC0$_HIDE:ACCESS:CITI
+  50AF48 COMISBC0$_HIDE:RELATE:CLIENTES
+  50AF4C COMISBC0$_HIDE:ACCESS:CLIENTES
+  50AF50 COMISBC1$_HIDE:RELATE:LOCALIDAD2
+  50AF54 COMISBC1$_HIDE:ACCESS:LOCALIDAD2
+  50AF58 COMISBC1$_HIDE:RELATE:DESTINATARIO
+  50AF5C COMISBC1$_HIDE:ACCESS:DESTINATARIO
+  50AF60 COMISBC1$_HIDE:RELATE:REMITENTE
+  50AF64 COMISBC1$_HIDE:ACCESS:REMITENTE
+  50AF68 COMISBC1$_HIDE:RELATE:RECIBOS
+  50AF6C COMISBC1$_HIDE:ACCESS:RECIBOS
+  50AF70 COMISBC1$_HIDE:RELATE:CATIVAREM
+  50AF74 COMISBC1$_HIDE:ACCESS:CATIVAREM
+  50AF78 COMISBC1$_HIDE:RELATE:CATIVADES
+  50AF7C COMISBC1$_HIDE:ACCESS:CATIVADES
+  50AF80 COMISBC1$_HIDE:RELATE:TRANSLOC
+  50AF84 COMISBC1$_HIDE:ACCESS:TRANSLOC
+  50AF88 COMISBC1$_HIDE:RELATE:BANCOS
+  50AF8C COMISBC1$_HIDE:ACCESS:BANCOS
+  50AF90 COMISBC1$_HIDE:RELATE:VALORES
+  50AF94 COMISBC1$_HIDE:ACCESS:VALORES
+  50AF98 COMISBC1$_HIDE:RELATE:DISTRIBUIDORES
+  50AF9C COMISBC1$_HIDE:ACCESS:DISTRIBUIDORES
+  50AFA0 COMISBC1$_HIDE:RELATE:DIAS
+  50AFA4 COMISBC1$_HIDE:ACCESS:DIAS
+  50AFA8 COMISBC1$_HIDE:RELATE:CATIVA
+  50AFAC COMISBC1$_HIDE:ACCESS:CATIVA
+  50AFB0 COMISBC1$_HIDE:RELATE:TRANSPOR
+  50AFB4 COMISBC1$_HIDE:ACCESS:TRANSPOR
+  50AFB8 COMISBC1$_HIDE:RELATE:PROVINCI
+  50AFBC COMISBC1$_HIDE:ACCESS:PROVINCI
+  50AFC0 COMISBC1$_HIDE:RELATE:ITEMGUIA
+  50AFC4 COMISBC1$_HIDE:ACCESS:ITEMGUIA
+  50AFC8 COMISBC1$_HIDE:RELATE:PARAMFE3
+  50AFCC COMISBC1$_HIDE:ACCESS:PARAMFE3
+  50AFD0 COMISBC1$_HIDE:RELATE:PARAMFE
+  50AFD4 COMISBC1$_HIDE:ACCESS:PARAMFE
+  50AFD8 $GLOBALERRORSTATUS
+  50B6F8 $GLOBALREQUEST
+  50B6FC $GLOBALRESPONSE
+  50B700 $VCRREQUEST
+  50B704 $DICTIONARY
+  50B708 LOCALIDAD2$LOC2:RECORD
+  50B728 DESTINATARIO$DES:RECORD
+  50B81C REMITENTE$RTE:RECORD
+  50B910 RECIBOS$REC:RECORD
+  50BBA8 CATIVAREM$IVAR:RECORD
+  50BBC8 CATIVADES$IVAD:RECORD
+  50BBE8 TRANSLOC$TRL:RECORD
+  50BC14 BANCOS$BCO:RECORD
+  50BC40 VALORES$VAL:RECORD
+  50BC64 DISTRIBUIDORES$DIS:RECORD
+  50BD28 DIAS$DIA:RECORD
+  50BD34 CATIVA$IVA:RECORD
+  50BD54 TRANSPOR$TRA:RECORD
+  50BE38 PROVINCI$PCIA:RECORD
+  50BE50 ITEMGUIA$ITGUIA:RECORD
+  50BE8C PARAMFE3$PARFE3:RECORD
+  50BF74 PARAMFE$PARFE:RECORD
+  50C068 ZONAS$ZON:RECORD
+  50C094 ITEMFAC$ITFAC:RECORD
+  50C0CC APLIGUIA$APGUIA:RECORD
+  50C0D4 APLIFAC$APFAC:RECORD
+  50C0FC FE_RESPUESTA_RECE$FE_RESP:RECORD
+  50C220 FE_RECE$FRECE:RECORD
+  50C344 LOCALIDA$LOC:RECORD
+  50C364 FACPROV$FCP:RECORD
+  50C3E4 GUIAS$GUIA:RECORD
+  50C538 FACTURAS$FAC:RECORD
+  50C7D0 VISITAS$VIS:RECORD
+  50C7D8 PARAMETRO$PAR:RECORD
+  50C8A8 PROVEEDORES$PROV:RECORD
+  50C9D0 REDESPACHO$RD:RECORD
+  50C9E0 COMPROBANTES$CPTE:RECORD
+  50CA00 CITIA$CITIA:RECORD
+  50CB90 CITIC$CITIC:RECORD
+  50CD20 CITICA$CITICA:RECORD
+  50CEB0 CITI$CITI:RECORD
+  50D040 CLIENTES$CLI:RECORD
+  50D134 $RELATE:LOCALIDAD2
+  50D138 $ACCESS:LOCALIDAD2
+  50D13C $RELATE:DESTINATARIO
+  50D140 $ACCESS:DESTINATARIO
+  50D144 $RELATE:REMITENTE
+  50D148 $ACCESS:REMITENTE
+  50D14C $RELATE:RECIBOS
+  50D150 $ACCESS:RECIBOS
+  50D154 $RELATE:CATIVAREM
+  50D158 $ACCESS:CATIVAREM
+  50D15C $RELATE:CATIVADES
+  50D160 $ACCESS:CATIVADES
+  50D164 $RELATE:TRANSLOC
+  50D168 $ACCESS:TRANSLOC
+  50D16C $RELATE:BANCOS
+  50D170 $ACCESS:BANCOS
+  50D174 $RELATE:VALORES
+  50D178 $ACCESS:VALORES
+  50D17C $RELATE:DISTRIBUIDORES
+  50D180 $ACCESS:DISTRIBUIDORES
+  50D184 $RELATE:DIAS
+  50D188 $ACCESS:DIAS
+  50D18C $RELATE:CATIVA
+  50D190 $ACCESS:CATIVA
+  50D194 $RELATE:TRANSPOR
+  50D198 $ACCESS:TRANSPOR
+  50D19C $RELATE:PROVINCI
+  50D1A0 $ACCESS:PROVINCI
+  50D1A4 $RELATE:ITEMGUIA
+  50D1A8 $ACCESS:ITEMGUIA
+  50D1AC $RELATE:PARAMFE3
+  50D1B0 $ACCESS:PARAMFE3
+  50D1B4 $RELATE:PARAMFE
+  50D1B8 $ACCESS:PARAMFE
+  50D1BC $RELATE:ZONAS
+  50D1C0 $ACCESS:ZONAS
+  50D1C4 $RELATE:ITEMFAC
+  50D1C8 $ACCESS:ITEMFAC
+  50D1CC $RELATE:APLIGUIA
+  50D1D0 $ACCESS:APLIGUIA
+  50D1D4 $RELATE:APLIFAC
+  50D1D8 $ACCESS:APLIFAC
+  50D1DC $RELATE:FE_RESPUESTA_RECE
+  50D1E0 $ACCESS:FE_RESPUESTA_RECE
+  50D1E4 $RELATE:FE_RECE
+  50D1E8 $ACCESS:FE_RECE
+  50D1EC $RELATE:LOCALIDA
+  50D1F0 $ACCESS:LOCALIDA
+  50D1F4 $RELATE:FACPROV
+  50D1F8 $ACCESS:FACPROV
+  50D1FC $RELATE:GUIAS
+  50D200 $ACCESS:GUIAS
+  50D204 $RELATE:FACTURAS
+  50D208 $ACCESS:FACTURAS
+  50D20C $RELATE:VISITAS
+  50D210 $ACCESS:VISITAS
+  50D214 $RELATE:PARAMETRO
+  50D218 $ACCESS:PARAMETRO
+  50D21C $RELATE:PROVEEDORES
+  50D220 $ACCESS:PROVEEDORES
+  50D224 $RELATE:REDESPACHO
+  50D228 $ACCESS:REDESPACHO
+  50D22C $RELATE:COMPROBANTES
+  50D230 $ACCESS:COMPROBANTES
+  50D234 $RELATE:CITIA
+  50D238 $ACCESS:CITIA
+  50D23C $RELATE:CITIC
+  50D240 $ACCESS:CITIC
+  50D244 $RELATE:CITICA
+  50D248 $ACCESS:CITICA
+  50D24C $RELATE:CITI
+  50D250 $ACCESS:CITI
+  50D254 $RELATE:CLIENTES
+  50D258 $ACCESS:CLIENTES
+  50E7F0 $FILESMANAGER
+  50E808 $SZDBTEXTLOG
+  50E910 P193$DBTEXTLOGFILE$RECORD
+  50ECFC P80$EXTRACTFILE$EXTRACTFILE@:RECORD
+  50F0FC WMFINFILE$WMFF@:RECORD
+  510488 P20$OUTFILE$OUTFILE@:RECORD
+  51848C P21$INFILE$INFILE@:RECORD
+  521000 __import_section_start
+  5230DC __import_section_end
+
+Imports
+c60ascx:ASCII 521094
+c60dosx:DOS 5210A4
+c60runx:Cla$ACCEPTED 521528,401000
+c60runx:Cla$ADDqueue 52152C,401008
+c60runx:Cla$ADDqueuefkey 521530,401010
+c60runx:Cla$ADDqueuekey 521534,401018
+c60runx:Cla$ADDqueueptr 521538,401020
+c60runx:Cla$AddressUfo 52153C,401028
+c60runx:Cla$AssertFailed 521540,401030
+c60runx:Cla$AssertFailedM 521544,401038
+c60runx:Cla$AssignLong2RefUfo 521548,401040
+c60runx:Cla$AssignReal2RefUfo 52154C,401048
+c60runx:Cla$AssignRefUfo 521550,401050
+c60runx:Cla$BEEP 521554,401058
+c60runx:Cla$BindG 521558,401060
+c60runx:Cla$BindV 52155C,401068
+c60runx:Cla$BLANK 521560,401070
+c60runx:Cla$BOX 521564,401078
+c60runx:Cla$CHANGE 521568,401080
+c60runx:Cla$CHOICE 52156C,401088
+c60runx:Cla$CLEAR 521570,401090
+c60runx:Cla$ClearDec 521574,401098
+c60runx:Cla$CLEARqueue 521578,4010A0
+c60runx:Cla$clearstr 52157C,4010A8
+c60runx:Cla$ClearType 521580,4010B0
+c60runx:Cla$ClearUfo 521584,4010B8
+c60runx:Cla$CLOCK 521588,4010C0
+c60runx:Cla$CloneUfo 52158C,4010C8
+c60runx:Cla$CLOSEwindow 521590,4010D0
+c60runx:Cla$code 521594,4010D8
+c60runx:Cla$COMMIT 521598,4010E0
+c60runx:Cla$comparestr 52159C,4010E8
+c60runx:Cla$CopyFile 5215A0,4010F0
+c60runx:Cla$CREATE 5215A4,4010F8
+c60runx:Cla$DAbs 5215A8,401100
+c60runx:Cla$DATE 5215AC,401108
+c60runx:Cla$DAY 5215B0,401110
+c60runx:Cla$DEBUGHOOK 5215B4,401118
+c60runx:Cla$DecAdd 5215B8,401120
+c60runx:Cla$DecCompareN 5215BC,401128
+c60runx:Cla$DecDistinct 5215C0,401130
+c60runx:Cla$DecDistinctR 5215C4,401138
+c60runx:Cla$DecDivide 5215C8,401140
+c60runx:Cla$DecDivideR 5215CC,401148
+c60runx:Cla$DecMul 5215D0,401150
+c60runx:Cla$DecSub 5215D4,401158
+c60runx:Cla$DecSubR 5215D8,401160
+c60runx:Cla$DELETEqueue 5215DC,401168
+c60runx:Cla$DELETEREG 5215E0,401170
+c60runx:Cla$DESTROY 5215E4,401178
+c60runx:Cla$DInt 5215E8,401180
+c60runx:Cla$DISABLE 5215EC,401188
+c60runx:Cla$DISPLAY 5215F0,401190
+c60runx:Cla$DISPOSEqueue 5215F4,401198
+c60runx:Cla$DISPOSEref 5215F8,4011A0
+c60runx:Cla$DISPOSEvref 5215FC,4011A8
+c60runx:Cla$Dlongpower 521600,4011B0
+c60runx:Cla$DPopDec 521604,4011B8
+c60runx:Cla$DPopLong 521608,4011C0
+c60runx:Cla$DPopReal 52160C,4011C8
+c60runx:Cla$DPopUlong 521610,4011D0
+c60runx:Cla$DPushConstant 521614,4011D8
+c60runx:Cla$DPushDec 521618,4011E0
+c60runx:Cla$DPushLong 52161C,4011E8
+c60runx:Cla$DPushReal 521620,4011F0
+c60runx:Cla$DPushULong 521624,4011F8
+c60runx:Cla$DRound 521628,401200
+c60runx:Cla$DStack2Stack 52162C,401208
+c60runx:Cla$duplicate 521630,401210
+c60runx:Cla$ENABLE 521634,401218
+c60runx:Cla$EndEventLoop 521638,401220
+c60runx:Cla$EndEventLoops 52163C,401228
+c60runx:Cla$ENDPAGE 521640,401230
+c60runx:Cla$ERRORCODE 521644,401238
+c60runx:Cla$Evaluate 521648,401240
+c60runx:Cla$EVENT 52164C,401248
+c60runx:Cla$FIELD 521650,401250
+c60runx:Cla$FILEERRORCODE 521654,401258
+c60runx:Cla$FILEERRORMSG 521658,401260
+c60runx:Cla$FileExists 52165C,401268
+c60runx:Cla$FILE_ADDf 521660,401270
+c60runx:Cla$FILE_BUFFER 521664,401278
+c60runx:Cla$FILE_BUILDf 521668,401280
+c60runx:Cla$FILE_BYTES 52166C,401288
+c60runx:CLA$FILE_CALLBACK 521670,401290
+c60runx:Cla$FILE_CEOF 521674,401298
+c60runx:Cla$FILE_CLEAR 521678,4012A0
+c60runx:Cla$FILE_CLOSE 52167C,4012A8
+c60runx:Cla$FILE_CREATE 521680,4012B0
+c60runx:Cla$FILE_DELETE 521684,4012B8
+c60runx:CLA$FILE_DESTROY 521688,4012C0
+c60runx:Cla$FILE_DUPLICATEk 52168C,4012C8
+c60runx:Cla$FILE_FLUSH 521690,4012D0
+c60runx:CLA$FILE_FREESTATE 521694,4012D8
+c60runx:Cla$FILE_GETfk 521698,4012E0
+c60runx:Cla$FILE_GETfl 52169C,4012E8
+c60runx:Cla$FILE_GETflu 5216A0,4012F0
+c60runx:Cla$FILE_GETNULLS 5216A4,4012F8
+c60runx:CLA$FILE_GETSTATE 5216A8,401300
+c60runx:Cla$FILE_GET_PROPERTY 5216AC,401308
+c60runx:Cla$FILE_NAME 5216B0,401310
+c60runx:Cla$FILE_NEXT 5216B4,401318
+c60runx:Cla$FILE_NOMEMO 5216B8,401320
+c60runx:Cla$FILE_OPEN 5216BC,401328
+c60runx:Cla$FILE_POSITIONf 5216C0,401330
+c60runx:Cla$FILE_POSITIONk 5216C4,401338
+c60runx:Cla$FILE_PREV 5216C8,401340
+c60runx:Cla$FILE_PUTf 5216CC,401348
+c60runx:Cla$FILE_RECORDSf 5216D0,401350
+c60runx:Cla$FILE_REGETf 5216D4,401358
+c60runx:Cla$FILE_REGETk 5216D8,401360
+c60runx:Cla$FILE_REMOVE 5216DC,401368
+c60runx:Cla$FILE_RESETf 5216E0,401370
+c60runx:Cla$FILE_RESETk 5216E4,401378
+c60runx:CLA$FILE_RESTORESTATE 5216E8,401380
+c60runx:Cla$FILE_SEND 5216EC,401388
+c60runx:Cla$FILE_SETfk 5216F0,401390
+c60runx:Cla$FILE_SETfl 5216F4,401398
+c60runx:Cla$FILE_SETk 5216F8,4013A0
+c60runx:Cla$FILE_SETkk 5216FC,4013A8
+c60runx:Cla$FILE_SETNULLS 521700,4013B0
+c60runx:Cla$FILE_SET_PROPERTY 521704,4013B8
+c60runx:Cla$FILE_STREAM 521708,4013C0
+c60runx:Cla$FILE_WATCH 52170C,4013C8
+c60runx:Cla$FIRSTFIELD 521710,4013D0
+c60runx:Cla$FOCUS 521714,4013D8
+c60runx:Cla$FORWARDKEY 521718,4013E0
+c60runx:Cla$FREEqueue 52171C,4013E8
+c60runx:Cla$FREEqueuea 521720,4013F0
+c60runx:Cla$freestr 521724,4013F8
+c60runx:Cla$FreeUfo 521728,401400
+c60runx:Cla$freewindow 52172C,401408
+c60runx:Cla$GETINI 521730,401410
+c60runx:Cla$GETPOSITION 521734,401418
+c60runx:Cla$GetPropS 521738,401420
+c60runx:Cla$GETqueuekey 52173C,401428
+c60runx:Cla$GETqueueptr 521740,401430
+c60runx:Cla$GETREG 521744,401438
+c60runx:Cla$Group2Ufo 521748,401440
+c60runx:Cla$HALT 52174C,401448
+c60runx:Cla$HIDE 521750,401450
+c60runx:Cla$INCOMPLETE 521754,401458
+c60runx:Cla$init 521758,401460
+c60runx:Cla$INSTANCE 52175C,401468
+c60runx:Cla$INT 521760,401470
+c60runx:Cla$IsAlpha 521764,401478
+c60runx:Cla$IsUfoString 521768,401480
+c60runx:Cla$IsUpper 52176C,401488
+c60runx:Cla$KEYCHAR 521770,401490
+c60runx:Cla$KEYCODE 521774,401498
+c60runx:Cla$KEYSTATE 521778,4014A0
+c60runx:Cla$KEY_GET_PROPERTY 52177C,4014A8
+c60runx:Cla$LASTFIELD 521780,4014B0
+c60runx:Cla$loadbtdate 521784,4014B8
+c60runx:Cla$loaddec 521788,4014C0
+c60runx:Cla$LOGOUT 52178C,4014C8
+c60runx:Cla$longtostr 521790,4014D0
+c60runx:Cla$Mem2Ufo 521794,4014D8
+c60runx:Cla$MessageBox 521798,4014E0
+c60runx:Cla$modulus 52179C,4014E8
+c60runx:Cla$MONTH 5217A0,4014F0
+c60runx:Cla$MOUSEX 5217A4,4014F8
+c60runx:Cla$MOUSEY 5217A8,401500
+c60runx:Cla$NewCriticalSection 5217AC,401508
+c60runx:Cla$NewMemB 5217B0,401510
+c60runx:Cla$NewMemT 5217B4,401518
+c60runx:Cla$NewMemZ 5217B8,401520
+c60runx:Cla$NEWqueue 5217BC,401528
+c60runx:Cla$NOTIFICATION 5217C0,401530
+c60runx:Cla$OPENowned 5217C4,401538
+c60runx:Cla$OPENwindow 5217C8,401540
+c60runx:Cla$paopen 5217CC,401548
+c60runx:Cla$PENCOLOR 5217D0,401550
+c60runx:Cla$pmopen 5217D4,401558
+c60runx:Cla$POINTERqueue 5217D8,401560
+c60runx:Cla$PopAString 5217DC,401568
+c60runx:Cla$PopBind 5217E0,401570
+c60runx:Cla$PopCString 5217E4,401578
+c60runx:Cla$PopReal 5217E8,401580
+c60runx:Cla$PopString 5217EC,401588
+c60runx:Cla$PopTemp 5217F0,401590
+c60runx:Cla$POPUP 5217F4,401598
+c60runx:Cla$POSITIONqueue 5217F8,4015A0
+c60runx:Cla$POST 5217FC,4015A8
+c60runx:Cla$PRESSKEY 521800,4015B0
+c60runx:Cla$PRINTreport 521804,4015B8
+c60runx:Cla$propen 521808,4015C0
+c60runx:Cla$PushAString 52180C,4015C8
+c60runx:Cla$PushBind 521810,4015D0
+c60runx:Cla$PushCString 521814,4015D8
+c60runx:Cla$PushLong 521818,4015E0
+c60runx:Cla$PushPictDec 52181C,4015E8
+c60runx:Cla$PushPictLong 521820,4015F0
+c60runx:Cla$PushReal 521824,4015F8
+c60runx:Cla$PushString 521828,401600
+c60runx:Cla$PushUfo 52182C,401608
+c60runx:Cla$PUTINI 521830,401610
+c60runx:Cla$PUTqueue 521834,401618
+c60runx:Cla$PUTqueuekey 521838,401620
+c60runx:Cla$PUTREG 52183C,401628
+c60runx:Cla$pwopen 521840,401630
+c60runx:Cla$QUOTE 521844,401638
+c60runx:Cla$realdistinct 521848,401640
+c60runx:Cla$RECORDSqueue 52184C,401648
+c60runx:Cla$RefAssignAny 521850,401650
+c60runx:Cla$REGISTEREVENT 521854,401658
+c60runx:Cla$REGULAR 521858,401660
+c60runx:Cla$RemoveFile 52185C,401668
+c60runx:Cla$RenameFile 521860,401670
+c60runx:Cla$ROLLBACK 521864,401678
+c60runx:Cla$rterr 521868,401680
+c60runx:Cla$RUN 52186C,401688
+c60runx:Cla$SELECT 521870,401690
+c60runx:Cla$SELECTED 521874,401698
+c60runx:Cla$SETCLIPBOARD 521878,4016A0
+c60runx:Cla$SETCURSOR 52187C,4016A8
+c60runx:Cla$SETKEYCODE 521880,4016B0
+c60runx:Cla$SETPENCOLOR 521884,4016B8
+c60runx:Cla$SETPOSITION 521888,4016C0
+c60runx:Cla$SetPropF 52188C,4016C8
+c60runx:Cla$SetPropS 521890,4016D0
+c60runx:Cla$SetPropV 521894,4016D8
+c60runx:Cla$SETTARGET 521898,4016E0
+c60runx:Cla$SHORTPATH 52189C,4016E8
+c60runx:Cla$SHOW 5218A0,4016F0
+c60runx:Cla$SORTqueuekey 5218A4,4016F8
+c60runx:Cla$Stack2DStack 5218A8,401700
+c60runx:Cla$Stack2Ufo 5218AC,401708
+c60runx:Cla$StackALL 5218B0,401710
+c60runx:Cla$StackCLIP 5218B4,401718
+c60runx:Cla$StackCompare 5218B8,401720
+c60runx:Cla$StackCompareN 5218BC,401728
+c60runx:Cla$StackCompareNEQ 5218C0,401730
+c60runx:Cla$StackCompareR 5218C4,401738
+c60runx:Cla$StackConcat 5218C8,401740
+c60runx:Cla$StackConcatR 5218CC,401748
+c60runx:Cla$StackCONTENTS 5218D0,401750
+c60runx:Cla$StackDEFORMAT2 5218D4,401758
+c60runx:Cla$StackErrstr 5218D8,401760
+c60runx:Cla$StackHeap 5218DC,401768
+c60runx:Cla$StackINLIST 5218E0,401770
+c60runx:Cla$StackINSTRING 5218E4,401778
+c60runx:Cla$StackLEFT 5218E8,401780
+c60runx:Cla$StackLen 5218EC,401788
+c60runx:Cla$StackNUMERIC 5218F0,401790
+c60runx:Cla$STACKpop 5218F4,401798
+c60runx:Cla$StackRotate 5218F8,4017A0
+c60runx:Cla$StackSUB 5218FC,4017A8
+c60runx:Cla$StackUPPER 521900,4017B0
+c60runx:Cla$START 521904,4017B8
+c60runx:Cla$START2 521908,4017C0
+c60runx:Cla$StartEventLoop 52190C,4017C8
+c60runx:Cla$StashBP 521910,4017D0
+c60runx:Cla$STATUSfile 521914,4017D8
+c60runx:Cla$storebtdate 521918,4017E0
+c60runx:Cla$storecstr 52191C,4017E8
+c60runx:Cla$storedec 521920,4017F0
+c60runx:Cla$storestr 521924,4017F8
+c60runx:Cla$String2Ref 521928,401800
+c60runx:Cla$THREAD 52192C,401808
+c60runx:Cla$THREAD_FILE 521930,401810
+c60runx:Cla$TODAY 521934,401818
+c60runx:Cla$Ufo2Real 521938,401820
+c60runx:Cla$UfoCompareN 52193C,401828
+c60runx:Cla$Ufodistinct 521940,401830
+c60runx:Cla$UNHIDE 521944,401838
+c60runx:Cla$UNQUOTE 521948,401840
+c60runx:Cla$UNREGISTEREVENT 52194C,401848
+c60runx:Cla$UPDATE 521950,401850
+c60runx:Cla$VIEW_RESETvf 521954,401858
+c60runx:Cla$VIEW_SETvl 521958,401860
+c60runx:Cla$WHAT 52195C,401868
+c60runx:Cla$WHATqueue 521960,401870
+c60runx:Cla$WHO 521964,401878
+c60runx:Cla$WHOqueue 521968,401880
+c60runx:Cla$YEAR 52196C,401888
+c60runx:Cla$YIELD 521970,401890
+c60runx:THR$GetInstance 521974,401898
+c60runx:VIEWDRIVER 521978
+c60runx:Wsl$CloseDown 52197C,4018A0
+c60runx:_exit 521980,4018A8
+c60runx:_fnsplit 521984,4018B0
+c60runx:_free 521988,4018B8
+c60runx:_longjmp 52198C,4018C0
+c60runx:_malloc 521990,4018C8
+c60runx:_setjmp 521994,4018D0
+c60runx:__sysinit 521998,4018D8
+c60runx:__sysstart 52199C,4018E0
+c60tpsx:TOPSPEED 5219AC
+KERNEL32.dll:MulDiv 5219C0,4018E8
+KERNEL32.dll:Sleep 5219C4,4018F0
+USER32.dll:keybd_event 5219D8,4018F8
+USER32.dll:SystemParametersInfoA 5219DC
+
+
+
+Entry Point:   4B082C

@@ -1,0 +1,13 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=720840970
++CurrentKey=LOC:Por_Localidad
+ENV File Path=
+OEM=0
+Record Order=Record Order
+LOC:Por_Localidad=LOC:Por_Localidad
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+Localidad=56L(2)~Localidad~C(0)?Localidad:
+Columns=2
+Column1=RECORD NUMBER
+Column2=LOCALIDAD

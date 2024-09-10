@@ -1,0 +1,3 @@
+  MODULE('COMIS048.CLW')
+UpdateITEMFAC          PROCEDURE
+  END

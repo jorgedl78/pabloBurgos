@@ -1,0 +1,3 @@
+  MODULE('COMIS103.CLW')
+WinResumenCtaCte       PROCEDURE
+  END

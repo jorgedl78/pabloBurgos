@@ -1,0 +1,3 @@
+  MODULE('COMIS010.CLW')
+SelectCATIVA           PROCEDURE
+  END

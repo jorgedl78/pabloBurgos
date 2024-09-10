@@ -1,0 +1,3 @@
+  MODULE('COMIS005.CLW')
+ZONAS                  PROCEDURE
+  END

@@ -1,0 +1,17 @@
+[UNNAMED]
++SessionDate=18/07/2024
+crc32v2=1701261167
++CurrentKey=RD:POR_GUIA
+ENV File Path=
+OEM=0
+Record Order=Record Order
+RD:POR_GUIA=RD:POR_GUIA
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+GUIA=32R(2)~Guia~C(0)@N-13@?Guia:
+IMPORTE=45D(18)~Importe~C(0)@N-10.2@?Importe:
+ESTADO=43R(2)~Estado~C(0)@N-13@?Estado:
+Columns=4
+Column1=RECORD NUMBER
+Column2=GUIA
+Column3=IMPORTE
+Column4=ESTADO

@@ -1,0 +1,3 @@
+  MODULE('COMIS131.CLW')
+Generar_archivo_RECE   PROCEDURE
+  END

@@ -1,0 +1,3 @@
+  MODULE('COMIS056.CLW')
+WinSubdiarioIVACompras PROCEDURE
+  END

@@ -1,0 +1,22 @@
+[UNNAMED]
++SessionDate=10/09/2024
+crc32v2=3064176749
++CurrentKey=CPTE:Por_Descripcion
+ENV File Path=
+OEM=0
+Record Order=Record Order
+CPTE:Por_Codigo=CPTE:Por_Codigo
+CPTE:Por_Descripcion=CPTE:Por_Descripcion
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+Codigo=43R(2)~Codigo~C(0)@N3@?Codigo:
+Descripcion=66L(2)~Descripcion~C(0)?Descripcion:
+Abreviatura=64L(2)~Abreviatura~C(0)?Abreviatura:
+Letra=34L(2)~Letra~C(0)?Letra:
+Debito_Credito=77L(2)~Debito Credito~C(0)?Debito Credito:
+Columns=6
+Column1=RECORD NUMBER
+Column2=CODIGO
+Column3=DESCRIPCION
+Column4=ABREVIATURA
+Column5=LETRA
+Column6=DEBITO_CREDITO

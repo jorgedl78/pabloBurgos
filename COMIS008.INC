@@ -1,0 +1,3 @@
+  MODULE('COMIS008.CLW')
+CATIVA                 PROCEDURE
+  END

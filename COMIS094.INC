@@ -1,0 +1,3 @@
+  MODULE('COMIS094.CLW')
+BANCOS                 PROCEDURE
+  END
