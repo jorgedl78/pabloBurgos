@@ -1,0 +1,155 @@
+-----------------------------------------------
+26/07/2025 19:28:12
+
+
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:ser="https://wsaahomo.afip.gov.ar/ws/services/LoginCms" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Header/>
+<soapenv:Body>
+    <ser:loginCms>
+    <in0>MIIG5wYJKoZIhvcNAQcCoIIG2DCCBtQCAQExCzAJBgUrDgMCGgUAMIIBHwYJKoZI
+hvcNAQcBoIIBEASCAQw8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYt
+OCI/Pjxsb2dpblRpY2tldFJlcXVlc3QgdmVyc2lvbj0iMS4wIj48aGVhZGVyPjx1
+bmlxdWVJZD4xNzUzNTY4ODg3PC91bmlxdWVJZD48Z2VuZXJhdGlvblRpbWU+MjAy
+NS0wNy0yNlQwOToyODowNzwvZ2VuZXJhdGlvblRpbWU+PGV4cGlyYXRpb25UaW1l
+PjIwMjUtMDctMjdUMDU6Mjg6MDc8L2V4cGlyYXRpb25UaW1lPjwvaGVhZGVyPjxz
+ZXJ2aWNlPndzZmU8L3NlcnZpY2U+PC9sb2dpblRpY2tldFJlcXVlc3Q+oIIDUzCC
+A08wggI3oAMCAQICCDZdI6Q7xYs5MA0GCSqGSIb3DQEBDQUAMDgxGjAYBgNVBAMM
+EUNvbXB1dGFkb3JlcyBUZXN0MQ0wCwYDVQQKDARBRklQMQswCQYDVQQGEwJBUjAe
+Fw0yNTA3MjAxNDI0MjRaFw0yNzA3MjAxNDI0MjRaMDUxGDAWBgNVBAMMD2pkbEhv
+bW9sb2dhY2lvbjEZMBcGA1UEBRMQQ1VJVCAyMDI2NTI5OTcyNjCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALvJ3WmuMFsFzsONZL0MCrYRF+JoptP4fdXW
+bKv///kVXahv8X/GPVdj20iAvXhC+slQLfcRD25V2C56qTeSguzFE9cAp6PS/+6B
+ZyR41Nrubwg0n5/XpRjtsfIhjOuMuKtncmQA+2tMl/JKSNgt+jjfLJEM/XVpEsTo
+l1/034Rgbtlf6m/pDUTSyD8/P7BveWi65+BYzoMOthqwirBb9RXGy9XV2wyVifg7
+6pPnJp5J0AmRM0enQOi4UKPIfMGD5jImyUosLF8iW6atjMEAdUyxkjAcmefx5kRA
+A1Tt6MdjVTpu/kI9wa+r1tcDuLI3puwVwm+3jmp/DrICK9N6/okCAwEAAaNgMF4w
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSzstP//em63t6NrxEhnNYgffJPbzAd
+BgNVHQ4EFgQU0ekiqQjCo47lusfvSjMSrQ+0AAMwDgYDVR0PAQH/BAQDAgXgMA0G
+CSqGSIb3DQEBDQUAA4IBAQCME+Swa/NTBKv5QivQ2dGHbsivnrFoGgzEPEOhaGMQ
+ItQSnZzX2hChW+VYAIgJC1hN975LGystGR7xvSOKNUD7WRvdDd8g38EEUhM00E/o
+6nLrsI35fUSU1wuSxOmQAp0Pii6jeInCfhHMpAwprdTXnovqlILOaDYh3jE9HyNe
+K8FNeRPT/4nrA22UH4buhnAg7mTbLC5dUYFPsQ3c7oPGdt8BYrjbyUg9bdyhiPUB
+TybMWkHkYvi/erEgR+I3mlnK3EGr/58+ndNc69gfL9l4zTyFpaHChB7h/49uAu/3
+ChnpW+Lce5WFX/dIQpdjP8WxB7cB6onfqe67Td41SpMCMYICRjCCAkICAQEwRDA4
+MRowGAYDVQQDDBFDb21wdXRhZG9yZXMgVGVzdDENMAsGA1UECgwEQUZJUDELMAkG
+A1UEBhMCQVICCDZdI6Q7xYs5MAkGBSsOAwIaBQCggdgwGAYJKoZIhvcNAQkDMQsG
+CSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUwNzI2MjIyODA3WjAjBgkqhkiG
+9w0BCQQxFgQUBh8wBiBr3HrWN7fNryd8Vr5CgNoweQYJKoZIhvcNAQkPMWwwajAL
+BglghkgBZQMEASowCwYJYIZIAWUDBAEWMAsGCWCGSAFlAwQBAjAKBggqhkiG9w0D
+BzAOBggqhkiG9w0DAgICAIAwDQYIKoZIhvcNAwICAUAwBwYFKw4DAgcwDQYIKoZI
+hvcNAwICASgwDQYJKoZIhvcNAQEBBQAEggEAtw7HoWaEprHkxCUhLkhWLreE+p6d
+W+/TnshCdNSMt7OEFjcmWIrxF0b3zt0GtOoFGj3D8K99BzvUZbIDSdVOywcT5Fyy
+FQePHd5O51TU27u0j1whdvybPr0Pi7KP5JkrGWSkgCHO+VasexPfnctWUEbcthv6
+TIb2nwhAquZ7ACAnTE6flW5VHYfznlXixJneI95Jd5UuOAY3FHVnOkiH03t6kh1X
+kioRi3d4h8dYLwElVzSzIALq/ULB9NqzwNwBKMt/YVSumS8MZ1K2H0P9kYiGDMvB
+u0LA0YCeaX/NcwE0aj3QKSlMT0dZ9wfTg8szRjw7jib8w56ZXjp6qbOm2A==
+
+</in0></ser:loginCms>
+</soapenv:Body>
+</soapenv:Envelope>
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><loginCmsResponse xmlns="https://wsaahomo.afip.gov.ar/ws/services/LoginCms"><loginCmsReturn>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+&lt;loginTicketResponse version=&quot;1.0&quot;&gt;
+    &lt;header&gt;
+        &lt;source&gt;CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239&lt;/source&gt;
+        &lt;destination&gt;SERIALNUMBER=CUIT 20265299726, CN=jdlhomologacion&lt;/destination&gt;
+        &lt;uniqueId&gt;310049337&lt;/uniqueId&gt;
+        &lt;generationTime&gt;2025-07-26T19:28:07.852-03:00&lt;/generationTime&gt;
+        &lt;expirationTime&gt;2025-07-27T07:28:07.852-03:00&lt;/expirationTime&gt;
+    &lt;/header&gt;
+    &lt;credentials&gt;
+        &lt;token&gt;PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMjc3MTc5MTQwMiIgZ2VuX3RpbWU9IjE3NTM1Njg4MjciIGV4cF90aW1lPSIxNzUzNjEyMDg3Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAyNjUyOTk3MjYsIENOPWpkbGhvbW9sb2dhY2lvbiIgYXV0aG1ldGhvZD0iY21zIiByZWdtZXRob2Q9IjIyIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiBrZXk9IjIwMjY1Mjk5NzI2IiByZWx0eXBlPSI0Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cg==&lt;/token&gt;
+        &lt;sign&gt;FHx9YbXwjulgHokQtz+fW0X1+JtwaWUpUDC52hm9ZXK5O1vX01DCT/wS927wRo/dXX0Y+hWE8NRIv4mSxji/FJc1s/av/LyVWw4GNU2Uw0vhOcPYfl2fsq00wAz+CGN0gUJkBdgalLGyFSAiTzg0RhvibUU9l3YKX9uYAo0HCX0=&lt;/sign&gt;
+    &lt;/credentials&gt;
+&lt;/loginTicketResponse&gt;
+</loginCmsReturn></loginCmsResponse></soapenv:Body></soapenv:Envelope>
+-----------------------------------------------
+26/07/2025 19:28:12
+
+
+<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<soap:Header/>
+<soap:Body>
+    <FECAESolicitar xmlns="http://ar.gov.afip.dif.FEV1/">
+    <Auth><Token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMjc3MTc5MTQwMiIgZ2VuX3RpbWU9IjE3NTM1Njg4MjciIGV4cF90aW1lPSIxNzUzNjEyMDg3Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAyNjUyOTk3MjYsIENOPWpkbGhvbW9sb2dhY2lvbiIgYXV0aG1ldGhvZD0iY21zIiByZWdtZXRob2Q9IjIyIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiBrZXk9IjIwMjY1Mjk5NzI2IiByZWx0eXBlPSI0Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cg==</Token><Sign>FHx9YbXwjulgHokQtz+fW0X1+JtwaWUpUDC52hm9ZXK5O1vX01DCT/wS927wRo/dXX0Y+hWE8NRIv4mSxji/FJc1s/av/LyVWw4GNU2Uw0vhOcPYfl2fsq00wAz+CGN0gUJkBdgalLGyFSAiTzg0RhvibUU9l3YKX9uYAo0HCX0=</Sign><Cuit>20265299726</Cuit></Auth><FeCAEReq><FeCabReq><CantReg>1</CantReg><PtoVta>1</PtoVta><CbteTipo>1</CbteTipo></FeCabReq><FeDetReq><FECAEDetRequest><Concepto>1</Concepto><DocTipo>80</DocTipo><DocNro>30709287482  </DocNro><CbteDesde>4</CbteDesde><CbteHasta>4</CbteHasta><CbteFch>20250726</CbteFch><ImpTotal>12.10</ImpTotal><ImpTotConc>0.00</ImpTotConc><ImpNeto>10.00</ImpNeto><ImpOpEx>0.00</ImpOpEx><ImpTrib>0.00</ImpTrib><ImpIVA>2.10</ImpIVA><FchVtoPago></FchVtoPago><MonId>PES</MonId><MonCotiz>1.000</MonCotiz><Iva><AlicIva><Id>5</Id><BaseImp>10.00</BaseImp><Importe>2.10</Importe></AlicIva></Iva></FECAEDetRequest></FeDetReq></FeCAEReq></FECAESolicitar>
+</soap:Body>
+</soap:Envelope>
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Header><FEHeaderInfo xmlns="http://ar.gov.afip.dif.FEV1/"><ambiente>HomologacionExterno - efa</ambiente><fecha>2025-07-26T19:28:14.463375-03:00</fecha><id>6.1.0.0</id></FEHeaderInfo></soap:Header><soap:Body><FECAESolicitarResponse xmlns="http://ar.gov.afip.dif.FEV1/"><FECAESolicitarResult><FeCabResp><Cuit>20265299726</Cuit><PtoVta>1</PtoVta><CbteTipo>1</CbteTipo><FchProceso>20250726192811</FchProceso><CantReg>1</CantReg><Resultado>R</Resultado><Reproceso>N</Reproceso></FeCabResp><FeDetResp><FECAEDetResponse><Concepto>1</Concepto><DocTipo>80</DocTipo><DocNro>30709287482</DocNro><CbteDesde>4</CbteDesde><CbteHasta>4</CbteHasta><CbteFch>20250726</CbteFch><Resultado>R</Resultado><Observaciones><Obs><Code>10246</Code><Msg>Campo Condicion Frente al IVA del receptor es obligatorio conforme a lo reglamentado por la Resolucion General NÂ° 5616. Para mas informacion consular metodo FEParamGetCondicionIvaReceptor</Msg></Obs></Observaciones><CAE /><CAEFchVto /></FECAEDetResponse></FeDetResp></FECAESolicitarResult></FECAESolicitarResponse></soap:Body></soap:Envelope>
+
+
+-----------------------------------------------
+26/07/2025 19:57:40
+
+
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:ser="https://wsaahomo.afip.gov.ar/ws/services/LoginCms" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Header/>
+<soapenv:Body>
+    <ser:loginCms><in0>MIIG+wYJKoZIhvcNAQcCoIIG7DCCBugCAQExDzANBglghkgBZQMEAgEFADCCAR8G
+CSqGSIb3DQEHAaCCARAEggEMPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0i
+VVRGLTgiPz48bG9naW5UaWNrZXRSZXF1ZXN0IHZlcnNpb249IjEuMCI+PGhlYWRl
+cj48dW5pcXVlSWQ+MTc1MzU3MDY1NjwvdW5pcXVlSWQ+PGdlbmVyYXRpb25UaW1l
+PjIwMjUtMDctMjZUMDk6NTc6MzY8L2dlbmVyYXRpb25UaW1lPjxleHBpcmF0aW9u
+VGltZT4yMDI1LTA3LTI3VDA1OjU3OjM2PC9leHBpcmF0aW9uVGltZT48L2hlYWRl
+cj48c2VydmljZT53c2ZlPC9zZXJ2aWNlPjwvbG9naW5UaWNrZXRSZXF1ZXN0PqCC
+A1MwggNPMIICN6ADAgECAgg2XSOkO8WLOTANBgkqhkiG9w0BAQ0FADA4MRowGAYD
+VQQDDBFDb21wdXRhZG9yZXMgVGVzdDENMAsGA1UECgwEQUZJUDELMAkGA1UEBhMC
+QVIwHhcNMjUwNzIwMTQyNDI0WhcNMjcwNzIwMTQyNDI0WjA1MRgwFgYDVQQDDA9q
+ZGxIb21vbG9nYWNpb24xGTAXBgNVBAUTEENVSVQgMjAyNjUyOTk3MjYwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7yd1prjBbBc7DjWS9DAq2ERfiaKbT
++H3V1myr///5FV2ob/F/xj1XY9tIgL14QvrJUC33EQ9uVdgueqk3koLsxRPXAKej
+0v/ugWckeNTa7m8INJ+f16UY7bHyIYzrjLirZ3JkAPtrTJfySkjYLfo43yyRDP11
+aRLE6Jdf9N+EYG7ZX+pv6Q1E0sg/Pz+wb3louufgWM6DDrYasIqwW/UVxsvV1dsM
+lYn4O+qT5yaeSdAJkTNHp0DouFCjyHzBg+YyJslKLCxfIlumrYzBAHVMsZIwHJnn
+8eZEQANU7ejHY1U6bv5CPcGvq9bXA7iyN6bsFcJvt45qfw6yAivTev6JAgMBAAGj
+YDBeMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUs7LT//3put7eja8RIZzWIH3y
+T28wHQYDVR0OBBYEFNHpIqkIwqOO5brH70ozEq0PtAADMA4GA1UdDwEB/wQEAwIF
+4DANBgkqhkiG9w0BAQ0FAAOCAQEAjBPksGvzUwSr+UIr0NnRh27Ir56xaBoMxDxD
+oWhjECLUEp2c19oQoVvlWACICQtYTfe+SxsrLRke8b0jijVA+1kb3Q3fIN/BBFIT
+NNBP6Opy67CN+X1ElNcLksTpkAKdD4ouo3iJwn4RzKQMKa3U156L6pSCzmg2Id4x
+PR8jXivBTXkT0/+J6wNtlB+G7oZwIO5k2ywuXVGBT7EN3O6DxnbfAWK428lIPW3c
+oYj1AU8mzFpB5GL4v3qxIEfiN5pZytxBq/+fPp3TXOvYHy/ZeM08haWhwoQe4f+P
+bgLv9woZ6Vvi3HuVhV/3SEKXYz/FsQe3AeqJ36nuu03eNUqTAjGCAlYwggJSAgEB
+MEQwODEaMBgGA1UEAwwRQ29tcHV0YWRvcmVzIFRlc3QxDTALBgNVBAoMBEFGSVAx
+CzAJBgNVBAYTAkFSAgg2XSOkO8WLOTANBglghkgBZQMEAgEFAKCB5DAYBgkqhkiG
+9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yNTA3MjYyMjU3MzZa
+MC8GCSqGSIb3DQEJBDEiBCCGGoUL5YiNy1Q9X27+TFQApiJUSDh6l9XKhuJTM7Zl
+WTB5BgkqhkiG9w0BCQ8xbDBqMAsGCWCGSAFlAwQBKjALBglghkgBZQMEARYwCwYJ
+YIZIAWUDBAECMAoGCCqGSIb3DQMHMA4GCCqGSIb3DQMCAgIAgDANBggqhkiG9w0D
+AgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDANBgkqhkiG9w0BAQEFAASCAQBw
+uddm5wFU7caM39E8333gbPw0OTEHr5+Glld7I11tB7d9/Iqrn9AKK/zi3Xyo0YSO
+iuHLyBjlNTQeW3/e8qXtlkMbtqhaNOUUapmvsPTt1NJyymV8mLf0WyO+YFpGlYhP
+SbmTKeNqpjuNdXrJsyuolzsZ+zGBskrLt386y3YKeO4gCuok8STgU6VXxZF/W2lQ
+DXL8hCF3Azm0gwbGoBS0SECryfFrbnkhTMo1TvUvBwrs8u1OYianpwbp23S0Kji8
+bsJ6POf/yEVQir1UTB5ixPH/ZaSSTT/qr7C4mJboPPd/oHYIY1mOJz75lyXPeZ2M
+EJD2sPLl1VEJicfqMqiM
+
+</in0></ser:loginCms>
+</soapenv:Body>
+</soapenv:Envelope>
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><loginCmsResponse xmlns="https://wsaahomo.afip.gov.ar/ws/services/LoginCms"><loginCmsReturn>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+&lt;loginTicketResponse version=&quot;1.0&quot;&gt;
+    &lt;header&gt;
+        &lt;source&gt;CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239&lt;/source&gt;
+        &lt;destination&gt;SERIALNUMBER=CUIT 20265299726, CN=jdlhomologacion&lt;/destination&gt;
+        &lt;uniqueId&gt;3390843892&lt;/uniqueId&gt;
+        &lt;generationTime&gt;2025-07-26T19:57:36.448-03:00&lt;/generationTime&gt;
+        &lt;expirationTime&gt;2025-07-27T07:57:36.448-03:00&lt;/expirationTime&gt;
+    &lt;/header&gt;
+    &lt;credentials&gt;
+        &lt;token&gt;PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMjMwNTc0ODYyNCIgZ2VuX3RpbWU9IjE3NTM1NzA1OTYiIGV4cF90aW1lPSIxNzUzNjEzODU2Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAyNjUyOTk3MjYsIENOPWpkbGhvbW9sb2dhY2lvbiIgYXV0aG1ldGhvZD0iY21zIiByZWdtZXRob2Q9IjIyIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiBrZXk9IjIwMjY1Mjk5NzI2IiByZWx0eXBlPSI0Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cg==&lt;/token&gt;
+        &lt;sign&gt;ZqSiz7SpDZCGkiMcGVyfIDR/1Pt6JQMI7ozYBDsQhlh5s/N+8apgO8lP+ph5NoGkxtN2UAB6wOp0RijKrTs837QSdZjGGY5dW+HjnzE5gcTzlSByrlFT/coh9NcSezpW4SgtqsjQrgKjO26B1OhOk46mW7ZSEBsaKMoG0wQADQM=&lt;/sign&gt;
+    &lt;/credentials&gt;
+&lt;/loginTicketResponse&gt;
+</loginCmsReturn></loginCmsResponse></soapenv:Body></soapenv:Envelope>
+-----------------------------------------------
+26/07/2025 19:57:40
+
+
+<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<soap:Header/>
+<soap:Body>
+    <FECAESolicitar xmlns="http://ar.gov.afip.dif.FEV1/"><Auth><Token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMjMwNTc0ODYyNCIgZ2VuX3RpbWU9IjE3NTM1NzA1OTYiIGV4cF90aW1lPSIxNzUzNjEzODU2Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAyNjUyOTk3MjYsIENOPWpkbGhvbW9sb2dhY2lvbiIgYXV0aG1ldGhvZD0iY21zIiByZWdtZXRob2Q9IjIyIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiBrZXk9IjIwMjY1Mjk5NzI2IiByZWx0eXBlPSI0Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cg==</Token><Sign>ZqSiz7SpDZCGkiMcGVyfIDR/1Pt6JQMI7ozYBDsQhlh5s/N+8apgO8lP+ph5NoGkxtN2UAB6wOp0RijKrTs837QSdZjGGY5dW+HjnzE5gcTzlSByrlFT/coh9NcSezpW4SgtqsjQrgKjO26B1OhOk46mW7ZSEBsaKMoG0wQADQM=</Sign><Cuit>20265299726</Cuit></Auth><FeCAEReq><FeCabReq><CantReg>1</CantReg><PtoVta>1</PtoVta><CbteTipo>1</CbteTipo></FeCabReq><FeDetReq><FECAEDetRequest><Concepto>1</Concepto><DocTipo>80</DocTipo><DocNro>30709287482  </DocNro><CbteDesde>4</CbteDesde><CbteHasta>4</CbteHasta><CbteFch>20250726</CbteFch><ImpTotal>12.10</ImpTotal><ImpTotConc>0.00</ImpTotConc><ImpNeto>10.00</ImpNeto><ImpOpEx>0.00</ImpOpEx><ImpTrib>0.00</ImpTrib><ImpIVA>2.10</ImpIVA><FchVtoPago></FchVtoPago><MonId>PES</MonId><MonCotiz>1.000</MonCotiz><CanMisMonExt>N</CanMisMonExt><CondicionIVAReceptorId>0</CondicionIVAReceptorId><Iva><AlicIva><Id>5</Id><BaseImp>10.00</BaseImp><Importe>2.10</Importe></AlicIva></Iva></FECAEDetRequest></FeDetReq></FeCAEReq></FECAESolicitar>
+</soap:Body>
+</soap:Envelope>
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Header><FEHeaderInfo xmlns="http://ar.gov.afip.dif.FEV1/"><ambiente>HomologacionExterno - efa</ambiente><fecha>2025-07-26T19:57:42.44775-03:00</fecha><id>6.1.0.0</id></FEHeaderInfo></soap:Header><soap:Body><FECAESolicitarResponse xmlns="http://ar.gov.afip.dif.FEV1/"><FECAESolicitarResult><FeCabResp><Cuit>20265299726</Cuit><PtoVta>1</PtoVta><CbteTipo>1</CbteTipo><FchProceso>20250726195740</FchProceso><CantReg>1</CantReg><Resultado>R</Resultado><Reproceso>N</Reproceso></FeCabResp><FeDetResp><FECAEDetResponse><Concepto>1</Concepto><DocTipo>80</DocTipo><DocNro>30709287482</DocNro><CbteDesde>4</CbteDesde><CbteHasta>4</CbteHasta><CbteFch>20250726</CbteFch><Resultado>R</Resultado><Observaciones><Obs><Code>10242</Code><Msg>El campo Condicion IVA receptor no es un valor permitido. Consular metodo FEParamGetCondicionIvaReceptor</Msg></Obs></Observaciones><CAE /><CAEFchVto /></FECAEDetResponse></FeDetResp></FECAESolicitarResult></FECAESolicitarResponse></soap:Body></soap:Envelope>
+
+

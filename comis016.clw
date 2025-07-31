@@ -165,6 +165,7 @@ Looped BYTE
     CASE ACCEPTED()
     OF ?Select:2
       glo:Cliente = CLI:CodCliente
+      glo:condicionIvaReceptor=CLI:PosicionIVA
     END
   ReturnValue = PARENT.TakeAccepted()
     RETURN ReturnValue

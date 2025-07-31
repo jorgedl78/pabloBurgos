@@ -78,6 +78,7 @@ glo_error_FE         BYTE
 glo_nombre_usuario   STRING(50)
 glo:mensage          STRING(100)
 glo:FEImprimir       SHORT
+glo:condicionIvaReceptor LONG
 SilentRunning        BYTE(0)                               ! Set true when application is running in 'silent mode'
 
 CLIENTES             FILE,DRIVER('TOPSPEED'),OWNER('959gama'),NAME('CLIENTES.TPS'),PRE(CLI),BINDABLE,CREATE,THREAD
@@ -249,7 +250,7 @@ Distribuidor                BYTE
 TipoServicio                STRING(1)
 Flete                       STRING(1)
 ValorDeclarado              DECIMAL(7,2)
-Neto                        DECIMAL(9,2)
+Neto                        DECIMAL(11,2)
 Seguro                      DECIMAL(10,2)
 IVA                         DECIMAL(9,2)
 Importe                     DECIMAL(11,2)
@@ -402,7 +403,7 @@ RegFactura                  LONG
 Item                        LONG
 Cantidad                    DECIMAL(7,2)
 Descripcion                 STRING(40)
-Importe                     DECIMAL(7,2)
+Importe                     DECIMAL(11,2)
                          END
                      END                       
 
@@ -627,7 +628,7 @@ Distribuidor                BYTE
 TipoServicio                STRING(1)
 Flete                       STRING(1)
 ValorDeclarado              DECIMAL(7,2)
-Neto                        DECIMAL(9,2)
+Neto                        DECIMAL(11,2)
 Seguro                      DECIMAL(10,2)
 IVA                         DECIMAL(9,2)
 Importe                     DECIMAL(11,2)

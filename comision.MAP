@@ -30,135 +30,135 @@
   437AB8     1BB4 Code                COMIS013_TEXT
   43966C      930 Code                COMIS014_TEXT
   439F9C      938 Code                COMIS015_TEXT
-  43A8D4      A44 Code                COMIS016_TEXT
-  43B318     2E15 Code                COMIS017_TEXT
-  43E130      859 Code                COMIS018_TEXT
-  43E98C     10D9 Code                COMIS019_TEXT
-  43FA68     10B4 Code                COMIS021_TEXT
-  440B1C      DB1 Code                COMIS022_TEXT
-  4418D0      CA4 Code                COMIS023_TEXT
-  442574      4C6 Code                COMIS024_TEXT
-  442A3C      522 Code                COMIS025_TEXT
-  442F60      4D2 Code                COMIS026_TEXT
-  443434     193D Code                COMIS027_TEXT
-  444D74     77FE Code                COMIS028_TEXT
-  44C574      D31 Code                COMIS029_TEXT
-  44D2A8      8D6 Code                COMIS030_TEXT
-  44DB80      BAF Code                COMIS031_TEXT
-  44E730      BDA Code                COMIS032_TEXT
-  44F30C      D0C Code                COMIS033_TEXT
-  450018      B71 Code                COMIS034_TEXT
-  450B8C     12D7 Code                COMIS035_TEXT
-  451E64      9A3 Code                COMIS036_TEXT
-  452808      6D0 Code                COMIS037_TEXT
-  452ED8      CE6 Code                COMIS038_TEXT
-  453BC0      530 Code                COMIS039_TEXT
-  4540F0      CBB Code                COMIS040_TEXT
-  454DAC      AB0 Code                COMIS041_TEXT
-  45585C      54B Code                COMIS042_TEXT
-  455DA8      5B4 Code                COMIS043_TEXT
-  45635C      63D Code                COMIS044_TEXT
-  45699C      8E6 Code                COMIS045_TEXT
-  457284      9A3 Code                COMIS046_TEXT
-  457C28      9CD Code                COMIS047_TEXT
-  4585F8      88A Code                COMIS048_TEXT
-  458E84      AA3 Code                COMIS049_TEXT
-  459928     13DD Code                COMIS050_TEXT
-  45AD08      9D5 Code                COMIS051_TEXT
-  45B6E0     1047 Code                COMIS052_TEXT
-  45C728      9F7 Code                COMIS053_TEXT
-  45D120      C6D Code                COMIS054_TEXT
-  45DD90      595 Code                COMIS055_TEXT
-  45E328      5B4 Code                COMIS056_TEXT
-  45E8DC      881 Code                COMIS057_TEXT
-  45F160      BA7 Code                COMIS058_TEXT
-  45FD08      715 Code                COMIS059_TEXT
-  460420      B61 Code                COMIS060_TEXT
-  460F84      709 Code                COMIS061_TEXT
-  461690      C17 Code                COMIS062_TEXT
-  4622A8      4BE Code                COMIS063_TEXT
-  462768      4C6 Code                COMIS064_TEXT
-  462C30      503 Code                COMIS065_TEXT
-  463134      B72 Code                COMIS066_TEXT
-  463CA8       40 Code                COMIS067_TEXT
-  463CE8      4FE Code                COMIS069_TEXT
-  4641E8      A0D Code                COMIS070_TEXT
-  464BF8      715 Code                COMIS071_TEXT
-  465310      B98 Code                COMIS072_TEXT
-  465EA8      531 Code                COMIS073_TEXT
-  4663DC      531 Code                COMIS074_TEXT
-  466910      AE2 Code                COMIS075_TEXT
-  4673F4      503 Code                COMIS076_TEXT
-  4678F8     1125 Code                COMIS077_TEXT
-  468A20     1946 Code                COMIS078_TEXT
-  46A368     2E15 Code                COMIS079_TEXT
-  46D180      531 Code                COMIS080_TEXT
-  46D6B4      C6D Code                COMIS081_TEXT
-  46E324      B2A Code                COMIS082_TEXT
-  46EE50     18C9 Code                COMIS083_TEXT
-  47071C      EC4 Code                COMIS084_TEXT
-  4715E0      158 Code                COMIS085_TEXT
-  471738     171F Code                COMIS086_TEXT
-  472E58     2723 Code                COMIS087_TEXT
-  47557C      F9D Code                COMIS088_TEXT
-  47651C     1254 Code                COMIS089_TEXT
-  477770      ED6 Code                COMIS090_TEXT
-  478648      833 Code                COMIS091_TEXT
-  478E7C     1ACF Code                COMIS092_TEXT
-  47A94C      930 Code                COMIS093_TEXT
-  47B27C      A03 Code                COMIS094_TEXT
-  47BC80     1C8A Code                COMIS095_TEXT
-  47D90C     171F Code                COMIS096_TEXT
-  47F02C     1ACF Code                COMIS097_TEXT
-  480AFC     274B Code                COMIS098_TEXT
-  483248      DE8 Code                COMIS099_TEXT
-  484030      771 Code                COMIS100_TEXT
-  4847A4      75D Code                COMIS101_TEXT
-  484F04      7C8 Code                COMIS102_TEXT
-  4856CC      715 Code                COMIS103_TEXT
-  485DE4      BCC Code                COMIS104_TEXT
-  4869B0      700 Code                COMIS105_TEXT
-  4870B0     1E2E Code                COMIS106_TEXT
-  488EE0      54C Code                COMIS107_TEXT
-  48942C      67F Code                COMIS108_TEXT
-  489AAC     12A8 Code                COMIS109_TEXT
-  48AD54      F80 Code                COMIS110_TEXT
-  48BCD4      FD3 Code                COMIS111_TEXT
-  48CCA8      DAD Code                COMIS112_TEXT
-  48DA58      714 Code                COMIS114_TEXT
-  48E16C      ACE Code                COMIS115_TEXT
-  48EC3C      A0D Code                COMIS116_TEXT
-  48F64C      4FE Code                COMIS117_TEXT
-  48FB4C      86B Code                COMIS118_TEXT
-  4903B8      C58 Code                COMIS119_TEXT
-  491010      7CB Code                COMIS120_TEXT
-  4917DC     2759 Code                COMIS121_TEXT
-  493F38      C9C Code                COMIS123_TEXT
-  494BD4      D5E Code                COMIS124_TEXT
-  495934      AC9 Code                COMIS125_TEXT
-  496400     1E86 Code                COMIS126_TEXT
-  498288      A91 Code                COMIS127_TEXT
-  498D1C      C78 Code                COMIS128_TEXT
-  499994       CC Code                COMIS129_TEXT
-  499A60      5B2 Code                COMIS130_TEXT
-  49A014      512 Code                COMIS131_TEXT
-  49A528      7F6 Code                COMIS132_TEXT
-  49AD20       40 Code                COMIS133_TEXT
-  49AD60       40 Code                COMIS134_TEXT
-  49ADA0     17F6 Code                COMIS135_TEXT
-  49C598     2D39 Code                COMIS137_TEXT
-  49F2D4      45D Code                COMIS138_TEXT
-  49F734     4F44 Code                COMIS139_TEXT
-  4A4678     1383 Code                COMIS140_TEXT
-  4A59FC     4DF8 Code                COMISBC0_TEXT
-  4AA7F4     464E Code                COMISBC1_TEXT
-  4AEE44       29 Code                COMISBC_TEXT
-  4AEE70      117 Code                COMISION_TEXT
-  4AEF88       E6 Code                CWSYNCHC_TEXT
-  4AF070     17BA Code                EFOCUS_TEXT
-  4B082C       2D Code                IEXE32_TEXT
-  4B085C     20DC Code                INIT_TEXT
-  4B2938       37 Code                INST00_TEXT
+  43A8D4      A54 Code                COMIS016_TEXT
+  43B328     2E15 Code                COMIS017_TEXT
+  43E140      859 Code                COMIS018_TEXT
+  43E99C     10D9 Code                COMIS019_TEXT
+  43FA78     10B4 Code                COMIS021_TEXT
+  440B2C      DB1 Code                COMIS022_TEXT
+  4418E0      CA4 Code                COMIS023_TEXT
+  442584      4C6 Code                COMIS024_TEXT
+  442A4C      522 Code                COMIS025_TEXT
+  442F70      4D2 Code                COMIS026_TEXT
+  443444     193D Code                COMIS027_TEXT
+  444D84     7832 Code                COMIS028_TEXT
+  44C5B8      D31 Code                COMIS029_TEXT
+  44D2EC      8D6 Code                COMIS030_TEXT
+  44DBC4      BAF Code                COMIS031_TEXT
+  44E774      BDA Code                COMIS032_TEXT
+  44F350      D0C Code                COMIS033_TEXT
+  45005C      B71 Code                COMIS034_TEXT
+  450BD0     12D7 Code                COMIS035_TEXT
+  451EA8      9A3 Code                COMIS036_TEXT
+  45284C      6D0 Code                COMIS037_TEXT
+  452F1C      CE6 Code                COMIS038_TEXT
+  453C04      530 Code                COMIS039_TEXT
+  454134      CBB Code                COMIS040_TEXT
+  454DF0      AB0 Code                COMIS041_TEXT
+  4558A0      54B Code                COMIS042_TEXT
+  455DEC      5B4 Code                COMIS043_TEXT
+  4563A0      63D Code                COMIS044_TEXT
+  4569E0      8E6 Code                COMIS045_TEXT
+  4572C8      9A3 Code                COMIS046_TEXT
+  457C6C      9CD Code                COMIS047_TEXT
+  45863C      88A Code                COMIS048_TEXT
+  458EC8      AA3 Code                COMIS049_TEXT
+  45996C     13DD Code                COMIS050_TEXT
+  45AD4C      9D5 Code                COMIS051_TEXT
+  45B724     1047 Code                COMIS052_TEXT
+  45C76C      9F7 Code                COMIS053_TEXT
+  45D164      C6D Code                COMIS054_TEXT
+  45DDD4      595 Code                COMIS055_TEXT
+  45E36C      5B4 Code                COMIS056_TEXT
+  45E920      881 Code                COMIS057_TEXT
+  45F1A4      BA7 Code                COMIS058_TEXT
+  45FD4C      715 Code                COMIS059_TEXT
+  460464      B61 Code                COMIS060_TEXT
+  460FC8      709 Code                COMIS061_TEXT
+  4616D4      C17 Code                COMIS062_TEXT
+  4622EC      4BE Code                COMIS063_TEXT
+  4627AC      4C6 Code                COMIS064_TEXT
+  462C74      503 Code                COMIS065_TEXT
+  463178      B72 Code                COMIS066_TEXT
+  463CEC       40 Code                COMIS067_TEXT
+  463D2C      4FE Code                COMIS069_TEXT
+  46422C      A0D Code                COMIS070_TEXT
+  464C3C      715 Code                COMIS071_TEXT
+  465354      B98 Code                COMIS072_TEXT
+  465EEC      531 Code                COMIS073_TEXT
+  466420      531 Code                COMIS074_TEXT
+  466954      AE5 Code                COMIS075_TEXT
+  46743C      503 Code                COMIS076_TEXT
+  467940     1125 Code                COMIS077_TEXT
+  468A68     1946 Code                COMIS078_TEXT
+  46A3B0     2E15 Code                COMIS079_TEXT
+  46D1C8      531 Code                COMIS080_TEXT
+  46D6FC      C6D Code                COMIS081_TEXT
+  46E36C      B2A Code                COMIS082_TEXT
+  46EE98     18C9 Code                COMIS083_TEXT
+  470764      EC4 Code                COMIS084_TEXT
+  471628      158 Code                COMIS085_TEXT
+  471780     171F Code                COMIS086_TEXT
+  472EA0     2723 Code                COMIS087_TEXT
+  4755C4      F9D Code                COMIS088_TEXT
+  476564     1254 Code                COMIS089_TEXT
+  4777B8      ED6 Code                COMIS090_TEXT
+  478690      833 Code                COMIS091_TEXT
+  478EC4     1ACF Code                COMIS092_TEXT
+  47A994      930 Code                COMIS093_TEXT
+  47B2C4      A03 Code                COMIS094_TEXT
+  47BCC8     1C8A Code                COMIS095_TEXT
+  47D954     171F Code                COMIS096_TEXT
+  47F074     1ACF Code                COMIS097_TEXT
+  480B44     274B Code                COMIS098_TEXT
+  483290      DE8 Code                COMIS099_TEXT
+  484078      771 Code                COMIS100_TEXT
+  4847EC      75D Code                COMIS101_TEXT
+  484F4C      7C8 Code                COMIS102_TEXT
+  485714      715 Code                COMIS103_TEXT
+  485E2C      BCC Code                COMIS104_TEXT
+  4869F8      700 Code                COMIS105_TEXT
+  4870F8     1E2E Code                COMIS106_TEXT
+  488F28      54C Code                COMIS107_TEXT
+  489474      67F Code                COMIS108_TEXT
+  489AF4     12A8 Code                COMIS109_TEXT
+  48AD9C      F80 Code                COMIS110_TEXT
+  48BD1C      FD3 Code                COMIS111_TEXT
+  48CCF0      DAD Code                COMIS112_TEXT
+  48DAA0      714 Code                COMIS114_TEXT
+  48E1B4      ACE Code                COMIS115_TEXT
+  48EC84      A0D Code                COMIS116_TEXT
+  48F694      4FE Code                COMIS117_TEXT
+  48FB94      86B Code                COMIS118_TEXT
+  490400      C58 Code                COMIS119_TEXT
+  491058      7CB Code                COMIS120_TEXT
+  491824     2759 Code                COMIS121_TEXT
+  493F80      C9C Code                COMIS123_TEXT
+  494C1C      D5E Code                COMIS124_TEXT
+  49597C      AC9 Code                COMIS125_TEXT
+  496448     1E86 Code                COMIS126_TEXT
+  4982D0      A91 Code                COMIS127_TEXT
+  498D64      C78 Code                COMIS128_TEXT
+  4999DC       CC Code                COMIS129_TEXT
+  499AA8      5B2 Code                COMIS130_TEXT
+  49A05C      512 Code                COMIS131_TEXT
+  49A570      7F6 Code                COMIS132_TEXT
+  49AD68       40 Code                COMIS133_TEXT
+  49ADA8       40 Code                COMIS134_TEXT
+  49ADE8     185A Code                COMIS135_TEXT
+  49C644     2D39 Code                COMIS137_TEXT
+  49F380      45D Code                COMIS138_TEXT
+  49F7E0     4F44 Code                COMIS139_TEXT
+  4A4724     1383 Code                COMIS140_TEXT
+  4A5AA8     4DF8 Code                COMISBC0_TEXT
+  4AA8A0     464E Code                COMISBC1_TEXT
+  4AEEF0       29 Code                COMISBC_TEXT
+  4AEF1C      117 Code                COMISION_TEXT
+  4AF034       E6 Code                CWSYNCHC_TEXT
+  4AF11C     17BA Code                EFOCUS_TEXT
+  4B08D8       2D Code                IEXE32_TEXT
+  4B0908     20DC Code                INIT_TEXT
+  4B29E4       37 Code                INST00_TEXT
   4B3000       70 Initialized Data    ABBREAK_CONST
   4B3070      278 Initialized Data    ABBROWSE_CONST
   4B32E8      F08 Initialized Data    ABBROWSE_DATA
@@ -241,379 +241,379 @@
   4C6FC0      28C Initialized Data    COMIS026_DATA
   4C724C      346 Initialized Data    COMIS027_CONST
   4C7594      C54 Initialized Data    COMIS027_DATA
-  4C81E8      98E Initialized Data    COMIS028_CONST
-  4C8B78     2094 Initialized Data    COMIS028_DATA
-  4CAC0C       BA Initialized Data    COMIS029_CONST
-  4CACC8      600 Initialized Data    COMIS029_DATA
-  4CB2C8       62 Initialized Data    COMIS030_CONST
-  4CB32C      2AC Initialized Data    COMIS030_DATA
-  4CB5D8       52 Initialized Data    COMIS031_CONST
-  4CB62C      82F Initialized Data    COMIS031_DATA
-  4CBE5C       52 Initialized Data    COMIS032_CONST
-  4CBEB0      506 Initialized Data    COMIS032_DATA
-  4CC3B8       9A Initialized Data    COMIS033_CONST
-  4CC454      807 Initialized Data    COMIS033_DATA
-  4CCC5C       66 Initialized Data    COMIS034_CONST
-  4CCCC4      2AC Initialized Data    COMIS034_DATA
-  4CCF70      382 Initialized Data    COMIS035_CONST
-  4CD2F4      5E8 Initialized Data    COMIS035_DATA
-  4CD8DC       36 Initialized Data    COMIS036_CONST
-  4CD914      8C6 Initialized Data    COMIS036_DATA
-  4CE1DC       3A Initialized Data    COMIS037_CONST
-  4CE218      28C Initialized Data    COMIS037_DATA
-  4CE4A4       CE Initialized Data    COMIS038_CONST
-  4CE574      614 Initialized Data    COMIS038_DATA
-  4CEB88       36 Initialized Data    COMIS039_CONST
-  4CEBC0      28C Initialized Data    COMIS039_DATA
-  4CEE4C       BE Initialized Data    COMIS040_CONST
-  4CEF0C      608 Initialized Data    COMIS040_DATA
-  4CF514       E6 Initialized Data    COMIS041_CONST
-  4CF5FC      5DC Initialized Data    COMIS041_DATA
-  4CFBD8       86 Initialized Data    COMIS042_CONST
-  4CFC60      28C Initialized Data    COMIS042_DATA
-  4CFEEC       66 Initialized Data    COMIS043_CONST
-  4CFF54      28C Initialized Data    COMIS043_DATA
-  4D01E0       82 Initialized Data    COMIS044_CONST
-  4D0264      28C Initialized Data    COMIS044_DATA
-  4D04F0       6A Initialized Data    COMIS045_CONST
-  4D055C      3C4 Initialized Data    COMIS045_DATA
-  4D0920       36 Initialized Data    COMIS046_CONST
-  4D0958      8C6 Initialized Data    COMIS046_DATA
-  4D1220       32 Initialized Data    COMIS047_CONST
-  4D1254      5C7 Initialized Data    COMIS047_DATA
-  4D181C       62 Initialized Data    COMIS048_CONST
-  4D1880      2AC Initialized Data    COMIS048_DATA
-  4D1B2C       32 Initialized Data    COMIS049_CONST
-  4D1B60      7EC Initialized Data    COMIS049_DATA
-  4D234C       EA Initialized Data    COMIS050_CONST
-  4D2438      5E7 Initialized Data    COMIS050_DATA
-  4D2A20       36 Initialized Data    COMIS051_CONST
-  4D2A58      5C7 Initialized Data    COMIS051_DATA
-  4D3020       EA Initialized Data    COMIS052_CONST
-  4D310C      881 Initialized Data    COMIS052_DATA
-  4D3990       3A Initialized Data    COMIS053_CONST
-  4D39CC      8CA Initialized Data    COMIS053_DATA
-  4D4298       B2 Initialized Data    COMIS054_CONST
-  4D434C      600 Initialized Data    COMIS054_DATA
-  4D494C       2A Initialized Data    COMIS055_CONST
-  4D4978      28C Initialized Data    COMIS055_DATA
-  4D4C04       66 Initialized Data    COMIS056_CONST
-  4D4C6C      28C Initialized Data    COMIS056_DATA
-  4D4EF8       5E Initialized Data    COMIS057_CONST
-  4D4F58      5E4 Initialized Data    COMIS057_DATA
-  4D553C       FE Initialized Data    COMIS058_CONST
-  4D563C      5F8 Initialized Data    COMIS058_DATA
-  4D5C34       3E Initialized Data    COMIS059_CONST
-  4D5C74      28C Initialized Data    COMIS059_DATA
-  4D5F00      24E Initialized Data    COMIS060_CONST
-  4D6150      28C Initialized Data    COMIS060_DATA
-  4D63DC       32 Initialized Data    COMIS061_CONST
-  4D6410      28C Initialized Data    COMIS061_DATA
-  4D669C       92 Initialized Data    COMIS062_CONST
-  4D6730      5E0 Initialized Data    COMIS062_DATA
-  4D6D10       36 Initialized Data    COMIS063_CONST
-  4D6D48      28C Initialized Data    COMIS063_DATA
-  4D6FD4       2E Initialized Data    COMIS064_CONST
-  4D7004      28C Initialized Data    COMIS064_DATA
-  4D7290       36 Initialized Data    COMIS065_CONST
-  4D72C8      28C Initialized Data    COMIS065_DATA
-  4D7554       7E Initialized Data    COMIS066_CONST
-  4D75D4      5DC Initialized Data    COMIS066_DATA
-  4D7BB0        5 Initialized Data    COMIS067_DATA
-  4D7BB8       3E Initialized Data    COMIS069_CONST
-  4D7BF8      28C Initialized Data    COMIS069_DATA
-  4D7E84       D6 Initialized Data    COMIS070_CONST
-  4D7F5C      5F8 Initialized Data    COMIS070_DATA
-  4D8554       3A Initialized Data    COMIS071_CONST
-  4D8590      28C Initialized Data    COMIS071_DATA
-  4D881C       72 Initialized Data    COMIS072_CONST
-  4D8890      5E4 Initialized Data    COMIS072_DATA
-  4D8E74       32 Initialized Data    COMIS073_CONST
-  4D8EA8      28C Initialized Data    COMIS073_DATA
-  4D9134       32 Initialized Data    COMIS074_CONST
-  4D9168      28C Initialized Data    COMIS074_DATA
-  4D93F4       7A Initialized Data    COMIS075_CONST
-  4D9470      5DC Initialized Data    COMIS075_DATA
-  4D9A4C       36 Initialized Data    COMIS076_CONST
-  4D9A84      28C Initialized Data    COMIS076_DATA
-  4D9D10       8A Initialized Data    COMIS077_CONST
-  4D9D9C      5FC Initialized Data    COMIS077_DATA
-  4DA398      1A2 Initialized Data    COMIS078_CONST
-  4DA53C      F75 Initialized Data    COMIS078_DATA
-  4DB4B4      192 Initialized Data    COMIS079_CONST
-  4DB648      E83 Initialized Data    COMIS079_DATA
-  4DC4CC       32 Initialized Data    COMIS080_CONST
-  4DC500      28C Initialized Data    COMIS080_DATA
-  4DC78C       B2 Initialized Data    COMIS081_CONST
-  4DC840      600 Initialized Data    COMIS081_DATA
-  4DCE40      15E Initialized Data    COMIS082_CONST
-  4DCFA0      28C Initialized Data    COMIS082_DATA
-  4DD22C      24A Initialized Data    COMIS083_CONST
-  4DD478      BCD Initialized Data    COMIS083_DATA
-  4DE048       6E Initialized Data    COMIS084_CONST
-  4DE0B8      600 Initialized Data    COMIS084_DATA
-  4DE6B8       4F Initialized Data    COMIS085_DATA
-  4DE708      1D2 Initialized Data    COMIS086_CONST
-  4DE8DC      B4F Initialized Data    COMIS086_DATA
-  4DF42C      322 Initialized Data    COMIS087_CONST
-  4DF750     131B Initialized Data    COMIS087_DATA
-  4E0A6C       8A Initialized Data    COMIS088_CONST
-  4E0AF8      3C4 Initialized Data    COMIS088_DATA
-  4E0EBC       32 Initialized Data    COMIS089_CONST
-  4E0EF0      B0E Initialized Data    COMIS089_DATA
-  4E1A00       3A Initialized Data    COMIS090_CONST
-  4E1A3C      A66 Initialized Data    COMIS090_DATA
-  4E24A4       8E Initialized Data    COMIS091_CONST
-  4E2534      28C Initialized Data    COMIS091_DATA
-  4E27C0      3BE Initialized Data    COMIS092_CONST
-  4E2B80      5E8 Initialized Data    COMIS092_DATA
-  4E3168       32 Initialized Data    COMIS093_CONST
-  4E319C      8C8 Initialized Data    COMIS093_DATA
-  4E3A64       2E Initialized Data    COMIS094_CONST
-  4E3A94      7B0 Initialized Data    COMIS094_DATA
-  4E4244       46 Initialized Data    COMIS095_CONST
-  4E428C      F70 Initialized Data    COMIS095_DATA
-  4E51FC      1D2 Initialized Data    COMIS096_CONST
-  4E53D0      B4F Initialized Data    COMIS096_DATA
-  4E5F20      3BE Initialized Data    COMIS097_CONST
-  4E62E0      5E8 Initialized Data    COMIS097_DATA
-  4E68C8      322 Initialized Data    COMIS098_CONST
-  4E6BEC     131B Initialized Data    COMIS098_DATA
-  4E7F08       9A Initialized Data    COMIS099_CONST
-  4E7FA4      82F Initialized Data    COMIS099_DATA
-  4E87D4       D6 Initialized Data    COMIS100_CONST
-  4E88AC      28C Initialized Data    COMIS100_DATA
-  4E8B38       D6 Initialized Data    COMIS101_CONST
-  4E8C10      28C Initialized Data    COMIS101_DATA
-  4E8E9C       EE Initialized Data    COMIS102_CONST
-  4E8F8C      28C Initialized Data    COMIS102_DATA
-  4E9218       32 Initialized Data    COMIS103_CONST
-  4E924C      28C Initialized Data    COMIS103_DATA
-  4E94D8       62 Initialized Data    COMIS104_CONST
-  4E953C      5E4 Initialized Data    COMIS104_DATA
-  4E9B20       3A Initialized Data    COMIS105_CONST
-  4E9B5C      3A4 Initialized Data    COMIS105_DATA
-  4E9F00       9A Initialized Data    COMIS106_CONST
-  4E9F9C      C8E Initialized Data    COMIS106_DATA
-  4EAC2C       36 Initialized Data    COMIS107_CONST
-  4EAC64      28C Initialized Data    COMIS107_DATA
-  4EAEF0       3E Initialized Data    COMIS108_CONST
-  4EAF30      28C Initialized Data    COMIS108_DATA
-  4EB1BC       2E Initialized Data    COMIS109_CONST
-  4EB1EC      F3F Initialized Data    COMIS109_DATA
-  4EC12C       6E Initialized Data    COMIS110_CONST
-  4EC19C      6FF Initialized Data    COMIS110_DATA
-  4EC89C       36 Initialized Data    COMIS111_CONST
-  4EC8D4      BCE Initialized Data    COMIS111_DATA
-  4ED4A4       72 Initialized Data    COMIS112_CONST
-  4ED518      6FF Initialized Data    COMIS112_DATA
-  4EDC18       42 Initialized Data    COMIS114_CONST
-  4EDC5C      28C Initialized Data    COMIS114_DATA
-  4EDEE8       DA Initialized Data    COMIS115_CONST
-  4EDFC4      5F8 Initialized Data    COMIS115_DATA
-  4EE5BC       C2 Initialized Data    COMIS116_CONST
-  4EE680      5F8 Initialized Data    COMIS116_DATA
-  4EEC78       3E Initialized Data    COMIS117_CONST
-  4EECB8      28C Initialized Data    COMIS117_DATA
-  4EEF44      12A Initialized Data    COMIS118_CONST
-  4EF070      28C Initialized Data    COMIS118_DATA
-  4EF2FC       56 Initialized Data    COMIS119_CONST
-  4EF354      28C Initialized Data    COMIS119_DATA
-  4EF5E0       36 Initialized Data    COMIS120_CONST
-  4EF618      28C Initialized Data    COMIS120_DATA
-  4EF8A4       EE Initialized Data    COMIS121_CONST
-  4EF994      620 Initialized Data    COMIS121_DATA
-  4EFFB4       CA Initialized Data    COMIS123_CONST
-  4F0080      5EC Initialized Data    COMIS123_DATA
-  4F066C       86 Initialized Data    COMIS124_CONST
-  4F06F4      614 Initialized Data    COMIS124_DATA
-  4F0D08       7E Initialized Data    COMIS125_CONST
-  4F0D88      5E0 Initialized Data    COMIS125_DATA
-  4F1368      43E Initialized Data    COMIS126_CONST
-  4F17A8      28C Initialized Data    COMIS126_DATA
-  4F1A34      17E Initialized Data    COMIS127_CONST
-  4F1BB4      28C Initialized Data    COMIS127_DATA
-  4F1E40      15E Initialized Data    COMIS128_CONST
-  4F1FA0      28C Initialized Data    COMIS128_DATA
-  4F222C        D Initialized Data    COMIS129_CONST
-  4F223C       C6 Initialized Data    COMIS130_CONST
-  4F2304      28C Initialized Data    COMIS130_DATA
-  4F2590       8E Initialized Data    COMIS131_CONST
-  4F2620      28C Initialized Data    COMIS131_DATA
-  4F28AC      1D6 Initialized Data    COMIS132_CONST
-  4F2A84      28C Initialized Data    COMIS132_DATA
-  4F2D10       21 Initialized Data    COMIS133_DATA
-  4F2D34       27 Initialized Data    COMIS134_DATA
-  4F2D5C      122 Initialized Data    COMIS135_CONST
-  4F2E80      604 Initialized Data    COMIS135_DATA
-  4F3484      51E Initialized Data    COMIS137_CONST
-  4F39A4      28C Initialized Data    COMIS137_DATA
-  4F3C30       D6 Initialized Data    COMIS138_CONST
-  4F3D08      28C Initialized Data    COMIS138_DATA
-  4F3F94      416 Initialized Data    COMIS139_CONST
-  4F43AC     1BFC Initialized Data    COMIS139_DATA
-  4F5FA8       9E Initialized Data    COMIS140_CONST
-  4F6048      604 Initialized Data    COMIS140_DATA
-  4F664C      481 Initialized Data    COMISBC0_CONST
-  4F6AD0     4380 Initialized Data    COMISBC0_DATA
-  4FAE50      447 Initialized Data    COMISBC1_CONST
-  4FB298     3960 Initialized Data    COMISBC1_DATA
-  4FEBF8      A00 Initialized Data    COMISION_CONST
-  4FF5F8     1A88 Initialized Data    COMISION_DATA
-  501080       48 Initialized Data    CWSYNCHC_DATA
-  5010C8        E Initialized Data    CWUTIL_CONST
-  5010D8       36 Initialized Data    CWUTIL_DATA
-  501110      21C Initialized Data    EFOCUS_DATA
-  50132C       3C Initialized Data    IEXE32_DATA
-  501368        0 Initialized Data    __CPPINI_CONS
-  501368     120C Initialized Data    __CPPINI_CONST
-  502574        4 Initialized Data    __CPPINI_END
-  502578        0 Initialized Data    __INIVMT_CONS
-  502578      B88 Initialized Data    __INIVMT_CONST
-  503100        0 Initialized Data    __INIVMT_CONST_END
-  503100       40 Un-initialized Data ABEIP_BSS
-  503140      404 Un-initialized Data ABERROR_BSS
-  503544       10 Un-initialized Data ABFILE_BSS
-  503554        4 Un-initialized Data ABFUZZY_BSS
-  503558      104 Un-initialized Data ABUTIL_BSS
-  50365C        0 Un-initialized Data ABWMFPAR_BSS
-  50365C        4 Un-initialized Data COMIS001_BSS
-  503660        4 Un-initialized Data COMIS002_BSS
-  503664        4 Un-initialized Data COMIS003_BSS
-  503668        4 Un-initialized Data COMIS004_BSS
-  50366C        4 Un-initialized Data COMIS005_BSS
-  503670        4 Un-initialized Data COMIS006_BSS
-  503674        4 Un-initialized Data COMIS007_BSS
-  503678        4 Un-initialized Data COMIS009_BSS
-  50367C        4 Un-initialized Data COMIS010_BSS
-  503680        4 Un-initialized Data COMIS011_BSS
-  503684        4 Un-initialized Data COMIS012_BSS
-  503688        4 Un-initialized Data COMIS013_BSS
-  50368C        4 Un-initialized Data COMIS014_BSS
-  503690        4 Un-initialized Data COMIS015_BSS
-  503694        4 Un-initialized Data COMIS016_BSS
-  503698        4 Un-initialized Data COMIS017_BSS
-  50369C        4 Un-initialized Data COMIS018_BSS
-  5036A0        4 Un-initialized Data COMIS019_BSS
-  5036A4        4 Un-initialized Data COMIS021_BSS
-  5036A8        4 Un-initialized Data COMIS022_BSS
-  5036AC        4 Un-initialized Data COMIS023_BSS
-  5036B0        4 Un-initialized Data COMIS024_BSS
-  5036B4        4 Un-initialized Data COMIS025_BSS
-  5036B8        4 Un-initialized Data COMIS026_BSS
-  5036BC        4 Un-initialized Data COMIS027_BSS
-  5036C0        4 Un-initialized Data COMIS028_BSS
-  5036C4        4 Un-initialized Data COMIS029_BSS
-  5036C8        4 Un-initialized Data COMIS030_BSS
-  5036CC        4 Un-initialized Data COMIS031_BSS
-  5036D0        4 Un-initialized Data COMIS032_BSS
-  5036D4        4 Un-initialized Data COMIS033_BSS
-  5036D8        4 Un-initialized Data COMIS034_BSS
-  5036DC        4 Un-initialized Data COMIS035_BSS
-  5036E0        4 Un-initialized Data COMIS036_BSS
-  5036E4        4 Un-initialized Data COMIS037_BSS
-  5036E8        4 Un-initialized Data COMIS038_BSS
-  5036EC        4 Un-initialized Data COMIS039_BSS
-  5036F0        4 Un-initialized Data COMIS040_BSS
-  5036F4        4 Un-initialized Data COMIS041_BSS
-  5036F8        4 Un-initialized Data COMIS042_BSS
-  5036FC        4 Un-initialized Data COMIS043_BSS
-  503700        4 Un-initialized Data COMIS044_BSS
-  503704        4 Un-initialized Data COMIS045_BSS
-  503708        4 Un-initialized Data COMIS046_BSS
-  50370C        4 Un-initialized Data COMIS047_BSS
-  503710        4 Un-initialized Data COMIS048_BSS
-  503714        4 Un-initialized Data COMIS049_BSS
-  503718        4 Un-initialized Data COMIS050_BSS
-  50371C        4 Un-initialized Data COMIS051_BSS
-  503720        4 Un-initialized Data COMIS052_BSS
-  503724        4 Un-initialized Data COMIS053_BSS
-  503728        4 Un-initialized Data COMIS054_BSS
-  50372C        4 Un-initialized Data COMIS055_BSS
-  503730        4 Un-initialized Data COMIS056_BSS
-  503734        4 Un-initialized Data COMIS057_BSS
-  503738        4 Un-initialized Data COMIS058_BSS
-  50373C        4 Un-initialized Data COMIS059_BSS
-  503740        4 Un-initialized Data COMIS060_BSS
-  503744        4 Un-initialized Data COMIS061_BSS
-  503748        4 Un-initialized Data COMIS062_BSS
-  50374C        4 Un-initialized Data COMIS063_BSS
-  503750        4 Un-initialized Data COMIS064_BSS
-  503754        4 Un-initialized Data COMIS065_BSS
-  503758        4 Un-initialized Data COMIS066_BSS
-  50375C        4 Un-initialized Data COMIS069_BSS
-  503760        4 Un-initialized Data COMIS070_BSS
-  503764        4 Un-initialized Data COMIS071_BSS
-  503768        4 Un-initialized Data COMIS072_BSS
-  50376C        4 Un-initialized Data COMIS073_BSS
-  503770        4 Un-initialized Data COMIS074_BSS
-  503774        4 Un-initialized Data COMIS075_BSS
-  503778        4 Un-initialized Data COMIS076_BSS
-  50377C        4 Un-initialized Data COMIS077_BSS
-  503780        4 Un-initialized Data COMIS078_BSS
-  503784        4 Un-initialized Data COMIS079_BSS
-  503788        4 Un-initialized Data COMIS080_BSS
-  50378C        4 Un-initialized Data COMIS081_BSS
-  503790        4 Un-initialized Data COMIS082_BSS
-  503794        4 Un-initialized Data COMIS083_BSS
-  503798        4 Un-initialized Data COMIS084_BSS
-  50379C        4 Un-initialized Data COMIS086_BSS
-  5037A0        4 Un-initialized Data COMIS087_BSS
-  5037A4        4 Un-initialized Data COMIS088_BSS
-  5037A8        4 Un-initialized Data COMIS089_BSS
-  5037AC        4 Un-initialized Data COMIS090_BSS
-  5037B0        4 Un-initialized Data COMIS091_BSS
-  5037B4        4 Un-initialized Data COMIS092_BSS
-  5037B8        4 Un-initialized Data COMIS093_BSS
-  5037BC        4 Un-initialized Data COMIS094_BSS
-  5037C0        4 Un-initialized Data COMIS095_BSS
-  5037C4        4 Un-initialized Data COMIS096_BSS
-  5037C8        4 Un-initialized Data COMIS097_BSS
-  5037CC        4 Un-initialized Data COMIS098_BSS
-  5037D0        4 Un-initialized Data COMIS099_BSS
-  5037D4        4 Un-initialized Data COMIS100_BSS
-  5037D8        4 Un-initialized Data COMIS101_BSS
-  5037DC        4 Un-initialized Data COMIS102_BSS
-  5037E0        4 Un-initialized Data COMIS103_BSS
-  5037E4        4 Un-initialized Data COMIS104_BSS
-  5037E8        4 Un-initialized Data COMIS105_BSS
-  5037EC        4 Un-initialized Data COMIS106_BSS
-  5037F0        4 Un-initialized Data COMIS107_BSS
-  5037F4        4 Un-initialized Data COMIS108_BSS
-  5037F8        4 Un-initialized Data COMIS109_BSS
-  5037FC        4 Un-initialized Data COMIS110_BSS
-  503800        4 Un-initialized Data COMIS111_BSS
-  503804        4 Un-initialized Data COMIS112_BSS
-  503808        4 Un-initialized Data COMIS114_BSS
-  50380C        4 Un-initialized Data COMIS115_BSS
-  503810        4 Un-initialized Data COMIS116_BSS
-  503814        4 Un-initialized Data COMIS117_BSS
-  503818        4 Un-initialized Data COMIS118_BSS
-  50381C        4 Un-initialized Data COMIS119_BSS
-  503820        4 Un-initialized Data COMIS120_BSS
-  503824        4 Un-initialized Data COMIS121_BSS
-  503828        4 Un-initialized Data COMIS123_BSS
-  50382C        4 Un-initialized Data COMIS124_BSS
-  503830        4 Un-initialized Data COMIS125_BSS
-  503834        4 Un-initialized Data COMIS126_BSS
-  503838        4 Un-initialized Data COMIS127_BSS
-  50383C        4 Un-initialized Data COMIS128_BSS
-  503840        4 Un-initialized Data COMIS130_BSS
-  503844        4 Un-initialized Data COMIS131_BSS
-  503848        4 Un-initialized Data COMIS132_BSS
-  50384C        4 Un-initialized Data COMIS135_BSS
-  503850        4 Un-initialized Data COMIS137_BSS
-  503854        4 Un-initialized Data COMIS138_BSS
-  503858        4 Un-initialized Data COMIS139_BSS
-  50385C        4 Un-initialized Data COMIS140_BSS
-  503860     38B0 Un-initialized Data COMISION_BSS
-  507110        0 Un-initialized Data CWUTIL_BSS
+  4C81E8      992 Initialized Data    COMIS028_CONST
+  4C8B7C     2094 Initialized Data    COMIS028_DATA
+  4CAC10       BA Initialized Data    COMIS029_CONST
+  4CACCC      600 Initialized Data    COMIS029_DATA
+  4CB2CC       62 Initialized Data    COMIS030_CONST
+  4CB330      2AC Initialized Data    COMIS030_DATA
+  4CB5DC       52 Initialized Data    COMIS031_CONST
+  4CB630      82F Initialized Data    COMIS031_DATA
+  4CBE60       52 Initialized Data    COMIS032_CONST
+  4CBEB4      506 Initialized Data    COMIS032_DATA
+  4CC3BC       9A Initialized Data    COMIS033_CONST
+  4CC458      807 Initialized Data    COMIS033_DATA
+  4CCC60       66 Initialized Data    COMIS034_CONST
+  4CCCC8      2AC Initialized Data    COMIS034_DATA
+  4CCF74      382 Initialized Data    COMIS035_CONST
+  4CD2F8      5E8 Initialized Data    COMIS035_DATA
+  4CD8E0       36 Initialized Data    COMIS036_CONST
+  4CD918      8C6 Initialized Data    COMIS036_DATA
+  4CE1E0       3A Initialized Data    COMIS037_CONST
+  4CE21C      28C Initialized Data    COMIS037_DATA
+  4CE4A8       CE Initialized Data    COMIS038_CONST
+  4CE578      614 Initialized Data    COMIS038_DATA
+  4CEB8C       36 Initialized Data    COMIS039_CONST
+  4CEBC4      28C Initialized Data    COMIS039_DATA
+  4CEE50       BE Initialized Data    COMIS040_CONST
+  4CEF10      608 Initialized Data    COMIS040_DATA
+  4CF518       E6 Initialized Data    COMIS041_CONST
+  4CF600      5DC Initialized Data    COMIS041_DATA
+  4CFBDC       86 Initialized Data    COMIS042_CONST
+  4CFC64      28C Initialized Data    COMIS042_DATA
+  4CFEF0       66 Initialized Data    COMIS043_CONST
+  4CFF58      28C Initialized Data    COMIS043_DATA
+  4D01E4       82 Initialized Data    COMIS044_CONST
+  4D0268      28C Initialized Data    COMIS044_DATA
+  4D04F4       6A Initialized Data    COMIS045_CONST
+  4D0560      3C4 Initialized Data    COMIS045_DATA
+  4D0924       36 Initialized Data    COMIS046_CONST
+  4D095C      8C6 Initialized Data    COMIS046_DATA
+  4D1224       32 Initialized Data    COMIS047_CONST
+  4D1258      5C7 Initialized Data    COMIS047_DATA
+  4D1820       62 Initialized Data    COMIS048_CONST
+  4D1884      2AC Initialized Data    COMIS048_DATA
+  4D1B30       32 Initialized Data    COMIS049_CONST
+  4D1B64      7EC Initialized Data    COMIS049_DATA
+  4D2350       EA Initialized Data    COMIS050_CONST
+  4D243C      5E7 Initialized Data    COMIS050_DATA
+  4D2A24       36 Initialized Data    COMIS051_CONST
+  4D2A5C      5C7 Initialized Data    COMIS051_DATA
+  4D3024       EA Initialized Data    COMIS052_CONST
+  4D3110      881 Initialized Data    COMIS052_DATA
+  4D3994       3A Initialized Data    COMIS053_CONST
+  4D39D0      8CA Initialized Data    COMIS053_DATA
+  4D429C       B2 Initialized Data    COMIS054_CONST
+  4D4350      600 Initialized Data    COMIS054_DATA
+  4D4950       2A Initialized Data    COMIS055_CONST
+  4D497C      28C Initialized Data    COMIS055_DATA
+  4D4C08       66 Initialized Data    COMIS056_CONST
+  4D4C70      28C Initialized Data    COMIS056_DATA
+  4D4EFC       5E Initialized Data    COMIS057_CONST
+  4D4F5C      5E4 Initialized Data    COMIS057_DATA
+  4D5540       FE Initialized Data    COMIS058_CONST
+  4D5640      5F8 Initialized Data    COMIS058_DATA
+  4D5C38       3E Initialized Data    COMIS059_CONST
+  4D5C78      28C Initialized Data    COMIS059_DATA
+  4D5F04      24E Initialized Data    COMIS060_CONST
+  4D6154      28C Initialized Data    COMIS060_DATA
+  4D63E0       32 Initialized Data    COMIS061_CONST
+  4D6414      28C Initialized Data    COMIS061_DATA
+  4D66A0       92 Initialized Data    COMIS062_CONST
+  4D6734      5E0 Initialized Data    COMIS062_DATA
+  4D6D14       36 Initialized Data    COMIS063_CONST
+  4D6D4C      28C Initialized Data    COMIS063_DATA
+  4D6FD8       2E Initialized Data    COMIS064_CONST
+  4D7008      28C Initialized Data    COMIS064_DATA
+  4D7294       36 Initialized Data    COMIS065_CONST
+  4D72CC      28C Initialized Data    COMIS065_DATA
+  4D7558       7E Initialized Data    COMIS066_CONST
+  4D75D8      5DC Initialized Data    COMIS066_DATA
+  4D7BB4        5 Initialized Data    COMIS067_DATA
+  4D7BBC       3E Initialized Data    COMIS069_CONST
+  4D7BFC      28C Initialized Data    COMIS069_DATA
+  4D7E88       D6 Initialized Data    COMIS070_CONST
+  4D7F60      5F8 Initialized Data    COMIS070_DATA
+  4D8558       3A Initialized Data    COMIS071_CONST
+  4D8594      28C Initialized Data    COMIS071_DATA
+  4D8820       72 Initialized Data    COMIS072_CONST
+  4D8894      5E4 Initialized Data    COMIS072_DATA
+  4D8E78       32 Initialized Data    COMIS073_CONST
+  4D8EAC      28C Initialized Data    COMIS073_DATA
+  4D9138       32 Initialized Data    COMIS074_CONST
+  4D916C      28C Initialized Data    COMIS074_DATA
+  4D93F8       7A Initialized Data    COMIS075_CONST
+  4D9474      5DC Initialized Data    COMIS075_DATA
+  4D9A50       36 Initialized Data    COMIS076_CONST
+  4D9A88      28C Initialized Data    COMIS076_DATA
+  4D9D14       8A Initialized Data    COMIS077_CONST
+  4D9DA0      5FC Initialized Data    COMIS077_DATA
+  4DA39C      1A2 Initialized Data    COMIS078_CONST
+  4DA540      F75 Initialized Data    COMIS078_DATA
+  4DB4B8      192 Initialized Data    COMIS079_CONST
+  4DB64C      E83 Initialized Data    COMIS079_DATA
+  4DC4D0       32 Initialized Data    COMIS080_CONST
+  4DC504      28C Initialized Data    COMIS080_DATA
+  4DC790       B2 Initialized Data    COMIS081_CONST
+  4DC844      600 Initialized Data    COMIS081_DATA
+  4DCE44      15E Initialized Data    COMIS082_CONST
+  4DCFA4      28C Initialized Data    COMIS082_DATA
+  4DD230      24A Initialized Data    COMIS083_CONST
+  4DD47C      BCD Initialized Data    COMIS083_DATA
+  4DE04C       6E Initialized Data    COMIS084_CONST
+  4DE0BC      600 Initialized Data    COMIS084_DATA
+  4DE6BC       4F Initialized Data    COMIS085_DATA
+  4DE70C      1D2 Initialized Data    COMIS086_CONST
+  4DE8E0      B4F Initialized Data    COMIS086_DATA
+  4DF430      322 Initialized Data    COMIS087_CONST
+  4DF754     131B Initialized Data    COMIS087_DATA
+  4E0A70       8A Initialized Data    COMIS088_CONST
+  4E0AFC      3C4 Initialized Data    COMIS088_DATA
+  4E0EC0       32 Initialized Data    COMIS089_CONST
+  4E0EF4      B0E Initialized Data    COMIS089_DATA
+  4E1A04       3A Initialized Data    COMIS090_CONST
+  4E1A40      A66 Initialized Data    COMIS090_DATA
+  4E24A8       8E Initialized Data    COMIS091_CONST
+  4E2538      28C Initialized Data    COMIS091_DATA
+  4E27C4      3BE Initialized Data    COMIS092_CONST
+  4E2B84      5E8 Initialized Data    COMIS092_DATA
+  4E316C       32 Initialized Data    COMIS093_CONST
+  4E31A0      8C8 Initialized Data    COMIS093_DATA
+  4E3A68       2E Initialized Data    COMIS094_CONST
+  4E3A98      7B0 Initialized Data    COMIS094_DATA
+  4E4248       46 Initialized Data    COMIS095_CONST
+  4E4290      F70 Initialized Data    COMIS095_DATA
+  4E5200      1D2 Initialized Data    COMIS096_CONST
+  4E53D4      B4F Initialized Data    COMIS096_DATA
+  4E5F24      3BE Initialized Data    COMIS097_CONST
+  4E62E4      5E8 Initialized Data    COMIS097_DATA
+  4E68CC      322 Initialized Data    COMIS098_CONST
+  4E6BF0     131B Initialized Data    COMIS098_DATA
+  4E7F0C       9A Initialized Data    COMIS099_CONST
+  4E7FA8      82F Initialized Data    COMIS099_DATA
+  4E87D8       D6 Initialized Data    COMIS100_CONST
+  4E88B0      28C Initialized Data    COMIS100_DATA
+  4E8B3C       D6 Initialized Data    COMIS101_CONST
+  4E8C14      28C Initialized Data    COMIS101_DATA
+  4E8EA0       EE Initialized Data    COMIS102_CONST
+  4E8F90      28C Initialized Data    COMIS102_DATA
+  4E921C       32 Initialized Data    COMIS103_CONST
+  4E9250      28C Initialized Data    COMIS103_DATA
+  4E94DC       62 Initialized Data    COMIS104_CONST
+  4E9540      5E4 Initialized Data    COMIS104_DATA
+  4E9B24       3A Initialized Data    COMIS105_CONST
+  4E9B60      3A4 Initialized Data    COMIS105_DATA
+  4E9F04       9A Initialized Data    COMIS106_CONST
+  4E9FA0      C8E Initialized Data    COMIS106_DATA
+  4EAC30       36 Initialized Data    COMIS107_CONST
+  4EAC68      28C Initialized Data    COMIS107_DATA
+  4EAEF4       3E Initialized Data    COMIS108_CONST
+  4EAF34      28C Initialized Data    COMIS108_DATA
+  4EB1C0       2E Initialized Data    COMIS109_CONST
+  4EB1F0      F3F Initialized Data    COMIS109_DATA
+  4EC130       6E Initialized Data    COMIS110_CONST
+  4EC1A0      6FF Initialized Data    COMIS110_DATA
+  4EC8A0       36 Initialized Data    COMIS111_CONST
+  4EC8D8      BCE Initialized Data    COMIS111_DATA
+  4ED4A8       72 Initialized Data    COMIS112_CONST
+  4ED51C      6FF Initialized Data    COMIS112_DATA
+  4EDC1C       42 Initialized Data    COMIS114_CONST
+  4EDC60      28C Initialized Data    COMIS114_DATA
+  4EDEEC       DA Initialized Data    COMIS115_CONST
+  4EDFC8      5F8 Initialized Data    COMIS115_DATA
+  4EE5C0       C2 Initialized Data    COMIS116_CONST
+  4EE684      5F8 Initialized Data    COMIS116_DATA
+  4EEC7C       3E Initialized Data    COMIS117_CONST
+  4EECBC      28C Initialized Data    COMIS117_DATA
+  4EEF48      12A Initialized Data    COMIS118_CONST
+  4EF074      28C Initialized Data    COMIS118_DATA
+  4EF300       56 Initialized Data    COMIS119_CONST
+  4EF358      28C Initialized Data    COMIS119_DATA
+  4EF5E4       36 Initialized Data    COMIS120_CONST
+  4EF61C      28C Initialized Data    COMIS120_DATA
+  4EF8A8       EE Initialized Data    COMIS121_CONST
+  4EF998      620 Initialized Data    COMIS121_DATA
+  4EFFB8       CA Initialized Data    COMIS123_CONST
+  4F0084      5EC Initialized Data    COMIS123_DATA
+  4F0670       86 Initialized Data    COMIS124_CONST
+  4F06F8      614 Initialized Data    COMIS124_DATA
+  4F0D0C       7E Initialized Data    COMIS125_CONST
+  4F0D8C      5E0 Initialized Data    COMIS125_DATA
+  4F136C      43E Initialized Data    COMIS126_CONST
+  4F17AC      28C Initialized Data    COMIS126_DATA
+  4F1A38      17E Initialized Data    COMIS127_CONST
+  4F1BB8      28C Initialized Data    COMIS127_DATA
+  4F1E44      15E Initialized Data    COMIS128_CONST
+  4F1FA4      28C Initialized Data    COMIS128_DATA
+  4F2230        D Initialized Data    COMIS129_CONST
+  4F2240       C6 Initialized Data    COMIS130_CONST
+  4F2308      28C Initialized Data    COMIS130_DATA
+  4F2594       8E Initialized Data    COMIS131_CONST
+  4F2624      28C Initialized Data    COMIS131_DATA
+  4F28B0      1D6 Initialized Data    COMIS132_CONST
+  4F2A88      28C Initialized Data    COMIS132_DATA
+  4F2D14       21 Initialized Data    COMIS133_DATA
+  4F2D38       27 Initialized Data    COMIS134_DATA
+  4F2D60      122 Initialized Data    COMIS135_CONST
+  4F2E84      604 Initialized Data    COMIS135_DATA
+  4F3488      51E Initialized Data    COMIS137_CONST
+  4F39A8      28C Initialized Data    COMIS137_DATA
+  4F3C34       D6 Initialized Data    COMIS138_CONST
+  4F3D0C      28C Initialized Data    COMIS138_DATA
+  4F3F98      416 Initialized Data    COMIS139_CONST
+  4F43B0     1BFC Initialized Data    COMIS139_DATA
+  4F5FAC       9E Initialized Data    COMIS140_CONST
+  4F604C      604 Initialized Data    COMIS140_DATA
+  4F6650      481 Initialized Data    COMISBC0_CONST
+  4F6AD4     4380 Initialized Data    COMISBC0_DATA
+  4FAE54      447 Initialized Data    COMISBC1_CONST
+  4FB29C     3960 Initialized Data    COMISBC1_DATA
+  4FEBFC      A00 Initialized Data    COMISION_CONST
+  4FF5FC     1A88 Initialized Data    COMISION_DATA
+  501084       48 Initialized Data    CWSYNCHC_DATA
+  5010CC        E Initialized Data    CWUTIL_CONST
+  5010DC       36 Initialized Data    CWUTIL_DATA
+  501114      21C Initialized Data    EFOCUS_DATA
+  501330       3C Initialized Data    IEXE32_DATA
+  50136C        0 Initialized Data    __CPPINI_CONS
+  50136C     120C Initialized Data    __CPPINI_CONST
+  502578        4 Initialized Data    __CPPINI_END
+  50257C        0 Initialized Data    __INIVMT_CONS
+  50257C      B88 Initialized Data    __INIVMT_CONST
+  503104        0 Initialized Data    __INIVMT_CONST_END
+  503110       40 Un-initialized Data ABEIP_BSS
+  503150      404 Un-initialized Data ABERROR_BSS
+  503554       10 Un-initialized Data ABFILE_BSS
+  503564        4 Un-initialized Data ABFUZZY_BSS
+  503568      104 Un-initialized Data ABUTIL_BSS
+  50366C        0 Un-initialized Data ABWMFPAR_BSS
+  50366C        4 Un-initialized Data COMIS001_BSS
+  503670        4 Un-initialized Data COMIS002_BSS
+  503674        4 Un-initialized Data COMIS003_BSS
+  503678        4 Un-initialized Data COMIS004_BSS
+  50367C        4 Un-initialized Data COMIS005_BSS
+  503680        4 Un-initialized Data COMIS006_BSS
+  503684        4 Un-initialized Data COMIS007_BSS
+  503688        4 Un-initialized Data COMIS009_BSS
+  50368C        4 Un-initialized Data COMIS010_BSS
+  503690        4 Un-initialized Data COMIS011_BSS
+  503694        4 Un-initialized Data COMIS012_BSS
+  503698        4 Un-initialized Data COMIS013_BSS
+  50369C        4 Un-initialized Data COMIS014_BSS
+  5036A0        4 Un-initialized Data COMIS015_BSS
+  5036A4        4 Un-initialized Data COMIS016_BSS
+  5036A8        4 Un-initialized Data COMIS017_BSS
+  5036AC        4 Un-initialized Data COMIS018_BSS
+  5036B0        4 Un-initialized Data COMIS019_BSS
+  5036B4        4 Un-initialized Data COMIS021_BSS
+  5036B8        4 Un-initialized Data COMIS022_BSS
+  5036BC        4 Un-initialized Data COMIS023_BSS
+  5036C0        4 Un-initialized Data COMIS024_BSS
+  5036C4        4 Un-initialized Data COMIS025_BSS
+  5036C8        4 Un-initialized Data COMIS026_BSS
+  5036CC        4 Un-initialized Data COMIS027_BSS
+  5036D0        4 Un-initialized Data COMIS028_BSS
+  5036D4        4 Un-initialized Data COMIS029_BSS
+  5036D8        4 Un-initialized Data COMIS030_BSS
+  5036DC        4 Un-initialized Data COMIS031_BSS
+  5036E0        4 Un-initialized Data COMIS032_BSS
+  5036E4        4 Un-initialized Data COMIS033_BSS
+  5036E8        4 Un-initialized Data COMIS034_BSS
+  5036EC        4 Un-initialized Data COMIS035_BSS
+  5036F0        4 Un-initialized Data COMIS036_BSS
+  5036F4        4 Un-initialized Data COMIS037_BSS
+  5036F8        4 Un-initialized Data COMIS038_BSS
+  5036FC        4 Un-initialized Data COMIS039_BSS
+  503700        4 Un-initialized Data COMIS040_BSS
+  503704        4 Un-initialized Data COMIS041_BSS
+  503708        4 Un-initialized Data COMIS042_BSS
+  50370C        4 Un-initialized Data COMIS043_BSS
+  503710        4 Un-initialized Data COMIS044_BSS
+  503714        4 Un-initialized Data COMIS045_BSS
+  503718        4 Un-initialized Data COMIS046_BSS
+  50371C        4 Un-initialized Data COMIS047_BSS
+  503720        4 Un-initialized Data COMIS048_BSS
+  503724        4 Un-initialized Data COMIS049_BSS
+  503728        4 Un-initialized Data COMIS050_BSS
+  50372C        4 Un-initialized Data COMIS051_BSS
+  503730        4 Un-initialized Data COMIS052_BSS
+  503734        4 Un-initialized Data COMIS053_BSS
+  503738        4 Un-initialized Data COMIS054_BSS
+  50373C        4 Un-initialized Data COMIS055_BSS
+  503740        4 Un-initialized Data COMIS056_BSS
+  503744        4 Un-initialized Data COMIS057_BSS
+  503748        4 Un-initialized Data COMIS058_BSS
+  50374C        4 Un-initialized Data COMIS059_BSS
+  503750        4 Un-initialized Data COMIS060_BSS
+  503754        4 Un-initialized Data COMIS061_BSS
+  503758        4 Un-initialized Data COMIS062_BSS
+  50375C        4 Un-initialized Data COMIS063_BSS
+  503760        4 Un-initialized Data COMIS064_BSS
+  503764        4 Un-initialized Data COMIS065_BSS
+  503768        4 Un-initialized Data COMIS066_BSS
+  50376C        4 Un-initialized Data COMIS069_BSS
+  503770        4 Un-initialized Data COMIS070_BSS
+  503774        4 Un-initialized Data COMIS071_BSS
+  503778        4 Un-initialized Data COMIS072_BSS
+  50377C        4 Un-initialized Data COMIS073_BSS
+  503780        4 Un-initialized Data COMIS074_BSS
+  503784        4 Un-initialized Data COMIS075_BSS
+  503788        4 Un-initialized Data COMIS076_BSS
+  50378C        4 Un-initialized Data COMIS077_BSS
+  503790        4 Un-initialized Data COMIS078_BSS
+  503794        4 Un-initialized Data COMIS079_BSS
+  503798        4 Un-initialized Data COMIS080_BSS
+  50379C        4 Un-initialized Data COMIS081_BSS
+  5037A0        4 Un-initialized Data COMIS082_BSS
+  5037A4        4 Un-initialized Data COMIS083_BSS
+  5037A8        4 Un-initialized Data COMIS084_BSS
+  5037AC        4 Un-initialized Data COMIS086_BSS
+  5037B0        4 Un-initialized Data COMIS087_BSS
+  5037B4        4 Un-initialized Data COMIS088_BSS
+  5037B8        4 Un-initialized Data COMIS089_BSS
+  5037BC        4 Un-initialized Data COMIS090_BSS
+  5037C0        4 Un-initialized Data COMIS091_BSS
+  5037C4        4 Un-initialized Data COMIS092_BSS
+  5037C8        4 Un-initialized Data COMIS093_BSS
+  5037CC        4 Un-initialized Data COMIS094_BSS
+  5037D0        4 Un-initialized Data COMIS095_BSS
+  5037D4        4 Un-initialized Data COMIS096_BSS
+  5037D8        4 Un-initialized Data COMIS097_BSS
+  5037DC        4 Un-initialized Data COMIS098_BSS
+  5037E0        4 Un-initialized Data COMIS099_BSS
+  5037E4        4 Un-initialized Data COMIS100_BSS
+  5037E8        4 Un-initialized Data COMIS101_BSS
+  5037EC        4 Un-initialized Data COMIS102_BSS
+  5037F0        4 Un-initialized Data COMIS103_BSS
+  5037F4        4 Un-initialized Data COMIS104_BSS
+  5037F8        4 Un-initialized Data COMIS105_BSS
+  5037FC        4 Un-initialized Data COMIS106_BSS
+  503800        4 Un-initialized Data COMIS107_BSS
+  503804        4 Un-initialized Data COMIS108_BSS
+  503808        4 Un-initialized Data COMIS109_BSS
+  50380C        4 Un-initialized Data COMIS110_BSS
+  503810        4 Un-initialized Data COMIS111_BSS
+  503814        4 Un-initialized Data COMIS112_BSS
+  503818        4 Un-initialized Data COMIS114_BSS
+  50381C        4 Un-initialized Data COMIS115_BSS
+  503820        4 Un-initialized Data COMIS116_BSS
+  503824        4 Un-initialized Data COMIS117_BSS
+  503828        4 Un-initialized Data COMIS118_BSS
+  50382C        4 Un-initialized Data COMIS119_BSS
+  503830        4 Un-initialized Data COMIS120_BSS
+  503834        4 Un-initialized Data COMIS121_BSS
+  503838        4 Un-initialized Data COMIS123_BSS
+  50383C        4 Un-initialized Data COMIS124_BSS
+  503840        4 Un-initialized Data COMIS125_BSS
+  503844        4 Un-initialized Data COMIS126_BSS
+  503848        4 Un-initialized Data COMIS127_BSS
+  50384C        4 Un-initialized Data COMIS128_BSS
+  503850        4 Un-initialized Data COMIS130_BSS
+  503854        4 Un-initialized Data COMIS131_BSS
+  503858        4 Un-initialized Data COMIS132_BSS
+  50385C        4 Un-initialized Data COMIS135_BSS
+  503860        4 Un-initialized Data COMIS137_BSS
+  503864        4 Un-initialized Data COMIS138_BSS
+  503868        4 Un-initialized Data COMIS139_BSS
+  50386C        4 Un-initialized Data COMIS140_BSS
+  503870     38B4 Un-initialized Data COMISION_BSS
+  507124        0 Un-initialized Data CWUTIL_BSS
   508000        8 __T_L_S__DAT
   508008     2E9C __T_L_S__DATA
   50AEA4        0 __T_L_S__DATA_END
   50AEB0        0 __T_L_S__BS
-  50AEB0    155DC __T_L_S__BSS
-  52048C        0 __T_L_S__BSS_END
+  50AEB0    155E4 __T_L_S__BSS
+  520494        0 __T_L_S__BSS_END
 
   401900 EVALUATELEVEL@F17LEVELMANAGERCLASSs
   4019B8 RESTORERESETBUFFER@F17LEVELMANAGERCLASSs
@@ -1373,373 +1373,373 @@
   439104 COMIS013$UPDATECLIENTES@F
   439C88 COMIS014$SELECTTRANSPORTE@F
   43A5C0 COMIS015$SELECTDISTRIBUIDORES@F
-  43B004 COMIS016$SELECTCLIENTES@F
-  43DA6C COMIS017$UPDATEGUIAS1@F
-  43E780 COMIS018$UPDATELOCALIDAD@F
-  43F6B4 COMIS019$UPDATETRANSPOR@F
-  440778 COMIS021$UPDATEDISTRIBUIDORES@F
-  441650 COMIS022$MOVIMIENTOS@F
-  442210 COMIS023$HOJARUTA@F
-  442938 COMIS024$WINHOJARUTA@F
-  442E30 COMIS025$REDESPACHO@F
-  4432F8 COMIS026$DESTINATARIO@F
-  444998 COMIS027$FACTURAS_EMPRESA1@F
-  44B60C COMIS028$UPDATEFACTURAS1@F
-  44CEF0 COMIS029$IMPRESIONGUIA1@F
-  44D960 COMIS030$UPDATEITEMGUIA@F
-  44E44C COMIS031$VISTAGUIAS@F
-  44EFE4 COMIS032$UPDATEVISITA_CLI@F
-  44FD94 COMIS033$AGENDA@F
-  45095C COMIS034$UPDATEVISITAS@F
-  451AD0 COMIS035$RECIBOCONTRAREEMBOLSO@F
-  452508 COMIS036$SELECTDESTINO@F
-  452DBC COMIS037$WINHOJARUTADISTRIBUIDOR@F
-  453850 COMIS038$HOJARUTADISTRIBUIDOR@F
-  453FD4 COMIS039$WINHOJARUTAEMPRESA@F
-  454A38 COMIS040$HOJARUTAEMPRESA@F
-  455554 COMIS041$VISITASPROGRAMADAS@F
-  455CA0 COMIS042$WINVISITASPROGRAMADAS@F
-  456238 COMIS043$WINSUBDIARIOIVAVENTAS@F
-  45686C COMIS044$WINREIMPRESIONGUIA@F
-  457048 COMIS045$UPDATELOCALIDAD2@F
-  457928 COMIS046$SELECTREMITENTE@F
-  458374 COMIS047$UPDATEREMITENTE@F
-  458C64 COMIS048$UPDATEITEMFAC@F
-  4595FC COMIS049$PROVEEDORES@F
-  45A920 COMIS050$UPDATEPROVEEDORES@F
-  45B45C COMIS051$UPDATEDESTINATARIO@F
-  45C394 COMIS052$COMPRAS@F
-  45CE20 COMIS053$SELECTPROVEEDORES@F
-  45D9D8 COMIS054$IMPRESIONGUIA2@F
-  45E228 COMIS055$AUTOR@F
-  45E7B8 COMIS056$WINSUBDIARIOIVACOMPRAS@F
-  45EEAC COMIS057$PADRONCLIENTESNOMBRE@F
-  45F9D0 COMIS058$GUIASPENDIENTESFACTURAR@F
-  4602FC COMIS059$WINGUIASPENDIENTESFACTURAR@F
-  460DE8 COMIS060$APLICAFACTURA@F
-  46156C COMIS061$WINREDESPACHO@F
-  461F44 COMIS062$LISTADOREDESPACHOS@F
-  462640 COMIS063$WINCONTRAREEMBOLSO@F
-  462B00 COMIS064$REMITENTE@F
-  46302C COMIS065$WINFACTURASIMPAGAS@F
-  463984 COMIS066$FACTURASIMPAGAS@F
-  4640E4 COMIS069$WINCONTRAREEMBOLSOIMPAGOS@F
-  464908 COMIS070$CONTRAREEMBOLSOSIMPAGOS@F
-  4651EC COMIS071$WINMOVIMIENTOSCLIENTE@F
-  465B24 COMIS072$MOVIMIENTOSCLIENTE@F
-  4662DC COMIS073$IMPRIMETOTAL1@F
-  466810 COMIS074$IMPRIMETOTAL2@F
-  4670EC COMIS075$GUIASSINFACTURAR@F
-  4677F0 COMIS076$WINGUIASSINFACTURAR@F
-  468654 COMIS077$IMPRESIONFACTURA1@F
-  469E44 COMIS078$GUIAS_EMPRESA3@F
-  46CABC COMIS079$UPDATEGUIAS3@F
-  46D5B4 COMIS080$IMPRIMETOTAL3@F
-  46DF6C COMIS081$IMPRESIONGUIA3@F
-  46EC28 COMIS082$PARAMETRO_3@F
-  470340 COMIS083$FACTURAS_EMPRESA3@F
-  471234 COMIS084$IMPRESIONFACTURA3@F
-  472ABC COMIS086$RECIBOS_EMPRESA1@F
-  474EB8 COMIS087$UPDATERECIBOS1@F
-  4762C8 COMIS088$UPDATEVALORES@F
-  4774B4 COMIS089$VISTAVALORES@F
-  478370 COMIS090$VISTAAPLICACIONES@F
-  478CF8 COMIS091$APLICAGUIAS@F
-  47A368 COMIS092$IMPRESIONRECIBO1@F
-  47AF68 COMIS093$SELECTBANCO@F
-  47B934 COMIS094$BANCOS@F
-  47D44C COMIS095$VALORES@F
-  47EC90 COMIS096$RECIBOS_EMPRESA3@F
-  480518 COMIS097$IMPRESIONRECIBO3@F
-  482B84 COMIS098$UPDATERECIBOS3@F
-  483D4C COMIS099$CUENTACORRIENTE@F
-  484628 COMIS100$ANULAIMPRESION@F
-  484D94 COMIS101$ANULACOBRANZA@F
-  485580 COMIS102$WINRECIBOCONTRAREEMBOLSO@F
-  485CC0 COMIS103$WINRESUMENCTACTE@F
-  48666C COMIS104$RESUMENCTACTE@F
-  486F18 COMIS105$IMPORTEREDESPACHO@F
-  488B98 COMIS106$REDESPACHOS@F
-  489310 COMIS107$WINLISTADOREDESPACHO@F
-  489984 COMIS108$WINLIQUIDACIONREDESPACHO@F
-  48A97C COMIS109$DESTINOS@F
-  48B938 COMIS110$UPDATETRANSLOC@F
-  48C9C8 COMIS111$TRANS_DESTINOS@F
-  48D6DC COMIS112$UPDATETRANS_DESTINOS@F
-  48E050 COMIS114$WINCONTRAREEMBOLSOSTRANSPORTE@F
-  48E934 COMIS115$CONTRAREEMBOLSOSTRANSPORTE@F
-  48F35C COMIS116$CONTRAREEMBOLSOSCOBRADOS@F
-  48FA48 COMIS117$WINCONTRAREEMBOLSOCOBRADOS@F
-  49022C COMIS118$ANULAGUIA@F
-  490E90 COMIS119$EMISIONRECIBO@F
-  4916B8 COMIS120$SELECTCOMPROBANTE@F
-  493AE8 COMIS121$UPDATEFACPROV@F
-  494834 COMIS123$SUBDIARIOIVAVENTAS@F
-  495524 COMIS124$SUBDIARIOIVACOMPRAS@F
-  4960E8 COMIS125$FACTURASIMPAGASGENERAL@F
-  498094 COMIS126$CITIVENTAS@F
-  498B88 COMIS127$GENERAFACTURASANULADAS@F
-  499750 COMIS128$PARAMETRO_1@F
-  499994 EJECUTA_WS@F
-  499EDC COMIS130$LEE_FECOMPULTIMOAUTORIZADO@F
-  49A418 COMIS131$GENERAR_ARCHIVO_RECE@F
-  49AC10 COMIS132$LEER_RESPUESTA_RECE@F
-  49C048 COMIS135$IMPRESIONFACTURAELECTRONICA1@F
-  49F030 COMIS137$REGIMEN_DE_COMPRAS_Y_VENTAS@F
-  49F638 COMIS138$ABRIR_REGIMEN_COMPRAS_Y_VENTAS@F
-  4A3A88 COMIS139$UPDATEFACTURAS3@F
-  4A54C8 COMIS140$IMPRESIONFACTURAELECTRONICA3@F
-  4A59FC KILL@F17HIDE:RELATE:ZONAS
-  4A5B8C DEFEREDADDRELATIONS@F17HIDE:RELATE:ZONAS
-  4A5BA8 INIT@F17HIDE:RELATE:ZONAS
-  4A5BF0 USEFILE@F17HIDE:ACCESS:ZONASUc
-  4A5CD0 KILL@F17HIDE:ACCESS:ZONAS
-  4A5CFC INIT@F17HIDE:ACCESS:ZONAS
-  4A5D9C KILL@F19HIDE:RELATE:ITEMFAC
-  4A5E24 DEFEREDADDRELATIONS@F19HIDE:RELATE:ITEMFAC
-  4A5E40 INIT@F19HIDE:RELATE:ITEMFAC
-  4A5E88 USEFILE@F19HIDE:ACCESS:ITEMFACUc
-  4A5F68 KILL@F19HIDE:ACCESS:ITEMFAC
-  4A5F94 INIT@F19HIDE:ACCESS:ITEMFAC
-  4A6034 KILL@F20HIDE:RELATE:APLIGUIA
-  4A60D8 DEFEREDADDRELATIONS@F20HIDE:RELATE:APLIGUIA
-  4A60F4 INIT@F20HIDE:RELATE:APLIGUIA
-  4A613C USEFILE@F20HIDE:ACCESS:APLIGUIAUc
-  4A621C KILL@F20HIDE:ACCESS:APLIGUIA
-  4A6248 INIT@F20HIDE:ACCESS:APLIGUIA
-  4A62E8 KILL@F19HIDE:RELATE:APLIFAC
-  4A638C DEFEREDADDRELATIONS@F19HIDE:RELATE:APLIFAC
-  4A63A8 INIT@F19HIDE:RELATE:APLIFAC
-  4A63F0 USEFILE@F19HIDE:ACCESS:APLIFACUc
-  4A64D0 KILL@F19HIDE:ACCESS:APLIFAC
-  4A64FC INIT@F19HIDE:ACCESS:APLIFAC
-  4A659C KILL@F29HIDE:RELATE:FE_RESPUESTA_RECE
-  4A65FC INIT@F29HIDE:RELATE:FE_RESPUESTA_RECE
-  4A6644 USEFILE@F29HIDE:ACCESS:FE_RESPUESTA_RECEUc
-  4A66D0 KILL@F29HIDE:ACCESS:FE_RESPUESTA_RECE
-  4A66FC INIT@F29HIDE:ACCESS:FE_RESPUESTA_RECE
-  4A679C KILL@F19HIDE:RELATE:FE_RECE
-  4A67FC INIT@F19HIDE:RELATE:FE_RECE
-  4A6844 USEFILE@F19HIDE:ACCESS:FE_RECEUc
-  4A68D0 KILL@F19HIDE:ACCESS:FE_RECE
-  4A68FC INIT@F19HIDE:ACCESS:FE_RECE
-  4A69C8 KILL@F20HIDE:RELATE:LOCALIDA
-  4A6A28 INIT@F20HIDE:RELATE:LOCALIDA
-  4A6A70 USEFILE@F20HIDE:ACCESS:LOCALIDAUc
-  4A6B24 KILL@F20HIDE:ACCESS:LOCALIDA
-  4A6B50 INIT@F20HIDE:ACCESS:LOCALIDA
-  4A6BF0 KILL@F19HIDE:RELATE:FACPROV
-  4A6C94 DEFEREDADDRELATIONS@F19HIDE:RELATE:FACPROV
-  4A6CB0 INIT@F19HIDE:RELATE:FACPROV
-  4A6CF8 USEFILE@F19HIDE:ACCESS:FACPROVUc
-  4A6EFC KILL@F19HIDE:ACCESS:FACPROV
-  4A6F28 INIT@F19HIDE:ACCESS:FACPROV
-  4A6FC8 BINDFIELDS@F19HIDE:ACCESS:FACPROV
-  4A7028 KILL@F17HIDE:RELATE:GUIAS
-  4A7208 DEFEREDADDRELATIONS@F17HIDE:RELATE:GUIAS
-  4A7224 INIT@F17HIDE:RELATE:GUIAS
-  4A726C VALIDATEFIELDSERVER@F17HIDE:ACCESS:GUIASlUc
-  4A7368 USEFILE@F17HIDE:ACCESS:GUIASUc
-  4A7598 KILL@F17HIDE:ACCESS:GUIAS
-  4A75C4 INIT@F17HIDE:ACCESS:GUIAS
-  4A7664 BINDFIELDS@F17HIDE:ACCESS:GUIAS
-  4A76C4 KILL@F20HIDE:RELATE:FACTURAS
-  4A78D4 DEFEREDADDRELATIONS@F20HIDE:RELATE:FACTURAS
-  4A78F0 INIT@F20HIDE:RELATE:FACTURAS
-  4A7938 USEFILE@F20HIDE:ACCESS:FACTURASUc
-  4A7B3C KILL@F20HIDE:ACCESS:FACTURAS
-  4A7B68 INIT@F20HIDE:ACCESS:FACTURAS
-  4A7C08 KILL@F19HIDE:RELATE:VISITAS
-  4A7CAC DEFEREDADDRELATIONS@F19HIDE:RELATE:VISITAS
-  4A7CC8 INIT@F19HIDE:RELATE:VISITAS
-  4A7D10 USEFILE@F19HIDE:ACCESS:VISITASUc
-  4A7DF0 KILL@F19HIDE:ACCESS:VISITAS
-  4A7E1C INIT@F19HIDE:ACCESS:VISITAS
-  4A7EBC KILL@F21HIDE:RELATE:PARAMETRO
-  4A7F1C INIT@F21HIDE:RELATE:PARAMETRO
-  4A7F64 USEFILE@F21HIDE:ACCESS:PARAMETROUc
-  4A8018 KILL@F21HIDE:ACCESS:PARAMETRO
-  4A8044 INIT@F21HIDE:ACCESS:PARAMETRO
-  4A80E4 KILL@F23HIDE:RELATE:PROVEEDORES
-  4A8218 DEFEREDADDRELATIONS@F23HIDE:RELATE:PROVEEDORES
-  4A8234 INIT@F23HIDE:RELATE:PROVEEDORES
-  4A827C USEFILE@F23HIDE:ACCESS:PROVEEDORESUc
-  4A8408 KILL@F23HIDE:ACCESS:PROVEEDORES
-  4A8434 INIT@F23HIDE:ACCESS:PROVEEDORES
-  4A84D4 BINDFIELDS@F23HIDE:ACCESS:PROVEEDORES
-  4A8534 KILL@F22HIDE:RELATE:REDESPACHO
-  4A85BC DEFEREDADDRELATIONS@F22HIDE:RELATE:REDESPACHO
-  4A85D8 INIT@F22HIDE:RELATE:REDESPACHO
-  4A8620 USEFILE@F22HIDE:ACCESS:REDESPACHOUc
-  4A86D4 KILL@F22HIDE:ACCESS:REDESPACHO
-  4A8700 INIT@F22HIDE:ACCESS:REDESPACHO
-  4A87A0 KILL@F24HIDE:RELATE:COMPROBANTES
-  4A88A0 DEFEREDADDRELATIONS@F24HIDE:RELATE:COMPROBANTES
-  4A88BC INIT@F24HIDE:RELATE:COMPROBANTES
-  4A8904 USEFILE@F24HIDE:ACCESS:COMPROBANTESUc
-  4A89E4 KILL@F24HIDE:ACCESS:COMPROBANTES
-  4A8A10 INIT@F24HIDE:ACCESS:COMPROBANTES
-  4A8AB0 KILL@F17HIDE:RELATE:CITIA
-  4A8B10 INIT@F17HIDE:RELATE:CITIA
-  4A8B58 USEFILE@F17HIDE:ACCESS:CITIAUc
-  4A8BE4 KILL@F17HIDE:ACCESS:CITIA
-  4A8C10 INIT@F17HIDE:ACCESS:CITIA
-  4A8CB0 KILL@F17HIDE:RELATE:CITIC
-  4A8D10 INIT@F17HIDE:RELATE:CITIC
-  4A8D58 USEFILE@F17HIDE:ACCESS:CITICUc
-  4A8DE4 KILL@F17HIDE:ACCESS:CITIC
-  4A8E10 INIT@F17HIDE:ACCESS:CITIC
-  4A8EB0 KILL@F18HIDE:RELATE:CITICA
-  4A8F10 INIT@F18HIDE:RELATE:CITICA
-  4A8F58 USEFILE@F18HIDE:ACCESS:CITICAUc
-  4A8FE4 KILL@F18HIDE:ACCESS:CITICA
-  4A9010 INIT@F18HIDE:ACCESS:CITICA
-  4A90B0 KILL@F16HIDE:RELATE:CITI
-  4A9110 INIT@F16HIDE:RELATE:CITI
-  4A9158 USEFILE@F16HIDE:ACCESS:CITIUc
-  4A91E4 KILL@F16HIDE:ACCESS:CITI
-  4A9210 INIT@F16HIDE:ACCESS:CITI
-  4A92B0 KILL@F20HIDE:RELATE:CLIENTES
-  4A9528 DEFEREDADDRELATIONS@F20HIDE:RELATE:CLIENTES
-  4A9544 INIT@F20HIDE:RELATE:CLIENTES
-  4A958C USEFILE@F20HIDE:ACCESS:CLIENTESUc
-  4A9740 KILL@F20HIDE:ACCESS:CLIENTES
-  4A976C INIT@F20HIDE:ACCESS:CLIENTES
-  4A980C BINDFIELDS@F20HIDE:ACCESS:CLIENTES
-  4A986C COMISBC0$COMISBC0:FILESINIT@F
-  4A9A40 COMISBC0$COMISBC0:DCTKILL@F
-  4A9DF4 COMISBC0$COMISBC0:DCTINIT@F
-  4AA7F4 KILL@F22HIDE:RELATE:LOCALIDAD2
-  4AA854 INIT@F22HIDE:RELATE:LOCALIDAD2
-  4AA8B8 USEFILE@F22HIDE:ACCESS:LOCALIDAD2Uc
-  4AA96C KILL@F22HIDE:ACCESS:LOCALIDAD2
-  4AA998 INIT@F22HIDE:ACCESS:LOCALIDAD2
-  4AAA50 KILL@F24HIDE:RELATE:DESTINATARIO
-  4AABE0 DEFEREDADDRELATIONS@F24HIDE:RELATE:DESTINATARIO
-  4AABFC INIT@F24HIDE:RELATE:DESTINATARIO
-  4AAC60 USEFILE@F24HIDE:ACCESS:DESTINATARIOUc
-  4AAE14 KILL@F24HIDE:ACCESS:DESTINATARIO
-  4AAE40 INIT@F24HIDE:ACCESS:DESTINATARIO
-  4AAEF8 KILL@F21HIDE:RELATE:REMITENTE
-  4AB084 DEFEREDADDRELATIONS@F21HIDE:RELATE:REMITENTE
-  4AB0A0 INIT@F21HIDE:RELATE:REMITENTE
-  4AB104 USEFILE@F21HIDE:ACCESS:REMITENTEUc
-  4AB2B8 KILL@F21HIDE:ACCESS:REMITENTE
-  4AB2E4 INIT@F21HIDE:ACCESS:REMITENTE
-  4AB39C KILL@F19HIDE:RELATE:RECIBOS
-  4AB464 DEFEREDADDRELATIONS@F19HIDE:RELATE:RECIBOS
-  4AB480 INIT@F19HIDE:RELATE:RECIBOS
-  4AB4E4 USEFILE@F19HIDE:ACCESS:RECIBOSUc
-  4AB6E8 KILL@F19HIDE:ACCESS:RECIBOS
-  4AB714 INIT@F19HIDE:ACCESS:RECIBOS
-  4AB7CC KILL@F21HIDE:RELATE:CATIVAREM
-  4AB82C INIT@F21HIDE:RELATE:CATIVAREM
-  4AB890 USEFILE@F21HIDE:ACCESS:CATIVAREMUc
-  4AB970 KILL@F21HIDE:ACCESS:CATIVAREM
-  4AB99C INIT@F21HIDE:ACCESS:CATIVAREM
-  4ABA54 KILL@F21HIDE:RELATE:CATIVADES
-  4ABAB4 INIT@F21HIDE:RELATE:CATIVADES
-  4ABB18 USEFILE@F21HIDE:ACCESS:CATIVADESUc
-  4ABBF8 KILL@F21HIDE:ACCESS:CATIVADES
-  4ABC24 INIT@F21HIDE:ACCESS:CATIVADES
-  4ABCDC KILL@F20HIDE:RELATE:TRANSLOC
-  4ABD64 DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSLOC
-  4ABD80 INIT@F20HIDE:RELATE:TRANSLOC
-  4ABDC8 USEFILE@F20HIDE:ACCESS:TRANSLOCUc
-  4ABEA8 KILL@F20HIDE:ACCESS:TRANSLOC
-  4ABED4 INIT@F20HIDE:ACCESS:TRANSLOC
-  4ABF74 BINDFIELDS@F20HIDE:ACCESS:TRANSLOC
-  4ABFD4 KILL@F18HIDE:RELATE:BANCOS
-  4AC0A8 DEFEREDADDRELATIONS@F18HIDE:RELATE:BANCOS
-  4AC0C4 INIT@F18HIDE:RELATE:BANCOS
-  4AC10C USEFILE@F18HIDE:ACCESS:BANCOSUc
-  4AC1EC KILL@F18HIDE:ACCESS:BANCOS
-  4AC218 INIT@F18HIDE:ACCESS:BANCOS
-  4AC2B8 KILL@F19HIDE:RELATE:VALORES
-  4AC35C DEFEREDADDRELATIONS@F19HIDE:RELATE:VALORES
-  4AC378 INIT@F19HIDE:RELATE:VALORES
-  4AC3C0 VALIDATEFIELDSERVER@F19HIDE:ACCESS:VALORESlUc
-  4AC4BC USEFILE@F19HIDE:ACCESS:VALORESUc
-  4AC61C KILL@F19HIDE:ACCESS:VALORES
-  4AC648 INIT@F19HIDE:ACCESS:VALORES
-  4AC6E8 KILL@F26HIDE:RELATE:DISTRIBUIDORES
-  4AC938 DEFEREDADDRELATIONS@F26HIDE:RELATE:DISTRIBUIDORES
-  4AC954 INIT@F26HIDE:RELATE:DISTRIBUIDORES
-  4AC99C USEFILE@F26HIDE:ACCESS:DISTRIBUIDORESUc
-  4ACAD4 KILL@F26HIDE:ACCESS:DISTRIBUIDORES
-  4ACB00 INIT@F26HIDE:ACCESS:DISTRIBUIDORES
-  4ACBA0 KILL@F16HIDE:RELATE:DIAS
-  4ACCA0 DEFEREDADDRELATIONS@F16HIDE:RELATE:DIAS
-  4ACCBC INIT@F16HIDE:RELATE:DIAS
-  4ACD04 USEFILE@F16HIDE:ACCESS:DIASUc
-  4ACDB8 KILL@F16HIDE:ACCESS:DIAS
-  4ACDE4 INIT@F16HIDE:ACCESS:DIAS
-  4ACE84 KILL@F18HIDE:RELATE:CATIVA
-  4AD0A0 DEFEREDADDRELATIONS@F18HIDE:RELATE:CATIVA
-  4AD0BC INIT@F18HIDE:RELATE:CATIVA
-  4AD104 USEFILE@F18HIDE:ACCESS:CATIVAUc
-  4AD1E4 KILL@F18HIDE:ACCESS:CATIVA
-  4AD210 INIT@F18HIDE:ACCESS:CATIVA
-  4AD2B0 KILL@F20HIDE:RELATE:TRANSPOR
-  4AD3FC DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSPOR
-  4AD418 INIT@F20HIDE:RELATE:TRANSPOR
-  4AD460 USEFILE@F20HIDE:ACCESS:TRANSPORUc
-  4AD598 KILL@F20HIDE:ACCESS:TRANSPOR
-  4AD5C4 INIT@F20HIDE:ACCESS:TRANSPOR
-  4AD664 KILL@F20HIDE:RELATE:PROVINCI
-  4AD83C DEFEREDADDRELATIONS@F20HIDE:RELATE:PROVINCI
-  4AD858 INIT@F20HIDE:RELATE:PROVINCI
-  4AD8A0 USEFILE@F20HIDE:ACCESS:PROVINCIUc
-  4AD980 KILL@F20HIDE:ACCESS:PROVINCI
-  4AD9AC INIT@F20HIDE:ACCESS:PROVINCI
-  4ADA4C KILL@F20HIDE:RELATE:ITEMGUIA
-  4ADAD4 DEFEREDADDRELATIONS@F20HIDE:RELATE:ITEMGUIA
-  4ADAF0 INIT@F20HIDE:RELATE:ITEMGUIA
-  4ADB38 USEFILE@F20HIDE:ACCESS:ITEMGUIAUc
-  4ADC18 KILL@F20HIDE:ACCESS:ITEMGUIA
-  4ADC44 INIT@F20HIDE:ACCESS:ITEMGUIA
-  4ADCE4 KILL@F20HIDE:RELATE:PARAMFE3
-  4ADD44 INIT@F20HIDE:RELATE:PARAMFE3
-  4ADD8C USEFILE@F20HIDE:ACCESS:PARAMFE3Uc
-  4ADE40 KILL@F20HIDE:ACCESS:PARAMFE3
-  4ADE6C INIT@F20HIDE:ACCESS:PARAMFE3
-  4ADF0C KILL@F19HIDE:RELATE:PARAMFE
-  4ADF6C INIT@F19HIDE:RELATE:PARAMFE
-  4ADFB4 USEFILE@F19HIDE:ACCESS:PARAMFEUc
-  4AE068 KILL@F19HIDE:ACCESS:PARAMFE
-  4AE094 INIT@F19HIDE:ACCESS:PARAMFE
-  4AE134 COMISBC1$COMISBC1:FILESINIT@F
-  4AE2C4 COMISBC1$COMISBC1:DCTKILL@F
-  4AE5EC COMISBC1$COMISBC1:DCTINIT@F
-  4AEE44 DCTKILL@F
-  4AEE54 DCTINIT@F
-  4AEE70 _main
-  4AEF58 DESTRUCT@F10DICTIONARY
-  4AEF6C CONSTRUCT@F10DICTIONARY
-  4AEF88 GETIFACE@F15CRITICALSECTION
-  4AEF9C DESTRUCT@F15CRITICALSECTION
-  4AEFBC CONSTRUCT@F15CRITICALSECTION
-  4AEFD8 KILL@F17CRITICALPROCEDURE
-  4AF00C INIT@F17CRITICALPROCEDURE11ISYNCOBJECT
-  4AF044 DESTRUCT@F17CRITICALPROCEDURE
-  4AF058 CONSTRUCT@F17CRITICALPROCEDURE
-  4AF070 CONSTRUCT@F15ENTERBYTABCLASS
-  4AF0A0 DESTRUCT@F15ENTERBYTABCLASS
-  4AF0EC PRESSKEY@F15ENTERBYTABCLASSl
-  4AF160 EXCLUDECONTROL@F15ENTERBYTABCLASSl
-  4AF1C4 TAKEEVENT@F15ENTERBYTABCLASS
-  4AF47C INIT@F15ENTERBYTABCLASSUc
-  4AFB04 CONSTRUCT@F22ENHANCEDFOCUSCLASSTYPE
-  4AFB24 DESTRUCT@F22ENHANCEDFOCUSCLASSTYPE
-  4AFB50 CONTROLALLOWED@F22ENHANCEDFOCUSCLASSTYPEl
-  4AFC80 ENHANCEFOCUSSELECT@F22ENHANCEDFOCUSCLASSTYPEl
-  4B02EC ENHANCEFOCUSUNSELECT@F22ENHANCEDFOCUSCLASSTYPE
-  4B0584 TAKEEVENT@F22ENHANCEDFOCUSCLASSTYPE
-  4B0610 DISABLECONTROLTYPE@F22ENHANCEDFOCUSCLASSTYPEUs
-  4B0640 INIT@F22ENHANCEDFOCUSCLASSTYPEUclUcUclUcllsllUclsbs
-  4B2938 __thr_inst0
-  4B2948 __thr_init_entry
-  4B2968 __thr_init_exit
+  43B014 COMIS016$SELECTCLIENTES@F
+  43DA7C COMIS017$UPDATEGUIAS1@F
+  43E790 COMIS018$UPDATELOCALIDAD@F
+  43F6C4 COMIS019$UPDATETRANSPOR@F
+  440788 COMIS021$UPDATEDISTRIBUIDORES@F
+  441660 COMIS022$MOVIMIENTOS@F
+  442220 COMIS023$HOJARUTA@F
+  442948 COMIS024$WINHOJARUTA@F
+  442E40 COMIS025$REDESPACHO@F
+  443308 COMIS026$DESTINATARIO@F
+  4449A8 COMIS027$FACTURAS_EMPRESA1@F
+  44B650 COMIS028$UPDATEFACTURAS1@F
+  44CF34 COMIS029$IMPRESIONGUIA1@F
+  44D9A4 COMIS030$UPDATEITEMGUIA@F
+  44E490 COMIS031$VISTAGUIAS@F
+  44F028 COMIS032$UPDATEVISITA_CLI@F
+  44FDD8 COMIS033$AGENDA@F
+  4509A0 COMIS034$UPDATEVISITAS@F
+  451B14 COMIS035$RECIBOCONTRAREEMBOLSO@F
+  45254C COMIS036$SELECTDESTINO@F
+  452E00 COMIS037$WINHOJARUTADISTRIBUIDOR@F
+  453894 COMIS038$HOJARUTADISTRIBUIDOR@F
+  454018 COMIS039$WINHOJARUTAEMPRESA@F
+  454A7C COMIS040$HOJARUTAEMPRESA@F
+  455598 COMIS041$VISITASPROGRAMADAS@F
+  455CE4 COMIS042$WINVISITASPROGRAMADAS@F
+  45627C COMIS043$WINSUBDIARIOIVAVENTAS@F
+  4568B0 COMIS044$WINREIMPRESIONGUIA@F
+  45708C COMIS045$UPDATELOCALIDAD2@F
+  45796C COMIS046$SELECTREMITENTE@F
+  4583B8 COMIS047$UPDATEREMITENTE@F
+  458CA8 COMIS048$UPDATEITEMFAC@F
+  459640 COMIS049$PROVEEDORES@F
+  45A964 COMIS050$UPDATEPROVEEDORES@F
+  45B4A0 COMIS051$UPDATEDESTINATARIO@F
+  45C3D8 COMIS052$COMPRAS@F
+  45CE64 COMIS053$SELECTPROVEEDORES@F
+  45DA1C COMIS054$IMPRESIONGUIA2@F
+  45E26C COMIS055$AUTOR@F
+  45E7FC COMIS056$WINSUBDIARIOIVACOMPRAS@F
+  45EEF0 COMIS057$PADRONCLIENTESNOMBRE@F
+  45FA14 COMIS058$GUIASPENDIENTESFACTURAR@F
+  460340 COMIS059$WINGUIASPENDIENTESFACTURAR@F
+  460E2C COMIS060$APLICAFACTURA@F
+  4615B0 COMIS061$WINREDESPACHO@F
+  461F88 COMIS062$LISTADOREDESPACHOS@F
+  462684 COMIS063$WINCONTRAREEMBOLSO@F
+  462B44 COMIS064$REMITENTE@F
+  463070 COMIS065$WINFACTURASIMPAGAS@F
+  4639C8 COMIS066$FACTURASIMPAGAS@F
+  464128 COMIS069$WINCONTRAREEMBOLSOIMPAGOS@F
+  46494C COMIS070$CONTRAREEMBOLSOSIMPAGOS@F
+  465230 COMIS071$WINMOVIMIENTOSCLIENTE@F
+  465B68 COMIS072$MOVIMIENTOSCLIENTE@F
+  466320 COMIS073$IMPRIMETOTAL1@F
+  466854 COMIS074$IMPRIMETOTAL2@F
+  467130 COMIS075$GUIASSINFACTURAR@F
+  467838 COMIS076$WINGUIASSINFACTURAR@F
+  46869C COMIS077$IMPRESIONFACTURA1@F
+  469E8C COMIS078$GUIAS_EMPRESA3@F
+  46CB04 COMIS079$UPDATEGUIAS3@F
+  46D5FC COMIS080$IMPRIMETOTAL3@F
+  46DFB4 COMIS081$IMPRESIONGUIA3@F
+  46EC70 COMIS082$PARAMETRO_3@F
+  470388 COMIS083$FACTURAS_EMPRESA3@F
+  47127C COMIS084$IMPRESIONFACTURA3@F
+  472B04 COMIS086$RECIBOS_EMPRESA1@F
+  474F00 COMIS087$UPDATERECIBOS1@F
+  476310 COMIS088$UPDATEVALORES@F
+  4774FC COMIS089$VISTAVALORES@F
+  4783B8 COMIS090$VISTAAPLICACIONES@F
+  478D40 COMIS091$APLICAGUIAS@F
+  47A3B0 COMIS092$IMPRESIONRECIBO1@F
+  47AFB0 COMIS093$SELECTBANCO@F
+  47B97C COMIS094$BANCOS@F
+  47D494 COMIS095$VALORES@F
+  47ECD8 COMIS096$RECIBOS_EMPRESA3@F
+  480560 COMIS097$IMPRESIONRECIBO3@F
+  482BCC COMIS098$UPDATERECIBOS3@F
+  483D94 COMIS099$CUENTACORRIENTE@F
+  484670 COMIS100$ANULAIMPRESION@F
+  484DDC COMIS101$ANULACOBRANZA@F
+  4855C8 COMIS102$WINRECIBOCONTRAREEMBOLSO@F
+  485D08 COMIS103$WINRESUMENCTACTE@F
+  4866B4 COMIS104$RESUMENCTACTE@F
+  486F60 COMIS105$IMPORTEREDESPACHO@F
+  488BE0 COMIS106$REDESPACHOS@F
+  489358 COMIS107$WINLISTADOREDESPACHO@F
+  4899CC COMIS108$WINLIQUIDACIONREDESPACHO@F
+  48A9C4 COMIS109$DESTINOS@F
+  48B980 COMIS110$UPDATETRANSLOC@F
+  48CA10 COMIS111$TRANS_DESTINOS@F
+  48D724 COMIS112$UPDATETRANS_DESTINOS@F
+  48E098 COMIS114$WINCONTRAREEMBOLSOSTRANSPORTE@F
+  48E97C COMIS115$CONTRAREEMBOLSOSTRANSPORTE@F
+  48F3A4 COMIS116$CONTRAREEMBOLSOSCOBRADOS@F
+  48FA90 COMIS117$WINCONTRAREEMBOLSOCOBRADOS@F
+  490274 COMIS118$ANULAGUIA@F
+  490ED8 COMIS119$EMISIONRECIBO@F
+  491700 COMIS120$SELECTCOMPROBANTE@F
+  493B30 COMIS121$UPDATEFACPROV@F
+  49487C COMIS123$SUBDIARIOIVAVENTAS@F
+  49556C COMIS124$SUBDIARIOIVACOMPRAS@F
+  496130 COMIS125$FACTURASIMPAGASGENERAL@F
+  4980DC COMIS126$CITIVENTAS@F
+  498BD0 COMIS127$GENERAFACTURASANULADAS@F
+  499798 COMIS128$PARAMETRO_1@F
+  4999DC EJECUTA_WS@F
+  499F24 COMIS130$LEE_FECOMPULTIMOAUTORIZADO@F
+  49A460 COMIS131$GENERAR_ARCHIVO_RECE@F
+  49AC58 COMIS132$LEER_RESPUESTA_RECE@F
+  49C0D4 COMIS135$IMPRESIONFACTURAELECTRONICA1@F
+  49F0DC COMIS137$REGIMEN_DE_COMPRAS_Y_VENTAS@F
+  49F6E4 COMIS138$ABRIR_REGIMEN_COMPRAS_Y_VENTAS@F
+  4A3B34 COMIS139$UPDATEFACTURAS3@F
+  4A5574 COMIS140$IMPRESIONFACTURAELECTRONICA3@F
+  4A5AA8 KILL@F17HIDE:RELATE:ZONAS
+  4A5C38 DEFEREDADDRELATIONS@F17HIDE:RELATE:ZONAS
+  4A5C54 INIT@F17HIDE:RELATE:ZONAS
+  4A5C9C USEFILE@F17HIDE:ACCESS:ZONASUc
+  4A5D7C KILL@F17HIDE:ACCESS:ZONAS
+  4A5DA8 INIT@F17HIDE:ACCESS:ZONAS
+  4A5E48 KILL@F19HIDE:RELATE:ITEMFAC
+  4A5ED0 DEFEREDADDRELATIONS@F19HIDE:RELATE:ITEMFAC
+  4A5EEC INIT@F19HIDE:RELATE:ITEMFAC
+  4A5F34 USEFILE@F19HIDE:ACCESS:ITEMFACUc
+  4A6014 KILL@F19HIDE:ACCESS:ITEMFAC
+  4A6040 INIT@F19HIDE:ACCESS:ITEMFAC
+  4A60E0 KILL@F20HIDE:RELATE:APLIGUIA
+  4A6184 DEFEREDADDRELATIONS@F20HIDE:RELATE:APLIGUIA
+  4A61A0 INIT@F20HIDE:RELATE:APLIGUIA
+  4A61E8 USEFILE@F20HIDE:ACCESS:APLIGUIAUc
+  4A62C8 KILL@F20HIDE:ACCESS:APLIGUIA
+  4A62F4 INIT@F20HIDE:ACCESS:APLIGUIA
+  4A6394 KILL@F19HIDE:RELATE:APLIFAC
+  4A6438 DEFEREDADDRELATIONS@F19HIDE:RELATE:APLIFAC
+  4A6454 INIT@F19HIDE:RELATE:APLIFAC
+  4A649C USEFILE@F19HIDE:ACCESS:APLIFACUc
+  4A657C KILL@F19HIDE:ACCESS:APLIFAC
+  4A65A8 INIT@F19HIDE:ACCESS:APLIFAC
+  4A6648 KILL@F29HIDE:RELATE:FE_RESPUESTA_RECE
+  4A66A8 INIT@F29HIDE:RELATE:FE_RESPUESTA_RECE
+  4A66F0 USEFILE@F29HIDE:ACCESS:FE_RESPUESTA_RECEUc
+  4A677C KILL@F29HIDE:ACCESS:FE_RESPUESTA_RECE
+  4A67A8 INIT@F29HIDE:ACCESS:FE_RESPUESTA_RECE
+  4A6848 KILL@F19HIDE:RELATE:FE_RECE
+  4A68A8 INIT@F19HIDE:RELATE:FE_RECE
+  4A68F0 USEFILE@F19HIDE:ACCESS:FE_RECEUc
+  4A697C KILL@F19HIDE:ACCESS:FE_RECE
+  4A69A8 INIT@F19HIDE:ACCESS:FE_RECE
+  4A6A74 KILL@F20HIDE:RELATE:LOCALIDA
+  4A6AD4 INIT@F20HIDE:RELATE:LOCALIDA
+  4A6B1C USEFILE@F20HIDE:ACCESS:LOCALIDAUc
+  4A6BD0 KILL@F20HIDE:ACCESS:LOCALIDA
+  4A6BFC INIT@F20HIDE:ACCESS:LOCALIDA
+  4A6C9C KILL@F19HIDE:RELATE:FACPROV
+  4A6D40 DEFEREDADDRELATIONS@F19HIDE:RELATE:FACPROV
+  4A6D5C INIT@F19HIDE:RELATE:FACPROV
+  4A6DA4 USEFILE@F19HIDE:ACCESS:FACPROVUc
+  4A6FA8 KILL@F19HIDE:ACCESS:FACPROV
+  4A6FD4 INIT@F19HIDE:ACCESS:FACPROV
+  4A7074 BINDFIELDS@F19HIDE:ACCESS:FACPROV
+  4A70D4 KILL@F17HIDE:RELATE:GUIAS
+  4A72B4 DEFEREDADDRELATIONS@F17HIDE:RELATE:GUIAS
+  4A72D0 INIT@F17HIDE:RELATE:GUIAS
+  4A7318 VALIDATEFIELDSERVER@F17HIDE:ACCESS:GUIASlUc
+  4A7414 USEFILE@F17HIDE:ACCESS:GUIASUc
+  4A7644 KILL@F17HIDE:ACCESS:GUIAS
+  4A7670 INIT@F17HIDE:ACCESS:GUIAS
+  4A7710 BINDFIELDS@F17HIDE:ACCESS:GUIAS
+  4A7770 KILL@F20HIDE:RELATE:FACTURAS
+  4A7980 DEFEREDADDRELATIONS@F20HIDE:RELATE:FACTURAS
+  4A799C INIT@F20HIDE:RELATE:FACTURAS
+  4A79E4 USEFILE@F20HIDE:ACCESS:FACTURASUc
+  4A7BE8 KILL@F20HIDE:ACCESS:FACTURAS
+  4A7C14 INIT@F20HIDE:ACCESS:FACTURAS
+  4A7CB4 KILL@F19HIDE:RELATE:VISITAS
+  4A7D58 DEFEREDADDRELATIONS@F19HIDE:RELATE:VISITAS
+  4A7D74 INIT@F19HIDE:RELATE:VISITAS
+  4A7DBC USEFILE@F19HIDE:ACCESS:VISITASUc
+  4A7E9C KILL@F19HIDE:ACCESS:VISITAS
+  4A7EC8 INIT@F19HIDE:ACCESS:VISITAS
+  4A7F68 KILL@F21HIDE:RELATE:PARAMETRO
+  4A7FC8 INIT@F21HIDE:RELATE:PARAMETRO
+  4A8010 USEFILE@F21HIDE:ACCESS:PARAMETROUc
+  4A80C4 KILL@F21HIDE:ACCESS:PARAMETRO
+  4A80F0 INIT@F21HIDE:ACCESS:PARAMETRO
+  4A8190 KILL@F23HIDE:RELATE:PROVEEDORES
+  4A82C4 DEFEREDADDRELATIONS@F23HIDE:RELATE:PROVEEDORES
+  4A82E0 INIT@F23HIDE:RELATE:PROVEEDORES
+  4A8328 USEFILE@F23HIDE:ACCESS:PROVEEDORESUc
+  4A84B4 KILL@F23HIDE:ACCESS:PROVEEDORES
+  4A84E0 INIT@F23HIDE:ACCESS:PROVEEDORES
+  4A8580 BINDFIELDS@F23HIDE:ACCESS:PROVEEDORES
+  4A85E0 KILL@F22HIDE:RELATE:REDESPACHO
+  4A8668 DEFEREDADDRELATIONS@F22HIDE:RELATE:REDESPACHO
+  4A8684 INIT@F22HIDE:RELATE:REDESPACHO
+  4A86CC USEFILE@F22HIDE:ACCESS:REDESPACHOUc
+  4A8780 KILL@F22HIDE:ACCESS:REDESPACHO
+  4A87AC INIT@F22HIDE:ACCESS:REDESPACHO
+  4A884C KILL@F24HIDE:RELATE:COMPROBANTES
+  4A894C DEFEREDADDRELATIONS@F24HIDE:RELATE:COMPROBANTES
+  4A8968 INIT@F24HIDE:RELATE:COMPROBANTES
+  4A89B0 USEFILE@F24HIDE:ACCESS:COMPROBANTESUc
+  4A8A90 KILL@F24HIDE:ACCESS:COMPROBANTES
+  4A8ABC INIT@F24HIDE:ACCESS:COMPROBANTES
+  4A8B5C KILL@F17HIDE:RELATE:CITIA
+  4A8BBC INIT@F17HIDE:RELATE:CITIA
+  4A8C04 USEFILE@F17HIDE:ACCESS:CITIAUc
+  4A8C90 KILL@F17HIDE:ACCESS:CITIA
+  4A8CBC INIT@F17HIDE:ACCESS:CITIA
+  4A8D5C KILL@F17HIDE:RELATE:CITIC
+  4A8DBC INIT@F17HIDE:RELATE:CITIC
+  4A8E04 USEFILE@F17HIDE:ACCESS:CITICUc
+  4A8E90 KILL@F17HIDE:ACCESS:CITIC
+  4A8EBC INIT@F17HIDE:ACCESS:CITIC
+  4A8F5C KILL@F18HIDE:RELATE:CITICA
+  4A8FBC INIT@F18HIDE:RELATE:CITICA
+  4A9004 USEFILE@F18HIDE:ACCESS:CITICAUc
+  4A9090 KILL@F18HIDE:ACCESS:CITICA
+  4A90BC INIT@F18HIDE:ACCESS:CITICA
+  4A915C KILL@F16HIDE:RELATE:CITI
+  4A91BC INIT@F16HIDE:RELATE:CITI
+  4A9204 USEFILE@F16HIDE:ACCESS:CITIUc
+  4A9290 KILL@F16HIDE:ACCESS:CITI
+  4A92BC INIT@F16HIDE:ACCESS:CITI
+  4A935C KILL@F20HIDE:RELATE:CLIENTES
+  4A95D4 DEFEREDADDRELATIONS@F20HIDE:RELATE:CLIENTES
+  4A95F0 INIT@F20HIDE:RELATE:CLIENTES
+  4A9638 USEFILE@F20HIDE:ACCESS:CLIENTESUc
+  4A97EC KILL@F20HIDE:ACCESS:CLIENTES
+  4A9818 INIT@F20HIDE:ACCESS:CLIENTES
+  4A98B8 BINDFIELDS@F20HIDE:ACCESS:CLIENTES
+  4A9918 COMISBC0$COMISBC0:FILESINIT@F
+  4A9AEC COMISBC0$COMISBC0:DCTKILL@F
+  4A9EA0 COMISBC0$COMISBC0:DCTINIT@F
+  4AA8A0 KILL@F22HIDE:RELATE:LOCALIDAD2
+  4AA900 INIT@F22HIDE:RELATE:LOCALIDAD2
+  4AA964 USEFILE@F22HIDE:ACCESS:LOCALIDAD2Uc
+  4AAA18 KILL@F22HIDE:ACCESS:LOCALIDAD2
+  4AAA44 INIT@F22HIDE:ACCESS:LOCALIDAD2
+  4AAAFC KILL@F24HIDE:RELATE:DESTINATARIO
+  4AAC8C DEFEREDADDRELATIONS@F24HIDE:RELATE:DESTINATARIO
+  4AACA8 INIT@F24HIDE:RELATE:DESTINATARIO
+  4AAD0C USEFILE@F24HIDE:ACCESS:DESTINATARIOUc
+  4AAEC0 KILL@F24HIDE:ACCESS:DESTINATARIO
+  4AAEEC INIT@F24HIDE:ACCESS:DESTINATARIO
+  4AAFA4 KILL@F21HIDE:RELATE:REMITENTE
+  4AB130 DEFEREDADDRELATIONS@F21HIDE:RELATE:REMITENTE
+  4AB14C INIT@F21HIDE:RELATE:REMITENTE
+  4AB1B0 USEFILE@F21HIDE:ACCESS:REMITENTEUc
+  4AB364 KILL@F21HIDE:ACCESS:REMITENTE
+  4AB390 INIT@F21HIDE:ACCESS:REMITENTE
+  4AB448 KILL@F19HIDE:RELATE:RECIBOS
+  4AB510 DEFEREDADDRELATIONS@F19HIDE:RELATE:RECIBOS
+  4AB52C INIT@F19HIDE:RELATE:RECIBOS
+  4AB590 USEFILE@F19HIDE:ACCESS:RECIBOSUc
+  4AB794 KILL@F19HIDE:ACCESS:RECIBOS
+  4AB7C0 INIT@F19HIDE:ACCESS:RECIBOS
+  4AB878 KILL@F21HIDE:RELATE:CATIVAREM
+  4AB8D8 INIT@F21HIDE:RELATE:CATIVAREM
+  4AB93C USEFILE@F21HIDE:ACCESS:CATIVAREMUc
+  4ABA1C KILL@F21HIDE:ACCESS:CATIVAREM
+  4ABA48 INIT@F21HIDE:ACCESS:CATIVAREM
+  4ABB00 KILL@F21HIDE:RELATE:CATIVADES
+  4ABB60 INIT@F21HIDE:RELATE:CATIVADES
+  4ABBC4 USEFILE@F21HIDE:ACCESS:CATIVADESUc
+  4ABCA4 KILL@F21HIDE:ACCESS:CATIVADES
+  4ABCD0 INIT@F21HIDE:ACCESS:CATIVADES
+  4ABD88 KILL@F20HIDE:RELATE:TRANSLOC
+  4ABE10 DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSLOC
+  4ABE2C INIT@F20HIDE:RELATE:TRANSLOC
+  4ABE74 USEFILE@F20HIDE:ACCESS:TRANSLOCUc
+  4ABF54 KILL@F20HIDE:ACCESS:TRANSLOC
+  4ABF80 INIT@F20HIDE:ACCESS:TRANSLOC
+  4AC020 BINDFIELDS@F20HIDE:ACCESS:TRANSLOC
+  4AC080 KILL@F18HIDE:RELATE:BANCOS
+  4AC154 DEFEREDADDRELATIONS@F18HIDE:RELATE:BANCOS
+  4AC170 INIT@F18HIDE:RELATE:BANCOS
+  4AC1B8 USEFILE@F18HIDE:ACCESS:BANCOSUc
+  4AC298 KILL@F18HIDE:ACCESS:BANCOS
+  4AC2C4 INIT@F18HIDE:ACCESS:BANCOS
+  4AC364 KILL@F19HIDE:RELATE:VALORES
+  4AC408 DEFEREDADDRELATIONS@F19HIDE:RELATE:VALORES
+  4AC424 INIT@F19HIDE:RELATE:VALORES
+  4AC46C VALIDATEFIELDSERVER@F19HIDE:ACCESS:VALORESlUc
+  4AC568 USEFILE@F19HIDE:ACCESS:VALORESUc
+  4AC6C8 KILL@F19HIDE:ACCESS:VALORES
+  4AC6F4 INIT@F19HIDE:ACCESS:VALORES
+  4AC794 KILL@F26HIDE:RELATE:DISTRIBUIDORES
+  4AC9E4 DEFEREDADDRELATIONS@F26HIDE:RELATE:DISTRIBUIDORES
+  4ACA00 INIT@F26HIDE:RELATE:DISTRIBUIDORES
+  4ACA48 USEFILE@F26HIDE:ACCESS:DISTRIBUIDORESUc
+  4ACB80 KILL@F26HIDE:ACCESS:DISTRIBUIDORES
+  4ACBAC INIT@F26HIDE:ACCESS:DISTRIBUIDORES
+  4ACC4C KILL@F16HIDE:RELATE:DIAS
+  4ACD4C DEFEREDADDRELATIONS@F16HIDE:RELATE:DIAS
+  4ACD68 INIT@F16HIDE:RELATE:DIAS
+  4ACDB0 USEFILE@F16HIDE:ACCESS:DIASUc
+  4ACE64 KILL@F16HIDE:ACCESS:DIAS
+  4ACE90 INIT@F16HIDE:ACCESS:DIAS
+  4ACF30 KILL@F18HIDE:RELATE:CATIVA
+  4AD14C DEFEREDADDRELATIONS@F18HIDE:RELATE:CATIVA
+  4AD168 INIT@F18HIDE:RELATE:CATIVA
+  4AD1B0 USEFILE@F18HIDE:ACCESS:CATIVAUc
+  4AD290 KILL@F18HIDE:ACCESS:CATIVA
+  4AD2BC INIT@F18HIDE:ACCESS:CATIVA
+  4AD35C KILL@F20HIDE:RELATE:TRANSPOR
+  4AD4A8 DEFEREDADDRELATIONS@F20HIDE:RELATE:TRANSPOR
+  4AD4C4 INIT@F20HIDE:RELATE:TRANSPOR
+  4AD50C USEFILE@F20HIDE:ACCESS:TRANSPORUc
+  4AD644 KILL@F20HIDE:ACCESS:TRANSPOR
+  4AD670 INIT@F20HIDE:ACCESS:TRANSPOR
+  4AD710 KILL@F20HIDE:RELATE:PROVINCI
+  4AD8E8 DEFEREDADDRELATIONS@F20HIDE:RELATE:PROVINCI
+  4AD904 INIT@F20HIDE:RELATE:PROVINCI
+  4AD94C USEFILE@F20HIDE:ACCESS:PROVINCIUc
+  4ADA2C KILL@F20HIDE:ACCESS:PROVINCI
+  4ADA58 INIT@F20HIDE:ACCESS:PROVINCI
+  4ADAF8 KILL@F20HIDE:RELATE:ITEMGUIA
+  4ADB80 DEFEREDADDRELATIONS@F20HIDE:RELATE:ITEMGUIA
+  4ADB9C INIT@F20HIDE:RELATE:ITEMGUIA
+  4ADBE4 USEFILE@F20HIDE:ACCESS:ITEMGUIAUc
+  4ADCC4 KILL@F20HIDE:ACCESS:ITEMGUIA
+  4ADCF0 INIT@F20HIDE:ACCESS:ITEMGUIA
+  4ADD90 KILL@F20HIDE:RELATE:PARAMFE3
+  4ADDF0 INIT@F20HIDE:RELATE:PARAMFE3
+  4ADE38 USEFILE@F20HIDE:ACCESS:PARAMFE3Uc
+  4ADEEC KILL@F20HIDE:ACCESS:PARAMFE3
+  4ADF18 INIT@F20HIDE:ACCESS:PARAMFE3
+  4ADFB8 KILL@F19HIDE:RELATE:PARAMFE
+  4AE018 INIT@F19HIDE:RELATE:PARAMFE
+  4AE060 USEFILE@F19HIDE:ACCESS:PARAMFEUc
+  4AE114 KILL@F19HIDE:ACCESS:PARAMFE
+  4AE140 INIT@F19HIDE:ACCESS:PARAMFE
+  4AE1E0 COMISBC1$COMISBC1:FILESINIT@F
+  4AE370 COMISBC1$COMISBC1:DCTKILL@F
+  4AE698 COMISBC1$COMISBC1:DCTINIT@F
+  4AEEF0 DCTKILL@F
+  4AEF00 DCTINIT@F
+  4AEF1C _main
+  4AF004 DESTRUCT@F10DICTIONARY
+  4AF018 CONSTRUCT@F10DICTIONARY
+  4AF034 GETIFACE@F15CRITICALSECTION
+  4AF048 DESTRUCT@F15CRITICALSECTION
+  4AF068 CONSTRUCT@F15CRITICALSECTION
+  4AF084 KILL@F17CRITICALPROCEDURE
+  4AF0B8 INIT@F17CRITICALPROCEDURE11ISYNCOBJECT
+  4AF0F0 DESTRUCT@F17CRITICALPROCEDURE
+  4AF104 CONSTRUCT@F17CRITICALPROCEDURE
+  4AF11C CONSTRUCT@F15ENTERBYTABCLASS
+  4AF14C DESTRUCT@F15ENTERBYTABCLASS
+  4AF198 PRESSKEY@F15ENTERBYTABCLASSl
+  4AF20C EXCLUDECONTROL@F15ENTERBYTABCLASSl
+  4AF270 TAKEEVENT@F15ENTERBYTABCLASS
+  4AF528 INIT@F15ENTERBYTABCLASSUc
+  4AFBB0 CONSTRUCT@F22ENHANCEDFOCUSCLASSTYPE
+  4AFBD0 DESTRUCT@F22ENHANCEDFOCUSCLASSTYPE
+  4AFBFC CONTROLALLOWED@F22ENHANCEDFOCUSCLASSTYPEl
+  4AFD2C ENHANCEFOCUSSELECT@F22ENHANCEDFOCUSCLASSTYPEl
+  4B0398 ENHANCEFOCUSUNSELECT@F22ENHANCEDFOCUSCLASSTYPE
+  4B0630 TAKEEVENT@F22ENHANCEDFOCUSCLASSTYPE
+  4B06BC DISABLECONTROLTYPE@F22ENHANCEDFOCUSCLASSTYPEUs
+  4B06EC INIT@F22ENHANCEDFOCUSCLASSTYPEUclUcUclUcllsllUclsbs
+  4B29E4 __thr_inst0
+  4B29F4 __thr_init_entry
+  4B2A14 __thr_init_exit
   4B32E8 $OVERRIDECHARACTERS
   4B3308 $SCROLL:NAME
   4B3434 $SCROLL:ALPHA
@@ -1856,363 +1856,364 @@
   4BAD2C TYPE$POINTQUEUE
   4BAD48 TYPE$SLICEFORMATQUEUE
   4BADF0 TYPE$TEXTFORMATQUEUE
-  4F6AD0 TYPE$HIDE:RELATE:ZONAS
-  4F6B60 VMT$HIDE:RELATE:ZONAS
-  4F6B98 TYPE$HIDE:ACCESS:ZONAS
-  4F6D68 VMT$HIDE:ACCESS:ZONAS
-  4F6E30 TYPE$HIDE:RELATE:ITEMFAC
-  4F6EC0 VMT$HIDE:RELATE:ITEMFAC
-  4F6EF8 TYPE$HIDE:ACCESS:ITEMFAC
-  4F70C8 VMT$HIDE:ACCESS:ITEMFAC
-  4F7190 TYPE$HIDE:RELATE:APLIGUIA
-  4F7220 VMT$HIDE:RELATE:APLIGUIA
-  4F7258 TYPE$HIDE:ACCESS:APLIGUIA
-  4F7428 VMT$HIDE:ACCESS:APLIGUIA
-  4F74F0 TYPE$HIDE:RELATE:APLIFAC
-  4F7580 VMT$HIDE:RELATE:APLIFAC
-  4F75B8 TYPE$HIDE:ACCESS:APLIFAC
-  4F7788 VMT$HIDE:ACCESS:APLIFAC
-  4F7850 TYPE$HIDE:RELATE:FE_RESPUESTA_RECE
-  4F78E0 VMT$HIDE:RELATE:FE_RESPUESTA_RECE
-  4F7918 TYPE$HIDE:ACCESS:FE_RESPUESTA_RECE
-  4F7AE8 VMT$HIDE:ACCESS:FE_RESPUESTA_RECE
-  4F7BB0 TYPE$HIDE:RELATE:FE_RECE
-  4F7C40 VMT$HIDE:RELATE:FE_RECE
-  4F7C78 TYPE$HIDE:ACCESS:FE_RECE
-  4F7E48 VMT$HIDE:ACCESS:FE_RECE
-  4F7F10 TYPE$HIDE:RELATE:LOCALIDA
-  4F7FA0 VMT$HIDE:RELATE:LOCALIDA
-  4F7FD8 TYPE$HIDE:ACCESS:LOCALIDA
-  4F81A8 VMT$HIDE:ACCESS:LOCALIDA
-  4F8270 TYPE$HIDE:RELATE:FACPROV
-  4F8300 VMT$HIDE:RELATE:FACPROV
-  4F8338 TYPE$HIDE:ACCESS:FACPROV
-  4F8508 VMT$HIDE:ACCESS:FACPROV
-  4F85D0 TYPE$HIDE:RELATE:GUIAS
-  4F8660 VMT$HIDE:RELATE:GUIAS
-  4F8698 TYPE$HIDE:ACCESS:GUIAS
-  4F8868 VMT$HIDE:ACCESS:GUIAS
-  4F8930 TYPE$HIDE:RELATE:FACTURAS
-  4F89C0 VMT$HIDE:RELATE:FACTURAS
-  4F89F8 TYPE$HIDE:ACCESS:FACTURAS
-  4F8BC8 VMT$HIDE:ACCESS:FACTURAS
-  4F8C90 TYPE$HIDE:RELATE:VISITAS
-  4F8D20 VMT$HIDE:RELATE:VISITAS
-  4F8D58 TYPE$HIDE:ACCESS:VISITAS
-  4F8F28 VMT$HIDE:ACCESS:VISITAS
-  4F8FF0 TYPE$HIDE:RELATE:PARAMETRO
-  4F9080 VMT$HIDE:RELATE:PARAMETRO
-  4F90B8 TYPE$HIDE:ACCESS:PARAMETRO
-  4F9288 VMT$HIDE:ACCESS:PARAMETRO
-  4F9350 TYPE$HIDE:RELATE:PROVEEDORES
-  4F93E0 VMT$HIDE:RELATE:PROVEEDORES
-  4F9418 TYPE$HIDE:ACCESS:PROVEEDORES
-  4F95E8 VMT$HIDE:ACCESS:PROVEEDORES
-  4F96B0 TYPE$HIDE:RELATE:REDESPACHO
-  4F9740 VMT$HIDE:RELATE:REDESPACHO
-  4F9778 TYPE$HIDE:ACCESS:REDESPACHO
-  4F9948 VMT$HIDE:ACCESS:REDESPACHO
-  4F9A10 TYPE$HIDE:RELATE:COMPROBANTES
-  4F9AA0 VMT$HIDE:RELATE:COMPROBANTES
-  4F9AD8 TYPE$HIDE:ACCESS:COMPROBANTES
-  4F9CA8 VMT$HIDE:ACCESS:COMPROBANTES
-  4F9D70 TYPE$HIDE:RELATE:CITIA
-  4F9E00 VMT$HIDE:RELATE:CITIA
-  4F9E38 TYPE$HIDE:ACCESS:CITIA
-  4FA008 VMT$HIDE:ACCESS:CITIA
-  4FA0D0 TYPE$HIDE:RELATE:CITIC
-  4FA160 VMT$HIDE:RELATE:CITIC
-  4FA198 TYPE$HIDE:ACCESS:CITIC
-  4FA368 VMT$HIDE:ACCESS:CITIC
-  4FA430 TYPE$HIDE:RELATE:CITICA
-  4FA4C0 VMT$HIDE:RELATE:CITICA
-  4FA4F8 TYPE$HIDE:ACCESS:CITICA
-  4FA6C8 VMT$HIDE:ACCESS:CITICA
-  4FA790 TYPE$HIDE:RELATE:CITI
-  4FA820 VMT$HIDE:RELATE:CITI
-  4FA858 TYPE$HIDE:ACCESS:CITI
-  4FAA28 VMT$HIDE:ACCESS:CITI
-  4FAAF0 TYPE$HIDE:RELATE:CLIENTES
-  4FAB80 VMT$HIDE:RELATE:CLIENTES
-  4FABB8 TYPE$HIDE:ACCESS:CLIENTES
-  4FAD88 VMT$HIDE:ACCESS:CLIENTES
-  4FB298 TYPE$HIDE:RELATE:LOCALIDAD2
-  4FB328 VMT$HIDE:RELATE:LOCALIDAD2
-  4FB360 TYPE$HIDE:ACCESS:LOCALIDAD2
-  4FB530 VMT$HIDE:ACCESS:LOCALIDAD2
-  4FB5F8 TYPE$HIDE:RELATE:DESTINATARIO
-  4FB688 VMT$HIDE:RELATE:DESTINATARIO
-  4FB6C0 TYPE$HIDE:ACCESS:DESTINATARIO
-  4FB890 VMT$HIDE:ACCESS:DESTINATARIO
-  4FB958 TYPE$HIDE:RELATE:REMITENTE
-  4FB9E8 VMT$HIDE:RELATE:REMITENTE
-  4FBA20 TYPE$HIDE:ACCESS:REMITENTE
-  4FBBF0 VMT$HIDE:ACCESS:REMITENTE
-  4FBCB8 TYPE$HIDE:RELATE:RECIBOS
-  4FBD48 VMT$HIDE:RELATE:RECIBOS
-  4FBD80 TYPE$HIDE:ACCESS:RECIBOS
-  4FBF50 VMT$HIDE:ACCESS:RECIBOS
-  4FC018 TYPE$HIDE:RELATE:CATIVAREM
-  4FC0A8 VMT$HIDE:RELATE:CATIVAREM
-  4FC0E0 TYPE$HIDE:ACCESS:CATIVAREM
-  4FC2B0 VMT$HIDE:ACCESS:CATIVAREM
-  4FC378 TYPE$HIDE:RELATE:CATIVADES
-  4FC408 VMT$HIDE:RELATE:CATIVADES
-  4FC440 TYPE$HIDE:ACCESS:CATIVADES
-  4FC610 VMT$HIDE:ACCESS:CATIVADES
-  4FC6D8 TYPE$HIDE:RELATE:TRANSLOC
-  4FC768 VMT$HIDE:RELATE:TRANSLOC
-  4FC7A0 TYPE$HIDE:ACCESS:TRANSLOC
-  4FC970 VMT$HIDE:ACCESS:TRANSLOC
-  4FCA38 TYPE$HIDE:RELATE:BANCOS
-  4FCAC8 VMT$HIDE:RELATE:BANCOS
-  4FCB00 TYPE$HIDE:ACCESS:BANCOS
-  4FCCD0 VMT$HIDE:ACCESS:BANCOS
-  4FCD98 TYPE$HIDE:RELATE:VALORES
-  4FCE28 VMT$HIDE:RELATE:VALORES
-  4FCE60 TYPE$HIDE:ACCESS:VALORES
-  4FD030 VMT$HIDE:ACCESS:VALORES
-  4FD0F8 TYPE$HIDE:RELATE:DISTRIBUIDORES
-  4FD188 VMT$HIDE:RELATE:DISTRIBUIDORES
-  4FD1C0 TYPE$HIDE:ACCESS:DISTRIBUIDORES
-  4FD390 VMT$HIDE:ACCESS:DISTRIBUIDORES
-  4FD458 TYPE$HIDE:RELATE:DIAS
-  4FD4E8 VMT$HIDE:RELATE:DIAS
-  4FD520 TYPE$HIDE:ACCESS:DIAS
-  4FD6F0 VMT$HIDE:ACCESS:DIAS
-  4FD7B8 TYPE$HIDE:RELATE:CATIVA
-  4FD848 VMT$HIDE:RELATE:CATIVA
-  4FD880 TYPE$HIDE:ACCESS:CATIVA
-  4FDA50 VMT$HIDE:ACCESS:CATIVA
-  4FDB18 TYPE$HIDE:RELATE:TRANSPOR
-  4FDBA8 VMT$HIDE:RELATE:TRANSPOR
-  4FDBE0 TYPE$HIDE:ACCESS:TRANSPOR
-  4FDDB0 VMT$HIDE:ACCESS:TRANSPOR
-  4FDE78 TYPE$HIDE:RELATE:PROVINCI
-  4FDF08 VMT$HIDE:RELATE:PROVINCI
-  4FDF40 TYPE$HIDE:ACCESS:PROVINCI
-  4FE110 VMT$HIDE:ACCESS:PROVINCI
-  4FE1D8 TYPE$HIDE:RELATE:ITEMGUIA
-  4FE268 VMT$HIDE:RELATE:ITEMGUIA
-  4FE2A0 TYPE$HIDE:ACCESS:ITEMGUIA
-  4FE470 VMT$HIDE:ACCESS:ITEMGUIA
-  4FE538 TYPE$HIDE:RELATE:PARAMFE3
-  4FE5C8 VMT$HIDE:RELATE:PARAMFE3
-  4FE600 TYPE$HIDE:ACCESS:PARAMFE3
-  4FE7D0 VMT$HIDE:ACCESS:PARAMFE3
-  4FE898 TYPE$HIDE:RELATE:PARAMFE
-  4FE928 VMT$HIDE:RELATE:PARAMFE
-  4FE960 TYPE$HIDE:ACCESS:PARAMFE
-  4FEB30 VMT$HIDE:ACCESS:PARAMFE
-  4FF5F8 TYPE$DICTIONARY
-  4FF608 VMT$DICTIONARY
-  4FF614 LOCALIDAD2$TYPE$LOC2:RECORD
-  4FF638 DESTINATARIO$TYPE$DES:RECORD
-  4FF768 REMITENTE$TYPE$RTE:RECORD
-  4FF898 RECIBOS$TYPE$REC:RECORD
-  4FFB90 CATIVAREM$TYPE$IVAR:RECORD
-  4FFBE0 CATIVADES$TYPE$IVAD:RECORD
-  4FFC30 TRANSLOC$TYPE$TRL:RECORD
-  4FFCDC BANCOS$TYPE$BCO:RECORD
-  4FFD20 VALORES$TYPE$VAL:RECORD
-  4FFDAC DISTRIBUIDORES$TYPE$DIS:RECORD
-  4FFE88 DIAS$TYPE$DIA:RECORD
-  4FFEBC CATIVA$TYPE$IVA:RECORD
-  4FFF08 TRANSPOR$TYPE$TRA:RECORD
-  4FFFE0 PROVINCI$TYPE$PCIA:RECORD
-  500020 ITEMGUIA$TYPE$ITGUIA:RECORD
-  500094 PARAMFE3$TYPE$PARFE3:RECORD
-  500128 PARAMFE$TYPE$PARFE:RECORD
-  5001DC ZONAS$TYPE$ZON:RECORD
-  500210 ITEMFAC$TYPE$ITFAC:RECORD
-  500288 APLIGUIA$TYPE$APGUIA:RECORD
-  5002C4 APLIFAC$TYPE$APFAC:RECORD
-  500340 FE_RESPUESTA_RECE$TYPE$FE_RESP:RECORD
-  500360 FE_RECE$TYPE$FRECE:RECORD
-  500380 LOCALIDA$TYPE$LOC:RECORD
-  5003A4 FACPROV$TYPE$FCP:RECORD
-  500604 GUIAS$TYPE$GUIA:RECORD
-  500888 FACTURAS$TYPE$FAC:RECORD
-  500B80 VISITAS$TYPE$VIS:RECORD
-  500BC4 PARAMETRO$TYPE$PAR:RECORD
-  500CF8 PROVEEDORES$TYPE$PROV:RECORD
-  500E18 REDESPACHO$TYPE$RD:RECORD
-  500E50 COMPROBANTES$TYPE$CPTE:RECORD
-  500EC4 CITIA$TYPE$CITIA:RECORD
-  500EE8 CITIC$TYPE$CITIC:RECORD
-  500F0C CITICA$TYPE$CITICA:RECORD
-  500F30 CITI$TYPE$CITI:RECORD
-  500F50 CLIENTES$TYPE$CLI:RECORD
-  501080 TYPE$CRITICALSECTION
-  501098 VMT$CRITICALSECTION
-  5010A4 TYPE$CRITICALPROCEDURE
-  5010BC VMT$CRITICALPROCEDURE
-  501110 TYPE$NEXTTABSTOPCONTROLQUEUE
-  50112C TYPE$ENTERBYTABCLASS
-  501170 VMT$ENTERBYTABCLASS
-  501184 TYPE$CONTROLTYPEQUEUE
-  501198 TYPE$ENHANCEDFOCUSCLASSTYPE
-  50130C VMT$ENHANCEDFOCUSCLASSTYPE
-  502578 VMTP$ENTERBYTABCLASS
-  502580 VMTP$ENHANCEDFOCUSCLASSTYPE
-  502588 VMTP$HIDE:RELATE:ZONAS
-  502590 VMTP$HIDE:ACCESS:ZONAS
-  502598 VMTP$HIDE:RELATE:ITEMFAC
-  5025A0 VMTP$HIDE:ACCESS:ITEMFAC
-  5025A8 VMTP$HIDE:RELATE:APLIGUIA
-  5025B0 VMTP$HIDE:ACCESS:APLIGUIA
-  5025B8 VMTP$HIDE:RELATE:APLIFAC
-  5025C0 VMTP$HIDE:ACCESS:APLIFAC
-  5025C8 VMTP$HIDE:RELATE:FE_RESPUESTA_RECE
-  5025D0 VMTP$HIDE:ACCESS:FE_RESPUESTA_RECE
-  5025D8 VMTP$HIDE:RELATE:FE_RECE
-  5025E0 VMTP$HIDE:ACCESS:FE_RECE
-  5025E8 VMTP$HIDE:RELATE:LOCALIDA
-  5025F0 VMTP$HIDE:ACCESS:LOCALIDA
-  5025F8 VMTP$HIDE:RELATE:FACPROV
-  502600 VMTP$HIDE:ACCESS:FACPROV
-  502608 VMTP$HIDE:RELATE:GUIAS
-  502610 VMTP$HIDE:ACCESS:GUIAS
-  502618 VMTP$HIDE:RELATE:FACTURAS
-  502620 VMTP$HIDE:ACCESS:FACTURAS
-  502628 VMTP$HIDE:RELATE:VISITAS
-  502630 VMTP$HIDE:ACCESS:VISITAS
-  502638 VMTP$HIDE:RELATE:PARAMETRO
-  502640 VMTP$HIDE:ACCESS:PARAMETRO
-  502648 VMTP$HIDE:RELATE:PROVEEDORES
-  502650 VMTP$HIDE:ACCESS:PROVEEDORES
-  502658 VMTP$HIDE:RELATE:REDESPACHO
-  502660 VMTP$HIDE:ACCESS:REDESPACHO
-  502668 VMTP$HIDE:RELATE:COMPROBANTES
-  502670 VMTP$HIDE:ACCESS:COMPROBANTES
-  502678 VMTP$HIDE:RELATE:CITIA
-  502680 VMTP$HIDE:ACCESS:CITIA
-  502688 VMTP$HIDE:RELATE:CITIC
-  502690 VMTP$HIDE:ACCESS:CITIC
-  502698 VMTP$HIDE:RELATE:CITICA
-  5026A0 VMTP$HIDE:ACCESS:CITICA
-  5026A8 VMTP$HIDE:RELATE:CITI
-  5026B0 VMTP$HIDE:ACCESS:CITI
-  5026B8 VMTP$HIDE:RELATE:CLIENTES
-  5026C0 VMTP$HIDE:ACCESS:CLIENTES
-  5026C8 VMTP$HIDE:RELATE:LOCALIDAD2
-  5026D0 VMTP$HIDE:ACCESS:LOCALIDAD2
-  5026D8 VMTP$HIDE:RELATE:DESTINATARIO
-  5026E0 VMTP$HIDE:ACCESS:DESTINATARIO
-  5026E8 VMTP$HIDE:RELATE:REMITENTE
-  5026F0 VMTP$HIDE:ACCESS:REMITENTE
-  5026F8 VMTP$HIDE:RELATE:RECIBOS
-  502700 VMTP$HIDE:ACCESS:RECIBOS
-  502708 VMTP$HIDE:RELATE:CATIVAREM
-  502710 VMTP$HIDE:ACCESS:CATIVAREM
-  502718 VMTP$HIDE:RELATE:CATIVADES
-  502720 VMTP$HIDE:ACCESS:CATIVADES
-  502728 VMTP$HIDE:RELATE:TRANSLOC
-  502730 VMTP$HIDE:ACCESS:TRANSLOC
-  502738 VMTP$HIDE:RELATE:BANCOS
-  502740 VMTP$HIDE:ACCESS:BANCOS
-  502748 VMTP$HIDE:RELATE:VALORES
-  502750 VMTP$HIDE:ACCESS:VALORES
-  502758 VMTP$HIDE:RELATE:DISTRIBUIDORES
-  502760 VMTP$HIDE:ACCESS:DISTRIBUIDORES
-  502768 VMTP$HIDE:RELATE:DIAS
-  502770 VMTP$HIDE:ACCESS:DIAS
-  502778 VMTP$HIDE:RELATE:CATIVA
-  502780 VMTP$HIDE:ACCESS:CATIVA
-  502788 VMTP$HIDE:RELATE:TRANSPOR
-  502790 VMTP$HIDE:ACCESS:TRANSPOR
-  502798 VMTP$HIDE:RELATE:PROVINCI
-  5027A0 VMTP$HIDE:ACCESS:PROVINCI
-  5027A8 VMTP$HIDE:RELATE:ITEMGUIA
-  5027B0 VMTP$HIDE:ACCESS:ITEMGUIA
-  5027B8 VMTP$HIDE:RELATE:PARAMFE3
-  5027C0 VMTP$HIDE:ACCESS:PARAMFE3
-  5027C8 VMTP$HIDE:RELATE:PARAMFE
-  5027D0 VMTP$HIDE:ACCESS:PARAMFE
-  5027D8 VMTP$DICTIONARY
-  502FD0 VMTP$FILESMANAGER
-  502FD8 VMTP$THREADEDFILEOPENSERVER
-  502FE0 VMTP$UNTHREADEDFILEOPENSERVER
-  502FE8 VMTP$FILEMANAGER
-  502FF0 VMTP$CONSTANTCLASS
-  502FF8 VMTP$INICLASS
-  503000 VMTP$BUFFEREDPAIRSCLASS
-  503008 VMTP$FIELDPAIRSCLASS
-  503010 VMTP$POPUPCLASS
-  503018 VMTP$TOOLBARCLASS
-  503020 VMTP$TOOLBARUPDATECLASS
-  503028 VMTP$TOOLBARLISTBOXCLASS
-  503030 VMTP$EDITENTRYCLASS
-  503038 VMTP$BROWSEEIPMANAGER
-  503040 VMTP$BROWSECLASS
-  503048 VMTP$STANDARDBEHAVIOR
-  503050 VMTP$FILTERLOCATORCLASS
-  503058 VMTP$INCREMENTALLOCATORCLASS
-  503060 VMTP$ENTRYLOCATORCLASS
-  503068 VMTP$STEPLOCATORCLASS
-  503070 VMTP$STEPSTRINGCLASS
-  503078 VMTP$STEPLONGCLASS
-  503080 VMTP$STEPCLASS
-  503088 VMTP$HISTHANDLERCLASS
-  503090 VMTP$MSGBOXCLASS
-  503098 VMTP$ERRORCLASS
-  5030A0 VMTP$STANDARDERRORLOGCLASS
-  5030A8 VMTP$ERRORSTATUSCLASS
-  5030B0 VMTP$FUZZYCLASS
-  5030B8 VMTP$FILEDROPCLASS
-  5030C0 VMTP$WMFDOCUMENTPARSER
-  5030C8 VMTP$WMFPARSER
-  5030D0 VMTP$REPORTATTRIBUTEMANAGER
-  5030D8 VMTP$REPORTTARGETSELECTORCLASS
-  5030E0 VMTP$PAGEMANAGERCLASS
-  5030E8 VMTP$PRINTPREVIEWCLASS
-  5030F0 VMTP$CRITICALSECTION
-  5030F8 VMTP$CRITICALPROCEDURE
-  503100 $COLORMAP
-  503138 $MULTIWINDOW
-  50313C $TXTWINDOW
-  503140 $WINDOW
-  503144 STDERRORFILE$RECORD
-  503544 $UNTHREADEDFILEOPENERMAP
-  50354C $CREATEOPENERCRIT
-  503554 $FUZZYOBJECT
-  50365C P80$MEMOS$EXTRACTFILE
-  503860 $GLO:MONTOLETRA
-  503960 $GLO:LETRAFACTURA
-  503964 $GLO:IMPRIMETOTAL
-  503968 $GLO:LINEARECE
-  503A8C $GLO:NROCAE
-  503AAC $GLO:LINEARECE_FEX
-  504AB0 $GLO:ARCHIVORECE
-  504CB0 $GLO:ARCHIVO_RESPUESTA_RECE
-  504EB0 $GLO_NOMBRE_USUARIO
-  504EE4 $GLO:MENSAGE
-  504F48 $FUZZYMATCHER
-  50656C $GLOBALERRORS
-  5065A0 $INIMGR
-  5066B8 KEYS$CITI
-  5066BC $LADJFDSETTING
-  5066C0 $GLO:TEST
-  5066C4 $GLO:PARAMETROS
-  506EC4 $GLO:EJECUTABLE
-  5070C4 $GLO:FECHACAE
-  5070C8 $GLO:PUNTOVENTAELECTRONICO
-  5070CC $GLO:HOJAINICIAL
-  5070D0 $GLO:SALDOAAPLICAR
-  5070D8 $GLO:IMPORTEFACTURAR
-  5070E0 $GLO:DIA
-  5070E4 $GLO:GUIA
-  5070E8 $GLO:TRANSPORTE
-  5070EC $GLO:DISTRIBUIDOR
-  5070F0 $GLO:PROVEEDOR
-  5070F4 $GLO:CLIENTE
-  5070F8 $GLO:NUMERAGUIA
-  5070FC $GLO:NUMERAFACTURA
-  507100 $GLO:LUGARFACTURA
-  507104 $GLO:EMPRESA
-  507108 $GLO:FECHAHASTA
-  50710C $GLO:FECHADESDE
-  507110 P21$MEMOS$INFILE
+  4F6AD4 TYPE$HIDE:RELATE:ZONAS
+  4F6B64 VMT$HIDE:RELATE:ZONAS
+  4F6B9C TYPE$HIDE:ACCESS:ZONAS
+  4F6D6C VMT$HIDE:ACCESS:ZONAS
+  4F6E34 TYPE$HIDE:RELATE:ITEMFAC
+  4F6EC4 VMT$HIDE:RELATE:ITEMFAC
+  4F6EFC TYPE$HIDE:ACCESS:ITEMFAC
+  4F70CC VMT$HIDE:ACCESS:ITEMFAC
+  4F7194 TYPE$HIDE:RELATE:APLIGUIA
+  4F7224 VMT$HIDE:RELATE:APLIGUIA
+  4F725C TYPE$HIDE:ACCESS:APLIGUIA
+  4F742C VMT$HIDE:ACCESS:APLIGUIA
+  4F74F4 TYPE$HIDE:RELATE:APLIFAC
+  4F7584 VMT$HIDE:RELATE:APLIFAC
+  4F75BC TYPE$HIDE:ACCESS:APLIFAC
+  4F778C VMT$HIDE:ACCESS:APLIFAC
+  4F7854 TYPE$HIDE:RELATE:FE_RESPUESTA_RECE
+  4F78E4 VMT$HIDE:RELATE:FE_RESPUESTA_RECE
+  4F791C TYPE$HIDE:ACCESS:FE_RESPUESTA_RECE
+  4F7AEC VMT$HIDE:ACCESS:FE_RESPUESTA_RECE
+  4F7BB4 TYPE$HIDE:RELATE:FE_RECE
+  4F7C44 VMT$HIDE:RELATE:FE_RECE
+  4F7C7C TYPE$HIDE:ACCESS:FE_RECE
+  4F7E4C VMT$HIDE:ACCESS:FE_RECE
+  4F7F14 TYPE$HIDE:RELATE:LOCALIDA
+  4F7FA4 VMT$HIDE:RELATE:LOCALIDA
+  4F7FDC TYPE$HIDE:ACCESS:LOCALIDA
+  4F81AC VMT$HIDE:ACCESS:LOCALIDA
+  4F8274 TYPE$HIDE:RELATE:FACPROV
+  4F8304 VMT$HIDE:RELATE:FACPROV
+  4F833C TYPE$HIDE:ACCESS:FACPROV
+  4F850C VMT$HIDE:ACCESS:FACPROV
+  4F85D4 TYPE$HIDE:RELATE:GUIAS
+  4F8664 VMT$HIDE:RELATE:GUIAS
+  4F869C TYPE$HIDE:ACCESS:GUIAS
+  4F886C VMT$HIDE:ACCESS:GUIAS
+  4F8934 TYPE$HIDE:RELATE:FACTURAS
+  4F89C4 VMT$HIDE:RELATE:FACTURAS
+  4F89FC TYPE$HIDE:ACCESS:FACTURAS
+  4F8BCC VMT$HIDE:ACCESS:FACTURAS
+  4F8C94 TYPE$HIDE:RELATE:VISITAS
+  4F8D24 VMT$HIDE:RELATE:VISITAS
+  4F8D5C TYPE$HIDE:ACCESS:VISITAS
+  4F8F2C VMT$HIDE:ACCESS:VISITAS
+  4F8FF4 TYPE$HIDE:RELATE:PARAMETRO
+  4F9084 VMT$HIDE:RELATE:PARAMETRO
+  4F90BC TYPE$HIDE:ACCESS:PARAMETRO
+  4F928C VMT$HIDE:ACCESS:PARAMETRO
+  4F9354 TYPE$HIDE:RELATE:PROVEEDORES
+  4F93E4 VMT$HIDE:RELATE:PROVEEDORES
+  4F941C TYPE$HIDE:ACCESS:PROVEEDORES
+  4F95EC VMT$HIDE:ACCESS:PROVEEDORES
+  4F96B4 TYPE$HIDE:RELATE:REDESPACHO
+  4F9744 VMT$HIDE:RELATE:REDESPACHO
+  4F977C TYPE$HIDE:ACCESS:REDESPACHO
+  4F994C VMT$HIDE:ACCESS:REDESPACHO
+  4F9A14 TYPE$HIDE:RELATE:COMPROBANTES
+  4F9AA4 VMT$HIDE:RELATE:COMPROBANTES
+  4F9ADC TYPE$HIDE:ACCESS:COMPROBANTES
+  4F9CAC VMT$HIDE:ACCESS:COMPROBANTES
+  4F9D74 TYPE$HIDE:RELATE:CITIA
+  4F9E04 VMT$HIDE:RELATE:CITIA
+  4F9E3C TYPE$HIDE:ACCESS:CITIA
+  4FA00C VMT$HIDE:ACCESS:CITIA
+  4FA0D4 TYPE$HIDE:RELATE:CITIC
+  4FA164 VMT$HIDE:RELATE:CITIC
+  4FA19C TYPE$HIDE:ACCESS:CITIC
+  4FA36C VMT$HIDE:ACCESS:CITIC
+  4FA434 TYPE$HIDE:RELATE:CITICA
+  4FA4C4 VMT$HIDE:RELATE:CITICA
+  4FA4FC TYPE$HIDE:ACCESS:CITICA
+  4FA6CC VMT$HIDE:ACCESS:CITICA
+  4FA794 TYPE$HIDE:RELATE:CITI
+  4FA824 VMT$HIDE:RELATE:CITI
+  4FA85C TYPE$HIDE:ACCESS:CITI
+  4FAA2C VMT$HIDE:ACCESS:CITI
+  4FAAF4 TYPE$HIDE:RELATE:CLIENTES
+  4FAB84 VMT$HIDE:RELATE:CLIENTES
+  4FABBC TYPE$HIDE:ACCESS:CLIENTES
+  4FAD8C VMT$HIDE:ACCESS:CLIENTES
+  4FB29C TYPE$HIDE:RELATE:LOCALIDAD2
+  4FB32C VMT$HIDE:RELATE:LOCALIDAD2
+  4FB364 TYPE$HIDE:ACCESS:LOCALIDAD2
+  4FB534 VMT$HIDE:ACCESS:LOCALIDAD2
+  4FB5FC TYPE$HIDE:RELATE:DESTINATARIO
+  4FB68C VMT$HIDE:RELATE:DESTINATARIO
+  4FB6C4 TYPE$HIDE:ACCESS:DESTINATARIO
+  4FB894 VMT$HIDE:ACCESS:DESTINATARIO
+  4FB95C TYPE$HIDE:RELATE:REMITENTE
+  4FB9EC VMT$HIDE:RELATE:REMITENTE
+  4FBA24 TYPE$HIDE:ACCESS:REMITENTE
+  4FBBF4 VMT$HIDE:ACCESS:REMITENTE
+  4FBCBC TYPE$HIDE:RELATE:RECIBOS
+  4FBD4C VMT$HIDE:RELATE:RECIBOS
+  4FBD84 TYPE$HIDE:ACCESS:RECIBOS
+  4FBF54 VMT$HIDE:ACCESS:RECIBOS
+  4FC01C TYPE$HIDE:RELATE:CATIVAREM
+  4FC0AC VMT$HIDE:RELATE:CATIVAREM
+  4FC0E4 TYPE$HIDE:ACCESS:CATIVAREM
+  4FC2B4 VMT$HIDE:ACCESS:CATIVAREM
+  4FC37C TYPE$HIDE:RELATE:CATIVADES
+  4FC40C VMT$HIDE:RELATE:CATIVADES
+  4FC444 TYPE$HIDE:ACCESS:CATIVADES
+  4FC614 VMT$HIDE:ACCESS:CATIVADES
+  4FC6DC TYPE$HIDE:RELATE:TRANSLOC
+  4FC76C VMT$HIDE:RELATE:TRANSLOC
+  4FC7A4 TYPE$HIDE:ACCESS:TRANSLOC
+  4FC974 VMT$HIDE:ACCESS:TRANSLOC
+  4FCA3C TYPE$HIDE:RELATE:BANCOS
+  4FCACC VMT$HIDE:RELATE:BANCOS
+  4FCB04 TYPE$HIDE:ACCESS:BANCOS
+  4FCCD4 VMT$HIDE:ACCESS:BANCOS
+  4FCD9C TYPE$HIDE:RELATE:VALORES
+  4FCE2C VMT$HIDE:RELATE:VALORES
+  4FCE64 TYPE$HIDE:ACCESS:VALORES
+  4FD034 VMT$HIDE:ACCESS:VALORES
+  4FD0FC TYPE$HIDE:RELATE:DISTRIBUIDORES
+  4FD18C VMT$HIDE:RELATE:DISTRIBUIDORES
+  4FD1C4 TYPE$HIDE:ACCESS:DISTRIBUIDORES
+  4FD394 VMT$HIDE:ACCESS:DISTRIBUIDORES
+  4FD45C TYPE$HIDE:RELATE:DIAS
+  4FD4EC VMT$HIDE:RELATE:DIAS
+  4FD524 TYPE$HIDE:ACCESS:DIAS
+  4FD6F4 VMT$HIDE:ACCESS:DIAS
+  4FD7BC TYPE$HIDE:RELATE:CATIVA
+  4FD84C VMT$HIDE:RELATE:CATIVA
+  4FD884 TYPE$HIDE:ACCESS:CATIVA
+  4FDA54 VMT$HIDE:ACCESS:CATIVA
+  4FDB1C TYPE$HIDE:RELATE:TRANSPOR
+  4FDBAC VMT$HIDE:RELATE:TRANSPOR
+  4FDBE4 TYPE$HIDE:ACCESS:TRANSPOR
+  4FDDB4 VMT$HIDE:ACCESS:TRANSPOR
+  4FDE7C TYPE$HIDE:RELATE:PROVINCI
+  4FDF0C VMT$HIDE:RELATE:PROVINCI
+  4FDF44 TYPE$HIDE:ACCESS:PROVINCI
+  4FE114 VMT$HIDE:ACCESS:PROVINCI
+  4FE1DC TYPE$HIDE:RELATE:ITEMGUIA
+  4FE26C VMT$HIDE:RELATE:ITEMGUIA
+  4FE2A4 TYPE$HIDE:ACCESS:ITEMGUIA
+  4FE474 VMT$HIDE:ACCESS:ITEMGUIA
+  4FE53C TYPE$HIDE:RELATE:PARAMFE3
+  4FE5CC VMT$HIDE:RELATE:PARAMFE3
+  4FE604 TYPE$HIDE:ACCESS:PARAMFE3
+  4FE7D4 VMT$HIDE:ACCESS:PARAMFE3
+  4FE89C TYPE$HIDE:RELATE:PARAMFE
+  4FE92C VMT$HIDE:RELATE:PARAMFE
+  4FE964 TYPE$HIDE:ACCESS:PARAMFE
+  4FEB34 VMT$HIDE:ACCESS:PARAMFE
+  4FF5FC TYPE$DICTIONARY
+  4FF60C VMT$DICTIONARY
+  4FF618 LOCALIDAD2$TYPE$LOC2:RECORD
+  4FF63C DESTINATARIO$TYPE$DES:RECORD
+  4FF76C REMITENTE$TYPE$RTE:RECORD
+  4FF89C RECIBOS$TYPE$REC:RECORD
+  4FFB94 CATIVAREM$TYPE$IVAR:RECORD
+  4FFBE4 CATIVADES$TYPE$IVAD:RECORD
+  4FFC34 TRANSLOC$TYPE$TRL:RECORD
+  4FFCE0 BANCOS$TYPE$BCO:RECORD
+  4FFD24 VALORES$TYPE$VAL:RECORD
+  4FFDB0 DISTRIBUIDORES$TYPE$DIS:RECORD
+  4FFE8C DIAS$TYPE$DIA:RECORD
+  4FFEC0 CATIVA$TYPE$IVA:RECORD
+  4FFF0C TRANSPOR$TYPE$TRA:RECORD
+  4FFFE4 PROVINCI$TYPE$PCIA:RECORD
+  500024 ITEMGUIA$TYPE$ITGUIA:RECORD
+  500098 PARAMFE3$TYPE$PARFE3:RECORD
+  50012C PARAMFE$TYPE$PARFE:RECORD
+  5001E0 ZONAS$TYPE$ZON:RECORD
+  500214 ITEMFAC$TYPE$ITFAC:RECORD
+  50028C APLIGUIA$TYPE$APGUIA:RECORD
+  5002C8 APLIFAC$TYPE$APFAC:RECORD
+  500344 FE_RESPUESTA_RECE$TYPE$FE_RESP:RECORD
+  500364 FE_RECE$TYPE$FRECE:RECORD
+  500384 LOCALIDA$TYPE$LOC:RECORD
+  5003A8 FACPROV$TYPE$FCP:RECORD
+  500608 GUIAS$TYPE$GUIA:RECORD
+  50088C FACTURAS$TYPE$FAC:RECORD
+  500B84 VISITAS$TYPE$VIS:RECORD
+  500BC8 PARAMETRO$TYPE$PAR:RECORD
+  500CFC PROVEEDORES$TYPE$PROV:RECORD
+  500E1C REDESPACHO$TYPE$RD:RECORD
+  500E54 COMPROBANTES$TYPE$CPTE:RECORD
+  500EC8 CITIA$TYPE$CITIA:RECORD
+  500EEC CITIC$TYPE$CITIC:RECORD
+  500F10 CITICA$TYPE$CITICA:RECORD
+  500F34 CITI$TYPE$CITI:RECORD
+  500F54 CLIENTES$TYPE$CLI:RECORD
+  501084 TYPE$CRITICALSECTION
+  50109C VMT$CRITICALSECTION
+  5010A8 TYPE$CRITICALPROCEDURE
+  5010C0 VMT$CRITICALPROCEDURE
+  501114 TYPE$NEXTTABSTOPCONTROLQUEUE
+  501130 TYPE$ENTERBYTABCLASS
+  501174 VMT$ENTERBYTABCLASS
+  501188 TYPE$CONTROLTYPEQUEUE
+  50119C TYPE$ENHANCEDFOCUSCLASSTYPE
+  501310 VMT$ENHANCEDFOCUSCLASSTYPE
+  50257C VMTP$ENTERBYTABCLASS
+  502584 VMTP$ENHANCEDFOCUSCLASSTYPE
+  50258C VMTP$HIDE:RELATE:ZONAS
+  502594 VMTP$HIDE:ACCESS:ZONAS
+  50259C VMTP$HIDE:RELATE:ITEMFAC
+  5025A4 VMTP$HIDE:ACCESS:ITEMFAC
+  5025AC VMTP$HIDE:RELATE:APLIGUIA
+  5025B4 VMTP$HIDE:ACCESS:APLIGUIA
+  5025BC VMTP$HIDE:RELATE:APLIFAC
+  5025C4 VMTP$HIDE:ACCESS:APLIFAC
+  5025CC VMTP$HIDE:RELATE:FE_RESPUESTA_RECE
+  5025D4 VMTP$HIDE:ACCESS:FE_RESPUESTA_RECE
+  5025DC VMTP$HIDE:RELATE:FE_RECE
+  5025E4 VMTP$HIDE:ACCESS:FE_RECE
+  5025EC VMTP$HIDE:RELATE:LOCALIDA
+  5025F4 VMTP$HIDE:ACCESS:LOCALIDA
+  5025FC VMTP$HIDE:RELATE:FACPROV
+  502604 VMTP$HIDE:ACCESS:FACPROV
+  50260C VMTP$HIDE:RELATE:GUIAS
+  502614 VMTP$HIDE:ACCESS:GUIAS
+  50261C VMTP$HIDE:RELATE:FACTURAS
+  502624 VMTP$HIDE:ACCESS:FACTURAS
+  50262C VMTP$HIDE:RELATE:VISITAS
+  502634 VMTP$HIDE:ACCESS:VISITAS
+  50263C VMTP$HIDE:RELATE:PARAMETRO
+  502644 VMTP$HIDE:ACCESS:PARAMETRO
+  50264C VMTP$HIDE:RELATE:PROVEEDORES
+  502654 VMTP$HIDE:ACCESS:PROVEEDORES
+  50265C VMTP$HIDE:RELATE:REDESPACHO
+  502664 VMTP$HIDE:ACCESS:REDESPACHO
+  50266C VMTP$HIDE:RELATE:COMPROBANTES
+  502674 VMTP$HIDE:ACCESS:COMPROBANTES
+  50267C VMTP$HIDE:RELATE:CITIA
+  502684 VMTP$HIDE:ACCESS:CITIA
+  50268C VMTP$HIDE:RELATE:CITIC
+  502694 VMTP$HIDE:ACCESS:CITIC
+  50269C VMTP$HIDE:RELATE:CITICA
+  5026A4 VMTP$HIDE:ACCESS:CITICA
+  5026AC VMTP$HIDE:RELATE:CITI
+  5026B4 VMTP$HIDE:ACCESS:CITI
+  5026BC VMTP$HIDE:RELATE:CLIENTES
+  5026C4 VMTP$HIDE:ACCESS:CLIENTES
+  5026CC VMTP$HIDE:RELATE:LOCALIDAD2
+  5026D4 VMTP$HIDE:ACCESS:LOCALIDAD2
+  5026DC VMTP$HIDE:RELATE:DESTINATARIO
+  5026E4 VMTP$HIDE:ACCESS:DESTINATARIO
+  5026EC VMTP$HIDE:RELATE:REMITENTE
+  5026F4 VMTP$HIDE:ACCESS:REMITENTE
+  5026FC VMTP$HIDE:RELATE:RECIBOS
+  502704 VMTP$HIDE:ACCESS:RECIBOS
+  50270C VMTP$HIDE:RELATE:CATIVAREM
+  502714 VMTP$HIDE:ACCESS:CATIVAREM
+  50271C VMTP$HIDE:RELATE:CATIVADES
+  502724 VMTP$HIDE:ACCESS:CATIVADES
+  50272C VMTP$HIDE:RELATE:TRANSLOC
+  502734 VMTP$HIDE:ACCESS:TRANSLOC
+  50273C VMTP$HIDE:RELATE:BANCOS
+  502744 VMTP$HIDE:ACCESS:BANCOS
+  50274C VMTP$HIDE:RELATE:VALORES
+  502754 VMTP$HIDE:ACCESS:VALORES
+  50275C VMTP$HIDE:RELATE:DISTRIBUIDORES
+  502764 VMTP$HIDE:ACCESS:DISTRIBUIDORES
+  50276C VMTP$HIDE:RELATE:DIAS
+  502774 VMTP$HIDE:ACCESS:DIAS
+  50277C VMTP$HIDE:RELATE:CATIVA
+  502784 VMTP$HIDE:ACCESS:CATIVA
+  50278C VMTP$HIDE:RELATE:TRANSPOR
+  502794 VMTP$HIDE:ACCESS:TRANSPOR
+  50279C VMTP$HIDE:RELATE:PROVINCI
+  5027A4 VMTP$HIDE:ACCESS:PROVINCI
+  5027AC VMTP$HIDE:RELATE:ITEMGUIA
+  5027B4 VMTP$HIDE:ACCESS:ITEMGUIA
+  5027BC VMTP$HIDE:RELATE:PARAMFE3
+  5027C4 VMTP$HIDE:ACCESS:PARAMFE3
+  5027CC VMTP$HIDE:RELATE:PARAMFE
+  5027D4 VMTP$HIDE:ACCESS:PARAMFE
+  5027DC VMTP$DICTIONARY
+  502FD4 VMTP$FILESMANAGER
+  502FDC VMTP$THREADEDFILEOPENSERVER
+  502FE4 VMTP$UNTHREADEDFILEOPENSERVER
+  502FEC VMTP$FILEMANAGER
+  502FF4 VMTP$CONSTANTCLASS
+  502FFC VMTP$INICLASS
+  503004 VMTP$BUFFEREDPAIRSCLASS
+  50300C VMTP$FIELDPAIRSCLASS
+  503014 VMTP$POPUPCLASS
+  50301C VMTP$TOOLBARCLASS
+  503024 VMTP$TOOLBARUPDATECLASS
+  50302C VMTP$TOOLBARLISTBOXCLASS
+  503034 VMTP$EDITENTRYCLASS
+  50303C VMTP$BROWSEEIPMANAGER
+  503044 VMTP$BROWSECLASS
+  50304C VMTP$STANDARDBEHAVIOR
+  503054 VMTP$FILTERLOCATORCLASS
+  50305C VMTP$INCREMENTALLOCATORCLASS
+  503064 VMTP$ENTRYLOCATORCLASS
+  50306C VMTP$STEPLOCATORCLASS
+  503074 VMTP$STEPSTRINGCLASS
+  50307C VMTP$STEPLONGCLASS
+  503084 VMTP$STEPCLASS
+  50308C VMTP$HISTHANDLERCLASS
+  503094 VMTP$MSGBOXCLASS
+  50309C VMTP$ERRORCLASS
+  5030A4 VMTP$STANDARDERRORLOGCLASS
+  5030AC VMTP$ERRORSTATUSCLASS
+  5030B4 VMTP$FUZZYCLASS
+  5030BC VMTP$FILEDROPCLASS
+  5030C4 VMTP$WMFDOCUMENTPARSER
+  5030CC VMTP$WMFPARSER
+  5030D4 VMTP$REPORTATTRIBUTEMANAGER
+  5030DC VMTP$REPORTTARGETSELECTORCLASS
+  5030E4 VMTP$PAGEMANAGERCLASS
+  5030EC VMTP$PRINTPREVIEWCLASS
+  5030F4 VMTP$CRITICALSECTION
+  5030FC VMTP$CRITICALPROCEDURE
+  503110 $COLORMAP
+  503148 $MULTIWINDOW
+  50314C $TXTWINDOW
+  503150 $WINDOW
+  503154 STDERRORFILE$RECORD
+  503554 $UNTHREADEDFILEOPENERMAP
+  50355C $CREATEOPENERCRIT
+  503564 $FUZZYOBJECT
+  50366C P80$MEMOS$EXTRACTFILE
+  503870 $GLO:MONTOLETRA
+  503970 $GLO:LETRAFACTURA
+  503974 $GLO:IMPRIMETOTAL
+  503978 $GLO:LINEARECE
+  503A9C $GLO:NROCAE
+  503ABC $GLO:LINEARECE_FEX
+  504AC0 $GLO:ARCHIVORECE
+  504CC0 $GLO:ARCHIVO_RESPUESTA_RECE
+  504EC0 $GLO_NOMBRE_USUARIO
+  504EF4 $GLO:MENSAGE
+  504F58 $FUZZYMATCHER
+  50657C $GLOBALERRORS
+  5065B0 $INIMGR
+  5066C8 KEYS$CITI
+  5066CC $LADJFDSETTING
+  5066D0 $GLO:CONDICIONIVARECEPTOR
+  5066D4 $GLO:TEST
+  5066D8 $GLO:PARAMETROS
+  506ED8 $GLO:EJECUTABLE
+  5070D8 $GLO:FECHACAE
+  5070DC $GLO:PUNTOVENTAELECTRONICO
+  5070E0 $GLO:HOJAINICIAL
+  5070E4 $GLO:SALDOAAPLICAR
+  5070EC $GLO:IMPORTEFACTURAR
+  5070F4 $GLO:DIA
+  5070F8 $GLO:GUIA
+  5070FC $GLO:TRANSPORTE
+  507100 $GLO:DISTRIBUIDOR
+  507104 $GLO:PROVEEDOR
+  507108 $GLO:CLIENTE
+  50710C $GLO:NUMERAGUIA
+  507110 $GLO:NUMERAFACTURA
+  507114 $GLO:LUGARFACTURA
+  507118 $GLO:EMPRESA
+  50711C $GLO:FECHAHASTA
+  507120 $GLO:FECHADESDE
+  507124 P21$MEMOS$INFILE
   508008 LOCALIDAD2$LOC2:POR_LOCALIDAD
   50802C KEYS$LOCALIDAD2
   508030 $LOCALIDAD2
@@ -2509,105 +2510,105 @@
   50BF74 PARAMFE$PARFE:RECORD
   50C068 ZONAS$ZON:RECORD
   50C094 ITEMFAC$ITFAC:RECORD
-  50C0CC APLIGUIA$APGUIA:RECORD
-  50C0D4 APLIFAC$APFAC:RECORD
-  50C0FC FE_RESPUESTA_RECE$FE_RESP:RECORD
-  50C220 FE_RECE$FRECE:RECORD
-  50C344 LOCALIDA$LOC:RECORD
-  50C364 FACPROV$FCP:RECORD
-  50C3E4 GUIAS$GUIA:RECORD
-  50C538 FACTURAS$FAC:RECORD
-  50C7D0 VISITAS$VIS:RECORD
-  50C7D8 PARAMETRO$PAR:RECORD
-  50C8A8 PROVEEDORES$PROV:RECORD
-  50C9D0 REDESPACHO$RD:RECORD
-  50C9E0 COMPROBANTES$CPTE:RECORD
-  50CA00 CITIA$CITIA:RECORD
-  50CB90 CITIC$CITIC:RECORD
-  50CD20 CITICA$CITICA:RECORD
-  50CEB0 CITI$CITI:RECORD
-  50D040 CLIENTES$CLI:RECORD
-  50D134 $RELATE:LOCALIDAD2
-  50D138 $ACCESS:LOCALIDAD2
-  50D13C $RELATE:DESTINATARIO
-  50D140 $ACCESS:DESTINATARIO
-  50D144 $RELATE:REMITENTE
-  50D148 $ACCESS:REMITENTE
-  50D14C $RELATE:RECIBOS
-  50D150 $ACCESS:RECIBOS
-  50D154 $RELATE:CATIVAREM
-  50D158 $ACCESS:CATIVAREM
-  50D15C $RELATE:CATIVADES
-  50D160 $ACCESS:CATIVADES
-  50D164 $RELATE:TRANSLOC
-  50D168 $ACCESS:TRANSLOC
-  50D16C $RELATE:BANCOS
-  50D170 $ACCESS:BANCOS
-  50D174 $RELATE:VALORES
-  50D178 $ACCESS:VALORES
-  50D17C $RELATE:DISTRIBUIDORES
-  50D180 $ACCESS:DISTRIBUIDORES
-  50D184 $RELATE:DIAS
-  50D188 $ACCESS:DIAS
-  50D18C $RELATE:CATIVA
-  50D190 $ACCESS:CATIVA
-  50D194 $RELATE:TRANSPOR
-  50D198 $ACCESS:TRANSPOR
-  50D19C $RELATE:PROVINCI
-  50D1A0 $ACCESS:PROVINCI
-  50D1A4 $RELATE:ITEMGUIA
-  50D1A8 $ACCESS:ITEMGUIA
-  50D1AC $RELATE:PARAMFE3
-  50D1B0 $ACCESS:PARAMFE3
-  50D1B4 $RELATE:PARAMFE
-  50D1B8 $ACCESS:PARAMFE
-  50D1BC $RELATE:ZONAS
-  50D1C0 $ACCESS:ZONAS
-  50D1C4 $RELATE:ITEMFAC
-  50D1C8 $ACCESS:ITEMFAC
-  50D1CC $RELATE:APLIGUIA
-  50D1D0 $ACCESS:APLIGUIA
-  50D1D4 $RELATE:APLIFAC
-  50D1D8 $ACCESS:APLIFAC
-  50D1DC $RELATE:FE_RESPUESTA_RECE
-  50D1E0 $ACCESS:FE_RESPUESTA_RECE
-  50D1E4 $RELATE:FE_RECE
-  50D1E8 $ACCESS:FE_RECE
-  50D1EC $RELATE:LOCALIDA
-  50D1F0 $ACCESS:LOCALIDA
-  50D1F4 $RELATE:FACPROV
-  50D1F8 $ACCESS:FACPROV
-  50D1FC $RELATE:GUIAS
-  50D200 $ACCESS:GUIAS
-  50D204 $RELATE:FACTURAS
-  50D208 $ACCESS:FACTURAS
-  50D20C $RELATE:VISITAS
-  50D210 $ACCESS:VISITAS
-  50D214 $RELATE:PARAMETRO
-  50D218 $ACCESS:PARAMETRO
-  50D21C $RELATE:PROVEEDORES
-  50D220 $ACCESS:PROVEEDORES
-  50D224 $RELATE:REDESPACHO
-  50D228 $ACCESS:REDESPACHO
-  50D22C $RELATE:COMPROBANTES
-  50D230 $ACCESS:COMPROBANTES
-  50D234 $RELATE:CITIA
-  50D238 $ACCESS:CITIA
-  50D23C $RELATE:CITIC
-  50D240 $ACCESS:CITIC
-  50D244 $RELATE:CITICA
-  50D248 $ACCESS:CITICA
-  50D24C $RELATE:CITI
-  50D250 $ACCESS:CITI
-  50D254 $RELATE:CLIENTES
-  50D258 $ACCESS:CLIENTES
-  50E7F0 $FILESMANAGER
-  50E808 $SZDBTEXTLOG
-  50E910 P193$DBTEXTLOGFILE$RECORD
-  50ECFC P80$EXTRACTFILE$EXTRACTFILE@:RECORD
-  50F0FC WMFINFILE$WMFF@:RECORD
-  510488 P20$OUTFILE$OUTFILE@:RECORD
-  51848C P21$INFILE$INFILE@:RECORD
+  50C0D0 APLIGUIA$APGUIA:RECORD
+  50C0D8 APLIFAC$APFAC:RECORD
+  50C100 FE_RESPUESTA_RECE$FE_RESP:RECORD
+  50C224 FE_RECE$FRECE:RECORD
+  50C348 LOCALIDA$LOC:RECORD
+  50C368 FACPROV$FCP:RECORD
+  50C3E8 GUIAS$GUIA:RECORD
+  50C53C FACTURAS$FAC:RECORD
+  50C7D4 VISITAS$VIS:RECORD
+  50C7DC PARAMETRO$PAR:RECORD
+  50C8AC PROVEEDORES$PROV:RECORD
+  50C9D4 REDESPACHO$RD:RECORD
+  50C9E4 COMPROBANTES$CPTE:RECORD
+  50CA04 CITIA$CITIA:RECORD
+  50CB94 CITIC$CITIC:RECORD
+  50CD24 CITICA$CITICA:RECORD
+  50CEB4 CITI$CITI:RECORD
+  50D044 CLIENTES$CLI:RECORD
+  50D138 $RELATE:LOCALIDAD2
+  50D13C $ACCESS:LOCALIDAD2
+  50D140 $RELATE:DESTINATARIO
+  50D144 $ACCESS:DESTINATARIO
+  50D148 $RELATE:REMITENTE
+  50D14C $ACCESS:REMITENTE
+  50D150 $RELATE:RECIBOS
+  50D154 $ACCESS:RECIBOS
+  50D158 $RELATE:CATIVAREM
+  50D15C $ACCESS:CATIVAREM
+  50D160 $RELATE:CATIVADES
+  50D164 $ACCESS:CATIVADES
+  50D168 $RELATE:TRANSLOC
+  50D16C $ACCESS:TRANSLOC
+  50D170 $RELATE:BANCOS
+  50D174 $ACCESS:BANCOS
+  50D178 $RELATE:VALORES
+  50D17C $ACCESS:VALORES
+  50D180 $RELATE:DISTRIBUIDORES
+  50D184 $ACCESS:DISTRIBUIDORES
+  50D188 $RELATE:DIAS
+  50D18C $ACCESS:DIAS
+  50D190 $RELATE:CATIVA
+  50D194 $ACCESS:CATIVA
+  50D198 $RELATE:TRANSPOR
+  50D19C $ACCESS:TRANSPOR
+  50D1A0 $RELATE:PROVINCI
+  50D1A4 $ACCESS:PROVINCI
+  50D1A8 $RELATE:ITEMGUIA
+  50D1AC $ACCESS:ITEMGUIA
+  50D1B0 $RELATE:PARAMFE3
+  50D1B4 $ACCESS:PARAMFE3
+  50D1B8 $RELATE:PARAMFE
+  50D1BC $ACCESS:PARAMFE
+  50D1C0 $RELATE:ZONAS
+  50D1C4 $ACCESS:ZONAS
+  50D1C8 $RELATE:ITEMFAC
+  50D1CC $ACCESS:ITEMFAC
+  50D1D0 $RELATE:APLIGUIA
+  50D1D4 $ACCESS:APLIGUIA
+  50D1D8 $RELATE:APLIFAC
+  50D1DC $ACCESS:APLIFAC
+  50D1E0 $RELATE:FE_RESPUESTA_RECE
+  50D1E4 $ACCESS:FE_RESPUESTA_RECE
+  50D1E8 $RELATE:FE_RECE
+  50D1EC $ACCESS:FE_RECE
+  50D1F0 $RELATE:LOCALIDA
+  50D1F4 $ACCESS:LOCALIDA
+  50D1F8 $RELATE:FACPROV
+  50D1FC $ACCESS:FACPROV
+  50D200 $RELATE:GUIAS
+  50D204 $ACCESS:GUIAS
+  50D208 $RELATE:FACTURAS
+  50D20C $ACCESS:FACTURAS
+  50D210 $RELATE:VISITAS
+  50D214 $ACCESS:VISITAS
+  50D218 $RELATE:PARAMETRO
+  50D21C $ACCESS:PARAMETRO
+  50D220 $RELATE:PROVEEDORES
+  50D224 $ACCESS:PROVEEDORES
+  50D228 $RELATE:REDESPACHO
+  50D22C $ACCESS:REDESPACHO
+  50D230 $RELATE:COMPROBANTES
+  50D234 $ACCESS:COMPROBANTES
+  50D238 $RELATE:CITIA
+  50D23C $ACCESS:CITIA
+  50D240 $RELATE:CITIC
+  50D244 $ACCESS:CITIC
+  50D248 $RELATE:CITICA
+  50D24C $ACCESS:CITICA
+  50D250 $RELATE:CITI
+  50D254 $ACCESS:CITI
+  50D258 $RELATE:CLIENTES
+  50D25C $ACCESS:CLIENTES
+  50E7F8 $FILESMANAGER
+  50E810 $SZDBTEXTLOG
+  50E918 P193$DBTEXTLOGFILE$RECORD
+  50ED04 P80$EXTRACTFILE$EXTRACTFILE@:RECORD
+  50F104 WMFINFILE$WMFF@:RECORD
+  510490 P20$OUTFILE$OUTFILE@:RECORD
+  518494 P21$INFILE$INFILE@:RECORD
   521000 __import_section_start
   5230DC __import_section_end
 
@@ -2908,4 +2909,4 @@ USER32.dll:SystemParametersInfoA 5219DC
 
 
 
-Entry Point:   4B082C
+Entry Point:   4B08D8

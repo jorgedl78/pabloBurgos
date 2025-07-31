@@ -15,7 +15,7 @@ GuiasSinFacturar PROCEDURE                                 ! Generated from proc
 Progress:Thermometer BYTE                                  !
 FilesOpened          BYTE                                  !
 loc:Nombre           STRING(40)                            !
-loc:Total            DECIMAL(9,2)                          !
+loc:Total            DECIMAL(14,2)                         !
 Process:View         VIEW(PARAMETRO)
                        PROJECT(PAR:RazonSocial)
                      END
@@ -53,8 +53,8 @@ detalle                DETAIL,AT(,,,156),USE(?detalle),FONT('Arial',8,,FONT:regu
                        END
 total                  DETAIL,AT(,,,281),USE(?total)
                          LINE,AT(5708,52,1042,0),USE(?Line1),COLOR(COLOR:Black)
-                         STRING('TOTAL'),AT(5281,104),USE(?String20),TRN,FONT(,,COLOR:Black,FONT:bold)
-                         STRING(@n12.2),AT(5813,104),USE(loc:Total),TRN,RIGHT(1),FONT(,,COLOR:Black,FONT:bold)
+                         STRING('TOTAL'),AT(4844,104),USE(?String20),TRN,FONT(,,COLOR:Black,FONT:bold)
+                         STRING(@n17.2),AT(5510,104),USE(loc:Total),TRN,RIGHT(1),FONT(,,COLOR:Black,FONT:bold)
                        END
                      END
 ThreadNo 	LONG,STATIC

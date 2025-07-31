@@ -28,6 +28,8 @@ loc:localidad        STRING(30)                            !
 loc:telefono         STRING(30)                            !
 loc:ivaresponsable   STRING(20)                            !
 loc:tipo_comprobante STRING(20)                            !
+loc:OtrosImpuestos   DECIMAL(7,2)                          !
+loc:ImporteIvaInforme DECIMAL(9,2)                         !
 Process:View         VIEW(FACTURAS)
                        PROJECT(FAC:CAE)
                        PROJECT(FAC:CUITDestino)
@@ -108,57 +110,64 @@ espacio                DETAIL,AT(,,,208),USE(?espacio)
                        END
 pie                    DETAIL,AT(,,,6625),USE(?pie)
                          STRING('X'),AT(5781,-604,292,198),USE(?FleteOrigen),TRN,HIDE,CENTER,FONT('Arial',12,COLOR:Black,FONT:regular)
-                         TEXT,AT(240,4344,2385,854),USE(FAC:Observacion),BOXED,TRN
+                         TEXT,AT(240,3750,2385,854),USE(FAC:Observacion),BOXED,TRN
                          STRING('CAE:'),AT(6021,5667),USE(?String36:26),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
                          STRING('Vencimiento:'),AT(5750,5906),USE(?String36:27),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         LINE,AT(5719,4146,1667,0),USE(?Line6:2),COLOR(COLOR:Black)
+                         LINE,AT(5719,4188,1667,0),USE(?Line6:2),COLOR(COLOR:Black)
                          IMAGE,AT(240,5458,1000,1000),USE(?Image1)
-                         STRING('Subtotal:'),AT(5917,4219),USE(?String36:23),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING('IVA'),AT(6219,4573),USE(?String36:24),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@n-11.2),AT(6677,4219),USE(loc:Subtotal),TRN,RIGHT(1)
-                         TEXT,AT(240,31,4500,719),USE(loc:DetalleGuias),BOXED,TRN,HIDE
-                         LINE,AT(4177,2042,0,1646),USE(?Line3),COLOR(COLOR:Black)
-                         LINE,AT(323,2052,7333,0),USE(?Line1:3),COLOR(COLOR:Black)
-                         LINE,AT(313,2354,7333,0),USE(?Line1:6),COLOR(COLOR:Black)
-                         STRING('Destino'),AT(6063,2125),USE(?String36:7),TRN
-                         STRING('Remitente'),AT(1958,2135),USE(?String36:6),TRN
-                         STRING('Nombre:'),AT(4646,2448),USE(?String36:14),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING('Nombre:'),AT(927,2458),USE(?String36:8),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s40),AT(1500,2458,2542,177),USE(FAC:NombreRemitente),TRN,FONT(,,COLOR:Black,FONT:bold)
-                         STRING(@s40),AT(5260,2458,2573,167),USE(FAC:NombreDestino),TRN,FONT(,,COLOR:Black,FONT:bold)
-                         STRING('CUIT:'),AT(4802,2677),USE(?String36:15),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING('CUIT:'),AT(1083,2688),USE(?String36:9),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@P##-########-#Pb),AT(1500,2688),USE(FAC:CUITRemitente),TRN
-                         STRING(@P##-########-#Pb),AT(5260,2688,865,167),USE(FAC:CUITDestino),TRN
-                         STRING('Domicilio:'),AT(4604,2906),USE(?String36:16),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s30),AT(5260,2906),USE(FAC:DireccionDestino),TRN
-                         STRING('Domicilio:'),AT(885,2917),USE(?String36:10),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s30),AT(1500,2917),USE(FAC:DireccionRemitente),TRN
-                         STRING('Localidad:'),AT(4552,3135),USE(?String36:17),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s30),AT(5260,3135,1625,177),USE(FAC:LocalidadDestino),TRN
-                         STRING('Localidad:'),AT(833,3146),USE(?String36:11),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s30),AT(1500,3146,1698,177),USE(FAC:LocalidadRemitente),TRN
-                         STRING('Telefono:'),AT(4594,3396),USE(?String36:13),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING('Telefono:'),AT(875,3406),USE(?String36:12),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@s35),AT(5250,3406,990,167),USE(FAC:TelefonoDestino),TRN
-                         STRING(@s35),AT(1521,3417,1302,167),USE(FAC:TelefonoRemitente),TRN
-                         LINE,AT(281,3677,7333,0),USE(?Line1:7),COLOR(COLOR:Black)
+                         STRING('Subtotal: $'),AT(5854,3625),USE(?String36:23),TRN,RIGHT,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING('IVA: $'),AT(6031,3979,417,177),USE(?String36:24),TRN,RIGHT,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@n-11.2),AT(6677,3625),USE(loc:Subtotal),TRN,RIGHT(1)
+                         TEXT,AT(219,219,4500,719),USE(loc:DetalleGuias),BOXED,TRN,HIDE
+                         LINE,AT(4177,1427,0,1646),USE(?Line3),COLOR(COLOR:Black)
+                         LINE,AT(323,1427,7333,0),USE(?Line1:3),COLOR(COLOR:Black)
+                         LINE,AT(313,1760,7333,0),USE(?Line1:6),COLOR(COLOR:Black)
+                         STRING('Destino'),AT(6063,1542),USE(?String36:7),TRN
+                         STRING('Remitente'),AT(1958,1552),USE(?String36:6),TRN
+                         STRING('Nombre:'),AT(4646,1865),USE(?String36:14),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING('Nombre:'),AT(927,1875),USE(?String36:8),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s40),AT(1500,1875,2542,177),USE(FAC:NombreRemitente),TRN,FONT(,,COLOR:Black,FONT:bold)
+                         STRING(@s40),AT(5260,1875,2573,167),USE(FAC:NombreDestino),TRN,FONT(,,COLOR:Black,FONT:bold)
+                         STRING('CUIT:'),AT(4802,2094),USE(?String36:15),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING('CUIT:'),AT(1083,2104),USE(?String36:9),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@P##-########-#Pb),AT(1500,2104),USE(FAC:CUITRemitente),TRN
+                         STRING(@P##-########-#Pb),AT(5260,2104,865,167),USE(FAC:CUITDestino),TRN
+                         STRING('Domicilio:'),AT(4604,2323),USE(?String36:16),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s30),AT(5260,2323),USE(FAC:DireccionDestino),TRN
+                         STRING('Domicilio:'),AT(885,2333),USE(?String36:10),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s30),AT(1500,2333),USE(FAC:DireccionRemitente),TRN
+                         STRING('Localidad:'),AT(4552,2552),USE(?String36:17),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s30),AT(5260,2552,1625,177),USE(FAC:LocalidadDestino),TRN
+                         STRING('Localidad:'),AT(833,2563),USE(?String36:11),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s30),AT(1500,2563,1698,177),USE(FAC:LocalidadRemitente),TRN
+                         STRING('Telefono:'),AT(4594,2813),USE(?String36:13),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING('Telefono:'),AT(875,2823),USE(?String36:12),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING(@s35),AT(5250,2823,990,167),USE(FAC:TelefonoDestino),TRN
+                         STRING(@s35),AT(1521,2833,1302,167),USE(FAC:TelefonoRemitente),TRN
+                         LINE,AT(281,3073,7333,0),USE(?Line1:7),COLOR(COLOR:Black)
                          LINE,AT(146,5406,7333,0),USE(?Line1:5),COLOR(COLOR:Black)
-                         LINE,AT(6500,5271,0,-1479),USE(?Line9),COLOR(COLOR:Black)
-                         STRING('Valor declarado:'),AT(3177,5073),USE(?String36:21),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         LINE,AT(5729,4833,1677,0),USE(?Line6:3),COLOR(COLOR:Black)
-                         BOX,AT(5719,3781,1677,1490),USE(?Box2),COLOR(COLOR:Black)
+                         GROUP,AT(219,4563,5010,740),USE(?GroupLey),BOXED,HIDE
+                           STRING('Régimen de Transparencia Fiscal al Consumidor (Ley 27.743)'),AT(281,4688),USE(?String36:41),TRN,RIGHT,FONT(,,,FONT:bold+FONT:underline,CHARSET:ANSI)
+                           STRING('IVA Contenido: $'),AT(2688,4958,958,177),USE(?String36:42),TRN,LEFT,FONT(,,,FONT:bold,CHARSET:ANSI)
+                           STRING(@n-13.2),AT(3656,4969),USE(loc:ImporteIvaInforme),TRN,RIGHT(2)
+                           STRING('Otros Impuestos Nacionales Indirectos: $'),AT(1271,5094),USE(?String36:43),TRN,LEFT,FONT(,,,FONT:bold,CHARSET:ANSI)
+                           STRING(@n-10.2),AT(3813,5094),USE(loc:OtrosImpuestos),TRN,RIGHT(2)
+                         END
+                         LINE,AT(6500,3167,0,-1479),USE(?Line9),COLOR(COLOR:Black)
+                         STRING('Valor declarado:'),AT(3177,4479),USE(?String36:21),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         LINE,AT(5729,3531,1677,0),USE(?Line6:3),COLOR(COLOR:Black)
+                         BOX,AT(5719,3188,1677,1490),USE(?Box2),COLOR(COLOR:Black)
                          STRING(@n-11.2),AT(6771,-542),USE(loc:Neto),TRN,RIGHT(2)
-                         STRING(@n10.2),AT(4115,5063),USE(FAC:ValorDeclarado),TRN,RIGHT(1)
-                         STRING(@n-10.2b),AT(6740,4573),USE(FAC:IVA),TRN,RIGHT(2)
-                         STRING('Total'),AT(6063,4969),USE(?String36:25),TRN,FONT(,10,,FONT:bold,CHARSET:ANSI)
-                         STRING(@n10.2b),AT(6719,3917),USE(loc:Seguro),TRN,RIGHT(1)
-                         LINE,AT(5719,4500,1677,0),USE(?Line6),COLOR(COLOR:Black)
+                         STRING(@n10.2),AT(4115,4469),USE(FAC:ValorDeclarado),TRN,RIGHT(1)
+                         STRING(@n-10.2b),AT(6740,3979),USE(FAC:IVA),TRN,RIGHT(2)
+                         STRING('Total: $'),AT(5958,4375),USE(?String36:25),TRN,RIGHT,FONT(,10,,FONT:bold,CHARSET:ANSI)
+                         STRING(@n10.2b),AT(6719,3323),USE(loc:Seguro),TRN,RIGHT(1)
+                         LINE,AT(5719,3865,1677,0),USE(?Line6),COLOR(COLOR:Black)
                          IMAGE('afip.JPG'),AT(1385,5604),USE(?Image2)
-                         STRING('Seguro'),AT(6000,3917),USE(?String36:22),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
+                         STRING('Seguro: $'),AT(5906,3323),USE(?String36:22),TRN,RIGHT,FONT(,,,FONT:bold,CHARSET:ANSI)
                          STRING('X'),AT(5781,-188,292,198),USE(?FleteDestino),TRN,HIDE,CENTER,FONT('Arial',12,COLOR:Black,FONT:regular)
                          STRING('Vencimiento:'),AT(0,0),USE(?String36:39),TRN,FONT(,,,FONT:bold,CHARSET:ANSI)
-                         STRING(@n-11.2),AT(6510,4969),USE(FAC:Importe),RIGHT(1),FONT(,10,,,CHARSET:ANSI)
+                         STRING(@n-11.2),AT(6510,4375),USE(FAC:Importe),RIGHT(1),FONT(,10,,,CHARSET:ANSI)
                          STRING(@s20),AT(6302,5667,896,177),USE(FAC:CAE),RIGHT
                          STRING(@d6),AT(6542,5906),USE(FAC:FechaCAE),RIGHT
                        END
@@ -477,7 +486,11 @@ SkipDetails BYTE
   
     SETTARGET(REPORT,?pie)
       IF b# = 1 THEN UNHIDE(?loc:DetalleGuias).
-      IF FAC:Letra = 'B' THEN HIDE(?FAC:IVA).
+      IF FAC:Letra = 'B' THEN
+          HIDE(?FAC:IVA)
+          UNHIDE(?GroupLey)
+      END
+  
     SETTARGET
   
     CLEAR(loc:Seguro)
@@ -487,8 +500,13 @@ SkipDetails BYTE
     ELSE
       loc:Neto = FAC:Neto * iva$
       IF FAC:Seguro THEN loc:Seguro = FAC:Seguro * iva$.
+  
     END
     loc:Subtotal = loc:Neto + loc:Seguro
+  
+    loc:ImporteIvaInforme=FAC:IVA
+    loc:OtrosImpuestos=0
+  
     PRINT(RPT:pie)
   
   end

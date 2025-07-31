@@ -26,7 +26,7 @@ QuickWindow          WINDOW('Update the ITEMFAC File'),AT(,,278,57),FONT('MS San
                        PROMPT('Descripción'),AT(62,11),USE(?ITFAC:Descripcion:Prompt),TRN
                        ENTRY(@s40),AT(62,21,157,10),USE(ITFAC:Descripcion),REQ,UPR
                        PROMPT('Importe'),AT(223,11),USE(?ITFAC:Importe:Prompt),TRN
-                       ENTRY(@n10.2),AT(223,21,44,10),USE(ITFAC:Importe),RIGHT(1)
+                       ENTRY(@n15.2),AT(223,21,44,10),USE(ITFAC:Importe),RIGHT(1)
                        BUTTON,AT(226,37,17,14),USE(?OK),FLAT,ICON('C:\Comisiones\ComisionesSRL\botones\ok.gif')
                        BUTTON,AT(249,37,17,14),USE(?Cancel),FLAT,ICON('C:\Comisiones\ComisionesSRL\botones\cancel.gif')
                      END

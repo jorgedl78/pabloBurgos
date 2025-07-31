@@ -262,7 +262,7 @@ QuickWindow          WINDOW('Update the FACTURAS File'),AT(,,529,353),FONT('MS S
                        SHEET,AT(10,128,478,95),USE(?Sheet1),ABOVE(68)
                          TAB('Contado'),USE(?Contado)
                            LIST,AT(65,147,301,49),USE(?List:3),IMM,COLOR(0F5F5F5H),FORMAT('40R(3)|F~Cantidad~L(2)@n10.2@160L(2)|F~Descripción~@s40@40R(3)|F~Importe~L(2)@n1' &|
-   '0.2@'),FROM(Queue:Browse:2)
+   '5.2@'),FROM(Queue:Browse:2)
                            BUTTON('Agregar'),AT(65,201,42,12),USE(?Insert),SKIP
                            BUTTON('Modificar'),AT(107,201,42,12),USE(?Change),SKIP
                            BUTTON('Borrar'),AT(149,201,42,12),USE(?Delete),SKIP
@@ -294,13 +294,13 @@ QuickWindow          WINDOW('Update the FACTURAS File'),AT(,,529,353),FONT('MS S
                        END
                        BOX,AT(332,233,154,50),USE(?Box1),ROUND,COLOR(COLOR:Black),FILL(0E2E2E2H)
                        PROMPT('Flete Básico:'),AT(336,235),USE(?FAC:Neto:Prompt),TRN
-                       ENTRY(@n-11.2),AT(383,235,88,10),USE(FAC:Neto),SKIP,RIGHT(1),READONLY
+                       ENTRY(@n-15.2),AT(383,235,88,10),USE(FAC:Neto),SKIP,RIGHT(1),READONLY
                        PROMPT('Seguro:'),AT(352,247),USE(?FAC:Seguro:Prompt),TRN
-                       ENTRY(@n11.2),AT(383,247,88,10),USE(FAC:Seguro),RIGHT(1),COLOR(0F5F5F5H)
+                       ENTRY(@n15.2),AT(383,247,88,10),USE(FAC:Seguro),RIGHT(1),COLOR(0F5F5F5H)
                        PROMPT('IVA:'),AT(363,259),USE(?FAC:IVA:Prompt),TRN
-                       ENTRY(@n-11.2),AT(383,259,88,10),USE(FAC:IVA),SKIP,RIGHT(2),READONLY
+                       ENTRY(@n-15.2),AT(383,259,88,10),USE(FAC:IVA),SKIP,RIGHT(2),READONLY
                        PROMPT('TOTAL:'),AT(347,271),USE(?FAC:Importe:Prompt),TRN,FONT(,,,FONT:bold)
-                       ENTRY(@n-11.2),AT(383,271,88,10),USE(FAC:Importe),SKIP,RIGHT(1),FONT(,,,FONT:bold),COLOR(0C8FFC8H),READONLY
+                       ENTRY(@n-15.2),AT(383,271,88,10),USE(FAC:Importe),SKIP,RIGHT(1),FONT(,,,FONT:bold),COLOR(0C8FFC8H),READONLY
                        STRING('Observación:'),AT(13,232),USE(?String5),TRN
                        TEXT,AT(12,241,117,42),USE(FAC:Observacion),SKIP,BOXED,VSCROLL,FONT(,,COLOR:Red,FONT:bold),COLOR(COLOR:Silver),UPR
                        LINE,AT(10,287,481,0),USE(?Line1),COLOR(COLOR:Gray),LINEWIDTH(2)
@@ -590,7 +590,7 @@ SolicitarNroCAE ROUTINE
   loc:estado_fe=''
   !message('IFE.exe ' & clip(loc:descripcion_comprobante) & '|' & FAC:Letra & '|' & FAC:CUITRemitente & '|' &  loc:baseimponible21 & '|' & loc:baseimponible105 & '|' & Loc:Monto_IVA_Inscripto & '|' & Loc:Monto_IVA_Inscripto10 & '|' & Loc:ImporteTotal & '|' & '0' & '|' & Format(Loc:Fecha,@d012),1)
   
-  run('IFE.exe ' & clip(loc:descripcion_comprobante) & '|' & FAC:Letra & '|' & FAC:CUITRemitente & '|' &  loc:baseimponible21 & '|' & loc:baseimponible105 & '|' & Loc:Monto_IVA_Inscripto & '|' & Loc:Monto_IVA_Inscripto10 & '|' & Loc:ImporteTotal & '|' & '0' & '|' & Format(Loc:Fecha,@d012),1)
+  run('IFE.exe ' & clip(loc:descripcion_comprobante) & '|' & FAC:Letra & '|' & FAC:CUITRemitente & '|' &  loc:baseimponible21 & '|' & loc:baseimponible105 & '|' & Loc:Monto_IVA_Inscripto & '|' & Loc:Monto_IVA_Inscripto10 & '|' & Loc:ImporteTotal & '|' & '0' & '|' & Format(Loc:Fecha,@d012) & '|' & RTE:PosicionIVA ,1)
 
   loc:estado_fe=GETINI('RESPUESTA','ESTADO',,'.\IFERespuesta.INI')
   loc:mensaje_fe=GETINI('RESPUESTA','MENSAJE',,'.\IFERespuesta.INI')

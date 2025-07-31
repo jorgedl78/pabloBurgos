@@ -1,0 +1,50 @@
+------------------------------------------------------------
+31/07/2025 11:49:36
+ns1:coe.alreadyAuthenticated: El CEE ya posee un TA valido para el acceso al WSN solicitado
+
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:ser="https://wsaahomo.afip.gov.ar/ws/services/LoginCms" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Header/>
+<soapenv:Body>
+    <ser:loginCms><in0>MIIG+wYJKoZIhvcNAQcCoIIG7DCCBugCAQExDzANBglghkgBZQMEAgEFADCCAR8G
+CSqGSIb3DQEHAaCCARAEggEMPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0i
+VVRGLTgiPz48bG9naW5UaWNrZXRSZXF1ZXN0IHZlcnNpb249IjEuMCI+PGhlYWRl
+cj48dW5pcXVlSWQ+MTc1Mzk3MzM2NTwvdW5pcXVlSWQ+PGdlbmVyYXRpb25UaW1l
+PjIwMjUtMDctMzFUMDE6NDk6MjU8L2dlbmVyYXRpb25UaW1lPjxleHBpcmF0aW9u
+VGltZT4yMDI1LTA3LTMxVDIxOjQ5OjI1PC9leHBpcmF0aW9uVGltZT48L2hlYWRl
+cj48c2VydmljZT53c2ZlPC9zZXJ2aWNlPjwvbG9naW5UaWNrZXRSZXF1ZXN0PqCC
+A1MwggNPMIICN6ADAgECAgg2XSOkO8WLOTANBgkqhkiG9w0BAQ0FADA4MRowGAYD
+VQQDDBFDb21wdXRhZG9yZXMgVGVzdDENMAsGA1UECgwEQUZJUDELMAkGA1UEBhMC
+QVIwHhcNMjUwNzIwMTQyNDI0WhcNMjcwNzIwMTQyNDI0WjA1MRgwFgYDVQQDDA9q
+ZGxIb21vbG9nYWNpb24xGTAXBgNVBAUTEENVSVQgMjAyNjUyOTk3MjYwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7yd1prjBbBc7DjWS9DAq2ERfiaKbT
++H3V1myr///5FV2ob/F/xj1XY9tIgL14QvrJUC33EQ9uVdgueqk3koLsxRPXAKej
+0v/ugWckeNTa7m8INJ+f16UY7bHyIYzrjLirZ3JkAPtrTJfySkjYLfo43yyRDP11
+aRLE6Jdf9N+EYG7ZX+pv6Q1E0sg/Pz+wb3louufgWM6DDrYasIqwW/UVxsvV1dsM
+lYn4O+qT5yaeSdAJkTNHp0DouFCjyHzBg+YyJslKLCxfIlumrYzBAHVMsZIwHJnn
+8eZEQANU7ejHY1U6bv5CPcGvq9bXA7iyN6bsFcJvt45qfw6yAivTev6JAgMBAAGj
+YDBeMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUs7LT//3put7eja8RIZzWIH3y
+T28wHQYDVR0OBBYEFNHpIqkIwqOO5brH70ozEq0PtAADMA4GA1UdDwEB/wQEAwIF
+4DANBgkqhkiG9w0BAQ0FAAOCAQEAjBPksGvzUwSr+UIr0NnRh27Ir56xaBoMxDxD
+oWhjECLUEp2c19oQoVvlWACICQtYTfe+SxsrLRke8b0jijVA+1kb3Q3fIN/BBFIT
+NNBP6Opy67CN+X1ElNcLksTpkAKdD4ouo3iJwn4RzKQMKa3U156L6pSCzmg2Id4x
+PR8jXivBTXkT0/+J6wNtlB+G7oZwIO5k2ywuXVGBT7EN3O6DxnbfAWK428lIPW3c
+oYj1AU8mzFpB5GL4v3qxIEfiN5pZytxBq/+fPp3TXOvYHy/ZeM08haWhwoQe4f+P
+bgLv9woZ6Vvi3HuVhV/3SEKXYz/FsQe3AeqJ36nuu03eNUqTAjGCAlYwggJSAgEB
+MEQwODEaMBgGA1UEAwwRQ29tcHV0YWRvcmVzIFRlc3QxDTALBgNVBAoMBEFGSVAx
+CzAJBgNVBAYTAkFSAgg2XSOkO8WLOTANBglghkgBZQMEAgEFAKCB5DAYBgkqhkiG
+9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yNTA3MzExNDQ5MjVa
+MC8GCSqGSIb3DQEJBDEiBCCTGx9hbzfPIaJByzbb5Od6ZLrseE5K6zzmx1wR/cem
+xTB5BgkqhkiG9w0BCQ8xbDBqMAsGCWCGSAFlAwQBKjALBglghkgBZQMEARYwCwYJ
+YIZIAWUDBAECMAoGCCqGSIb3DQMHMA4GCCqGSIb3DQMCAgIAgDANBggqhkiG9w0D
+AgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIBKDANBgkqhkiG9w0BAQEFAASCAQBJ
+IvlpbtuE7Si27tPfQKDKyL7s6pZq+ezJkzb/9OjO2FpOmeuamsM/MWgpuX8hDbkn
+c0JWdxHk3rOvKOTXXvFMl2rHtAkspM8adKcko8nLCKL75pn0sb0bz4Bx5OoGVIjY
+oQb/jWif597ojJEfGyiDWSDa+JeXm+XC+qpblcW+Nyvv3FEtPMzWo7kCJWBGJFdQ
+rxMo5xifSxG+uKHhL1D89OpvImQZQKjwtqGRX09xCuWGnk0rQ+NU82IRezlauwgx
+nA5tAOEwlZR8TV1pFeypcorjn7gxdwfePWH/Yd2LN73J0vyWxZ/8+a6ie2RIPbO3
+qJ9bBGoLHcliUAlAxV+p
+
+</in0></ser:loginCms>
+</soapenv:Body>
+</soapenv:Envelope>
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><soapenv:Fault><faultcode xmlns:ns1="http://xml.apache.org/axis/">ns1:coe.alreadyAuthenticated</faultcode><faultstring>El CEE ya posee un TA valido para el acceso al WSN solicitado</faultstring><detail><ns2:exceptionName xmlns:ns2="http://xml.apache.org/axis/">gov.afip.desein.dvadac.sua.view.wsaa.LoginFault</ns2:exceptionName><ns3:hostname xmlns:ns3="http://xml.apache.org/axis/">wsaaext0.homo.afip.gov.ar</ns3:hostname></detail></soapenv:Fault></soapenv:Body></soapenv:Envelope>
